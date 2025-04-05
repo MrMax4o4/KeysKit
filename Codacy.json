@@ -1,0 +1,9 @@
+{
+  "name": "Codacy",
+  "method": "GET",
+  "header": "'api-token':'$API_Token'",
+  "url": "https://app.codacy.com/api/v3/user",
+  "body": "",
+  "note": "",
+  "description": "Codacy is an automated code review tool that helps developers save time in code reviews and manage technical debt. It automates repetitive tasks such as static analysis, code style checks, coverage checks, complexity checks, and duplication checks. Cod..."
+}

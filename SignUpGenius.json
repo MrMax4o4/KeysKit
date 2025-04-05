@@ -1,0 +1,9 @@
+{
+  "name": "SignUpGenius",
+  "method": "GET",
+  "header": "'Accept':'application/json'",
+  "url": "https://api.signupgenius.com/v2/k/user/profile/?user_key=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "SignUpGenius is an online sign up software that simplifies volunteer management and event planning. It allows users to build and customize online sign up sheets and schedules for various purposes such as schools, nonprofits, sports leagues, and busines..."
+}

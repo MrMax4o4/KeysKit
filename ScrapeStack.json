@@ -1,0 +1,9 @@
+{
+  "name": "ScrapeStack",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.scrapestack.com/scrape?access_key=$API_Key&url=$URL",
+  "body": "",
+  "note": "",
+  "description": "scrapestack is a company that provides a free Proxy & Web Scraping API. Their API allows users to extract HTML data from any web page, supporting 100 geolocations, CAPTCHAs, and IP rotation for millions of IPs. They have a pool of 35+ million datacente..."
+}

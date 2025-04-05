@@ -1,0 +1,9 @@
+{
+  "name": "Mercury",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Token','accept':'application/json'",
+  "url": "https://api.mercury.com/api/v1/accounts",
+  "body": "",
+  "note": "",
+  "description": "Mercury is a financial technology company that provides banking services for startups of all sizes. They offer a complete financial stack, including FDIC insured bank accounts, debit and credit cards, and easy payment flows. Startups can store, manage,..."
+}

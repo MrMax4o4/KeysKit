@@ -1,0 +1,9 @@
+{
+  "name": "Bolt",
+  "method": "GET",
+  "header": "'Authorization':'bearer $TOKEN'",
+  "url": "https://api.bolt.com/v1/account",
+  "body": "",
+  "note": "",
+  "description": "Bolt powers frictionless experiences for retailers and customers at every step of the shopping journey—from login to checkout. Retailers use Bolt's lightning fast, one click checkout to convert, retain, and delight more shoppers."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Artsy",
+  "method": "POST",
+  "header": "'Content-Type':'application/x-www-form-urlencoded'",
+  "url": "https://api.artsy.net/api/tokens/xapp_token",
+  "body": "client_id=$Client_ID&client_secret=$API_Secret",
+  "note": "",
+  "description": "Artsy is the world’s largest online art marketplace. Browse over 1 million artworks by iconic and emerging artists from 4000+ galleries and top auction houses. Bringing the art world online. For the art obsessed. Discover, buy, and sell art by the worl..."
+}

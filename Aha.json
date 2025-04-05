@@ -1,0 +1,8 @@
+{
+  "name": "Aha!",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Key'",
+  "url": "https://$Custom_Domain.aha.io/api/v1/users",
+  "body": "",
+  "description": "Aha! is the world's #1 product development software. More than 700,000 product builders trust us to build lovable products and be happy doing it. Aha! helps companies build lovable software. We provide the world's #1 product development tools — Aha! Ro..."
+}

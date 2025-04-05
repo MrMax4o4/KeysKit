@@ -1,0 +1,9 @@
+{
+  "name": "BinaryEdge",
+  "method": "GET",
+  "header": "'X-Key':'$API_Key'",
+  "url": "https://api.binaryedge.io/v2/user/subscription",
+  "body": "",
+  "note": "",
+  "description": "BinaryEdge is a cybersecurity company that specializes in scanning the internet and acquiring data that can be transformed into threat intelligence feeds or security reports. They focus on areas such as cybersecurity, data science, and machine learning..."
+}

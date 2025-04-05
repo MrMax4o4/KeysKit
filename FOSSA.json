@@ -1,0 +1,9 @@
+{
+  "name": "FOSSA",
+  "method": "GET",
+  "header": "'accept':'application/json','authorization':'Bearer $API_Key'",
+  "url": "https://app.fossa.com/api/v2/projects",
+  "body": "",
+  "note": "",
+  "description": "FOSSA is a company that provides audit-grade open source dependency protection. They help protect software against open source risks such as license violations, vulnerabilities, and supply chain threats. Their flagship product helps teams track the ope..."
+}

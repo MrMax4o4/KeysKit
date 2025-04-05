@@ -1,0 +1,9 @@
+{
+  "name": "Conversion Tools",
+  "method": "GET",
+  "header": "'Content-Type':'application/json','Authorization':'Bearer $API_Token'",
+  "url": "https://api.conversiontools.io/v1/tasks",
+  "body": "",
+  "note": "",
+  "description": "Conversion Tools is an online file converter that allows users to convert documents, PDFs, images, and other files between different formats. The service is secure and offers user accounts, conversion options, and a REST API and libraries for integrati..."
+}

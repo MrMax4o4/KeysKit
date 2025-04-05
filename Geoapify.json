@@ -1,0 +1,9 @@
+{
+  "name": "Geoapify",
+  "method": "GET",
+  "header": "",
+  "url": "https://maps.geoapify.com/v1/styles/osm-bright/style.json?apiKey=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "Geoapify is a feature-rich location platform suitable for businesses of any size. They offer maps, address and location search, route optimization, reachability analysis, geodata access, and more. Their goal is to make location intelligence available f..."
+}

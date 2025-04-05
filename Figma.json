@@ -1,0 +1,8 @@
+{
+  "name": "Figma",
+  "method": "GET",
+  "header": "'X-FIGMA-TOKEN':'$Access_Token'",
+  "url": "https://api.figma.com/v1/me",
+  "body": "",
+  "description": "Figma is a California based company operating in the technology sector. Figma is a collaborative web application for interface design, with additional offline features enabled by desktop applications for macOS and Windows. The feature set of Figma focu..."
+}

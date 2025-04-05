@@ -1,0 +1,9 @@
+{
+	"name": "Adobe",
+	"method": "GET",
+	"header": "'x-api-key':'$API_KEY','x-product':'$Product_ID'",
+	"url": "https://stock.adobe.io/Rest/Media/1/Search/Files?locale=en_US%2526search_parameters%255Bwords%255D=kittens",
+	"body": "",
+	"note": "",
+	"description": "Adobe is a software company that provides its users with digital marketing and media solutions. They offer a complete spectrum of capabilities, including tools for creating highly compelling content, delivering it across diverse media and devices, and ..."
+}

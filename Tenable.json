@@ -1,0 +1,9 @@
+{
+  "name": "Tenable",
+  "method": "GET",
+  "header": "'x-api-key':'$API_Key'",
+  "url": "https://customer.tenable.ad/api/users",
+  "body": "",
+  "note": "",
+  "description": "Tenable is a leading Cybersecurity Exposure Management Company. With Tenable's products, we can help you understand and reduce your cybersecurity exposure. From IT to the cloud, gain full visibility of the modern attack surface. Tenable is the Cyber Ex..."
+}

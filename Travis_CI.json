@@ -1,0 +1,9 @@
+{
+  "name": "Travis CI",
+  "method": "GET",
+  "header": "'Travis-API-Version':'3','Authorization':'token $Access_TOKEN'",
+  "url": "https://api.travis-ci.org/repos",
+  "body": "",
+  "note": "",
+  "description": "Travis CI is a leading provider of hosted Continuous Integration (CI) services. They offer a simple and efficient way to run and test projects on different environments simultaneously. Travis CI helps developers identify and fix bugs quickly by highlig..."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Courier",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Token'",
+  "url": "https://api.courier.com/lists",
+  "body": "",
+  "description": "Courier is a notification API built for developers. Design once, and deliver to any channel – email, Slack, SMS, push, and more – all through a single API. Courier’s API integrates with all communication channels and supports over 50 providers in a sin..."
+}

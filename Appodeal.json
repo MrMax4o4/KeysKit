@@ -1,0 +1,9 @@
+{
+  "name": "Appodeal",
+  "method": "GET",
+  "header": "",
+  "url": "https://api-services.appodeal.com/api/v2/stats_api?api_key=$API_Key&user_id=$User_ID&date_from=2019-05-13&date_to=2019-05-19&detalisation%5B%5D=date",
+  "body": "",
+  "note": "",
+  "description": "Appodeal is a comprehensive solution for mobile app monetization. It empowers publishers to maximize their revenue by engaging the entire ad ecosystem in real-time competition for every ad impression. Appodeal's platform is a large auction house that e..."
+}

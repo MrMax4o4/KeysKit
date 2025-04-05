@@ -1,0 +1,9 @@
+{
+  "name": "Addepar",
+  "method": "GET",
+  "header": "'accept':'application/vnd.api+json','Authorization':'Basic $Basic_Auth'",
+  "url": "https://$Firm_ID.addepar.com/api/v1/users",
+  "body": "",
+  "note": "Base64 encode as following \"API_KEY:API_Secret\"",
+  "description": "Addepar is the financial operating system designed to bring common sense and ethical, data driven investing to our financial world. Addepar handles all types of assets in any currency, so investors and advisors have a clearer financial picture at every..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Cloud Elements",
+  "method": "GET",
+  "header": "'Authorization':'User $User_Token'",
+  "url": "https://staging.cloud-elements.com/elements/api-v2/accounts",
+  "body": "",
+  "note": "",
+  "description": "Cloud Elements is an API integration platform that provides app connectors to connect users to a wide range of applications. They offer a uniform API that connects users with leading accounting systems and other services. With a catalog of over 125 Ele..."
+}

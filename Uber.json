@@ -1,0 +1,9 @@
+{
+  "name": "Uber",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $TOKEN','Accept-Language':'en_US','Content-Type':'application/json'",
+  "url": "https://api.uber.com/v1.2/me",
+  "body": "",
+  "note": "",
+  "description": "Uber is a mobile app connecting passengers with drivers for hire. We are Uber. The go getters. The kind of people who are relentless about our mission to help people go anywhere and get anything and earn their way. Movement is what we power. It’s our l..."
+}

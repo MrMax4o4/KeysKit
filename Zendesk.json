@@ -1,0 +1,9 @@
+{
+  "name": "Zendesk",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $ACCESS_TOKEN'",
+  "url": "https://$subdomain.zendesk.com/api/v2/tickets.json",
+  "body": "",
+  "note": "",
+  "description": "Zendesk is a software development firm providing a SaaS suite that offers help desk ticketing, issue tracking, and customer service support. Zendesk builds software for better customer relationships, empowering organizations to improve customer engagem..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Deputy",
+  "method": "GET",
+  "header": "'authorization':'Bearer $API_Token'",
+  "url": "https://$Install.$Geo.deputy.com/api/v1/resource/Company",
+  "body": "",
+  "note": "You need to have: https://${install}.${Geo}.deputy.com/",
+  "description": "Deputy is a cloud-based work scheduling and people management platform with social and mobile technologies at its core. It aims to help businesses save time and money by eliminating manual processes and paper-based systems. Deputy's leading workforce m..."
+}

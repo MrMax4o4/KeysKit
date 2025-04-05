@@ -1,0 +1,9 @@
+{
+  "name": "DomCop",
+  "method": "GET",
+  "header": "'API-OPR':'$API_Key'",
+  "url": "https://openpagerank.com/api/v1.0/getPageRank?domains[]=$Domain",
+  "body": "",
+  "note": "",
+  "description": "DomCop is a platform that allows users to buy expired domains with great backlinks from authority websites. The platform provides metrics from various sources such as Moz, Majestic, SEMrush, SimilarWeb, Estibot, Alexa, and DomainScope. Users can filter..."
+}

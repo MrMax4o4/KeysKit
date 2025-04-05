@@ -1,0 +1,9 @@
+{
+  "name": "Canny",
+  "method": "GET",
+  "header": "",
+  "url": "https://canny.io/api/v1/users/list?apiKey=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "Canny is a customer feedback management software and tools company. They help businesses collect, analyze, prioritize, and track user feedback to make informed product decisions. Canny provides a platform for teams to listen to their users and build be..."
+}

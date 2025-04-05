@@ -1,0 +1,9 @@
+{
+  "name": "Skedulo",
+  "method": "GET",
+  "header": "'accept':'application/json'",
+  "url": "https://api.skedulo.com/auth/whoami?access_token=$Access_Token",
+  "body": "",
+  "note": "",
+  "description": "Skedulo is a leading provider of deskless productivity and mobile workforce management solutions. Their powerful scheduling app and mobile workforce management software enable companies in any industry to schedule, manage, engage, and analyze their mob..."
+}

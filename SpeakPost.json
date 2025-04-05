@@ -1,0 +1,9 @@
+{
+  "name": "SpeakPost",
+  "method": "GET",
+  "header": "'Authorization':'$Access_Token'",
+  "url": "https://api.sparkpost.com/api/v1/account?include=usage",
+  "body": "",
+  "note": "",
+  "description": "MessageBird is an omnichannel communications platform that allows businesses to build communication solutions using their applications and APIs. They enable businesses to talk to customers over any channel, for any use case, anywhere in the world. Mess..."
+}

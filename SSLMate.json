@@ -1,0 +1,9 @@
+{
+  "name": "SSLMate",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://sslmate.com/api/v2/certs/$domain_Name",
+  "body": "",
+  "note": "Base64 encode as following \"{API_Key}\"",
+  "description": "SSLMate is a company that provides a range of products and services related to SSL certificates. They offer an easy way to acquire and monitor HTTPS certificates, making it simple to find and manage malicious and expiring certs with their Cert Spotter ..."
+}

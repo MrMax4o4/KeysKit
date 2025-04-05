@@ -1,0 +1,1 @@
+{"name":"Segment App","method":"GET","header":"'Authorization':'Bearer $API_TOKEN'","url":"https://api.segmentapis.com/warehouses?pagination%5Bcursor%5D=string","body":"","note":"","description":""}

@@ -1,0 +1,9 @@
+{
+  "name": "Apify",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.apify.com/v2/users/me?token=$API_key",
+  "body": "",
+  "note": "",
+  "description": "Apify is a web scraping and automation platform that lets you extract data from websites, process data, and automate workflows on the web. It is a full-stack web scraping and data extraction platform that offers a range of services and tools. With Apif..."
+}

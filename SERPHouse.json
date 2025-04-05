@@ -1,0 +1,9 @@
+{
+  "name": "SERPHouse",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_KEY'",
+  "url": "https://api.serphouse.com/account/info",
+  "body": "",
+  "note": "",
+  "description": "SERPHouse is a real-time search engine data provider that offers fast Google, Bing, and Yahoo SERP API services. With our API, you can access accurate search engine results page data effortlessly, allowing you to analyze and track your search engine ke..."
+}

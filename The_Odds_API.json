@@ -1,0 +1,9 @@
+{
+  "name": "The Odds API",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.the-odds-api.com/v4/sports/?apiKey=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "The Odds API is a sports odds data provider that offers a simple API for accessing odds data from bookmakers around the world. It covers a wide range of sports including NFL, NBA, EPL, and more. The API provides odds data for live and upcoming sports e..."
+}

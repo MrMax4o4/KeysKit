@@ -1,0 +1,9 @@
+{
+  "name": "currencyfreaks",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.currencyfreaks.com/v2.0/rates/latest?apikey=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "CurrencyFreaks is a company that provides free currency conversion and forex exchange rate API. They offer real-time exchange rate data for world currencies, including fiat currencies, metals, and cryptocurrencies. The data is sourced from trusted fore..."
+}

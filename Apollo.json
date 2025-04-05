@@ -1,0 +1,9 @@
+{
+  "name": "Apollo",
+  "method": "GET",
+  "header": "'Content-Type':'application/json','Cache-Control':'no-cache'",
+  "url": "https://api.apollo.io/v1/auth/health?api_key=$API_KEY",
+  "body": "",
+  "note": "",
+  "description": "Apollo.io is a sales intelligence and engagement platform that allows users to search, engage, and convert over 270 million contacts at over 73 million companies. It is an all-in-one sales intelligence platform that helps users find leads, contact them..."
+}

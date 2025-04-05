@@ -1,0 +1,9 @@
+{
+  "name": "Dwolla",
+  "method": "GET",
+  "header": "'Accept':'application/vnd.dwolla.v1.hal+json','Authorization':'Bearer $API_Token'",
+  "url": "https://api-sandbox.dwolla.com/events",
+  "body": "",
+  "note": "",
+  "description": "Dwolla is a digital payment network that securely connects with U.S. banks and credit unions to enable safe, fast, account to account transfers. We provide tools and services to enable a streamlined integration experience for businesses and platforms. ..."
+}

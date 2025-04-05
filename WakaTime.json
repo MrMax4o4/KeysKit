@@ -1,0 +1,9 @@
+{
+  "name": "WakaTime",
+  "method": "GET",
+  "header": "",
+  "url": "https://wakatime.com/api/v1/users/current?api_key=$API_KEY",
+  "body": "",
+  "note": "",
+  "description": "WakaTime is a personal analytics service for programmers that shows you how you spend your time and helps you be more productive. With over 43 text editors & IDEs supported and 700+ languages detected, WakaTime is the leading automated analytics platfo..."
+}

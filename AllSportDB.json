@@ -1,0 +1,9 @@
+{
+  "name": "AllSportDB",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Key'",
+  "url": "https://api.allsportdb.com/v3/sports?id=1&season=summer",
+  "body": "",
+  "note": "",
+  "description": "AllSportDB is a sports calendar and event database that provides details of hundreds of sport events around the world. It allows sports fans to keep track of their favorite sports and find information about future events by discipline, geographic locat..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Hello Sign",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.hellosign.com/v3/account",
+  "body": "",
+  "note": "Base64 encode as following \"{API_KEY}:\"",
+  "description": "Dropbox is a technology company that builds simple, powerful products for people and businesses. With 500 million users worldwide, Dropbox allows individuals and teams to work the way they want, on any device, wherever they go. Dropbox offers a full su..."
+}

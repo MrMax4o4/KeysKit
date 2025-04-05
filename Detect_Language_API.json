@@ -1,0 +1,9 @@
+{
+  "name": "Detect Language API",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $YOUR_API_KEY'",
+  "url": "https://ws.detectlanguage.com/0.2/user/status",
+  "body": "",
+  "note": "",
+  "description": "Detect Language API is a fast and reliable text language identification service. It can detect 164 languages and supports short texts, batch requests, and various programming languages such as JavaScript, Python, C#, Java, PHP, Go, and Ruby. The API an..."
+}

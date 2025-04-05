@@ -1,0 +1,9 @@
+{
+  "name": "CoinAPI",
+  "method": "GET",
+  "header": "'X-CoinAPI-Key':'$API_Key'",
+  "url": "https://rest.coinapi.io/v1/exchanges",
+  "body": "",
+  "note": "",
+  "description": "CoinAPI.io is a cryptocurrency API provider that offers fast, reliable, and unified data APIs to cryptocurrency markets. They provide market data API, EMS trading API, and analytics for non-dev crypto wallets. They also offer services such as crypto in..."
+}

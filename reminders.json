@@ -1,0 +1,9 @@
+{
+  "name": "reminders",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_token'",
+  "url": "https://reminders-api.com/api/user",
+  "body": "",
+  "note": "",
+  "description": "null"
+}

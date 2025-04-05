@@ -1,0 +1,9 @@
+{
+  "name": "COMPANY HUB",
+  "method": "GET",
+  "header": "'Authorization':'$Subdomain  $API_key','Content-Type':'application/json'",
+  "url": "https://api.companyhub.com/v1/me",
+  "body": "",
+  "note": "",
+  "description": "CompanyHub is a sales automation CRM for sales teams that can be completely tailored for your industry. It lets you create sales bots and automate your sales process. The CRM is fully customizable and offers features such as custom fields, tables, and ..."
+}

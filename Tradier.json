@@ -1,0 +1,9 @@
+{
+  "name": "Tradier",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $TOKEN','Accept':'application/json'",
+  "url": "https://api.tradier.com/v1/user/profile",
+  "body": "",
+  "note": "",
+  "description": "Tradier is a financial technology and brokerage services company that powers the world's leading trading, investing, and digital advisor platforms. They offer an innovative trading platform and a rich set of real-time APIs for developers, trading platf..."
+}

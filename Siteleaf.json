@@ -1,0 +1,9 @@
+{
+  "name": "Siteleaf",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.siteleaf.com/v2/sites",
+  "body": "",
+  "note": "Base64 encode as following \"{API_Key}:{API_Secret}\"",
+  "description": "Siteleaf is a friendly CMS for your static site. It is built for developers and loved by everyone. It supports Jekyll, user collaboration, publishing to AWS S3, GitHub Pages, FTP, and more. Siteleaf is trusted for over 10 years and is designed for actu..."
+}

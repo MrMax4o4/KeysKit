@@ -1,0 +1,8 @@
+{
+  "name": "Mailsac",
+  "method": "GET",
+  "header": "'Mailsac-Key':'$API_Key'",
+  "url": "https://mailsac.com/api/me",
+  "body": "",
+  "description": "mailsac is a company that provides disposable email services for testing applications. It offers instant email addresses for QA testing and fake development accounts, as well as simplified dev tools for SMTP. With mailsac, users can streamline their em..."
+}

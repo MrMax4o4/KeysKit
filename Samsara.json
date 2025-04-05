@@ -1,0 +1,9 @@
+{
+  "name": "Samsara",
+  "method": "GET",
+  "header": "'accept':'application/json','authorization':'Bearer $API_Token'",
+  "url": "https://api.samsara.com/users",
+  "body": "",
+  "note": "",
+  "description": "Samsara is a company that provides a Connected Operations Cloud platform, offering AI safety programs, real-time visibility, workflows, reporting, and integrations. Their platform connects the operations that power the global economy, including product..."
+}

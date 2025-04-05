@@ -1,0 +1,9 @@
+{
+  "name": "Cloze",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.cloze.com/v1/profile?user=$User_Email&api_key=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "Cloze is a relationship management app that helps users keep track of important people and posts. It brings together contacts from various platforms such as Twitter, Facebook, LinkedIn, and email, and organizes them in one place. Cloze uses advanced da..."
+}

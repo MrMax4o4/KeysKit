@@ -1,0 +1,9 @@
+{
+	"name": "EOS Nation - Post",
+	"method": "POST",
+	"header": "",
+	"url": "https://auth.eosnation.io/v1/auth/issue",
+	"body": "{'api_key':'$API_Key'}",
+	"note": "",
+	"description": "EOS Nation is a top block producer on the EOS, WAX, and Ultra public networks. They provide reliable infrastructure to secure EOSIO blockchains and aim to build a global community equipped with the tools and resources to thrive. They are operators of m..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Woopra",
+  "method": "GET",
+  "header": "'authorization':'Basic $Basic_Auth'",
+  "url": "https://www.woopra.com/rest/3.10/profile?project=$Project_Name&key=$API_Key&value=",
+  "body": "",
+  "note": "Base64 encode as following \"{CLIENT_ID}:{CLIENT_SECRET}\"",
+  "description": "Woopra is a real-time customer analytics service that provides solutions for sales, service, marketing, and product teams. The platform is designed to help organizations optimize the entire customer lifecycle by delivering live, granular behavioral dat..."
+}

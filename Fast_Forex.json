@@ -1,0 +1,8 @@
+{
+  "name": "Fast Forex",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.fastforex.io/fetch-all?api_key=$API_Key",
+  "body": "",
+  "description": "FastForex.io is a leading provider of exchange rate API, forex API, and currency API. Our API offers real-time and secure JSON data for over 145 world currencies, including cryptocurrencies. With an average response time of just 21ms, our API is incred..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "html2pdf",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.html2pdf.app/v1/generate?url=$URL&apiKey=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "HTML to PDF conversion API   html2pdf.app High quality HTML to PDF conversion API service. Easy API integration, browser based PDF engine, asynchronous request and much more Save your time and effort, by dedicating a PDF conversion task to us. High qua..."
+}

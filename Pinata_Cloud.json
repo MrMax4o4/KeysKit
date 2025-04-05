@@ -1,0 +1,9 @@
+{
+  "name": "Pinata.Cloud",
+  "method": "GET",
+  "header": "'pinata_api_key':'$API_Key','pinata_secret_api_key':'$Secret_Key'",
+  "url": "https://api.pinata.cloud/data/pinList?status=pinned",
+  "body": "",
+  "note": "",
+  "description": "Pinata is a web3 media and development platform that provides an IPFS API and IPFS Dedicated Gateway. With Pinata, developers can easily upload content to IPFS and fetch it quickly using Dedicated Gateways. The company is also a digital transformation ..."
+}

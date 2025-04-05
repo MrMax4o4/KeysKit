@@ -1,0 +1,9 @@
+{
+  "name": "Snipcart",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth','Accept':'application/json'",
+  "url": "https://app.snipcart.com/api/orders",
+  "body": "",
+  "note": "Base64 encode as following {Secret_Token}:",
+  "description": "Snipcart is a developer-first, low-footprint eCommerce platform that allows you to add a shopping cart to any website in minutes. With simple HTML markup, you can turn any existing website into an extensive shopping cart platform. Snipcart offers payme..."
+}

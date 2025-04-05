@@ -1,0 +1,9 @@
+{
+  "name": "OrgHunter",
+  "method": "GET",
+  "header": "",
+  "url": "http://data.orghunter.com/v1/charitybasic?user_key=$YOUR_API_KEY&ein=590774235",
+  "body": "",
+  "note": "",
+  "description": "OrgHunter is a technology company that enables entrepreneurs to reshape how and when people engage in philanthropy. Businesses of every size from new startups to public companies use our platform to enable their customers to support any eligible US Bas..."
+}

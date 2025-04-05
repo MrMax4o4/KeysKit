@@ -1,0 +1,9 @@
+{
+  "name": "Calendarific",
+  "method": "GET",
+  "header": "",
+  "url": "https://calendarific.com/api/v2/holidays?&api_key=$API_Key&country=US&year=2023",
+  "body": "",
+  "note": "",
+  "description": "Calendarific is a global event intelligence platform and a developer friendly worldwide holiday API covering public, bank, local, religious holidays and observances for over 230 countries. Calendarific is a developer friendly, worldwide RESTful API giv..."
+}

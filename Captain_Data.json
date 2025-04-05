@@ -1,0 +1,9 @@
+{
+  "name": "Captain Data",
+  "method": "GET",
+  "header": "'Authorization':'x-api-key $API_KEY','x-project-id':'$Project_ID'",
+  "url": "https://api.captaindata.co/v3/users",
+  "body": "",
+  "note": "",
+  "description": "Captain Data is a data extraction and automation platform that helps businesses manage their sales and marketing workflows. The platform allows users to extract, enrich, and automate data from over 30 sources on the web. With Captain Data, businesses c..."
+}

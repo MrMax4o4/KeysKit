@@ -1,0 +1,9 @@
+{
+  "name": "Gofile",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.gofile.io/getAccountDetails?token=$API_Key&allDetails=true",
+  "body": "",
+  "note": "",
+  "description": "Gofile offers a range of solutions related to storage, distribution, and data management. Whether you're looking to store data long term, collaborate in a team, distribute to a wide audience, or implement a storage system for your application, Gofile h..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "ProCore",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Token','Accept':'application.json'",
+  "url": "https://api.procore.com/users",
+  "body": "",
+  "note": "",
+  "description": "Procore Technologies, Inc. is a leading provider of cloud-based applications for construction. Procore Construction OS connects people, applications, and devices through a unified platform that helps construction firms manage risk and build quality pro..."
+}

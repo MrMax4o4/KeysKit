@@ -1,0 +1,9 @@
+{
+  "name": "Getaround",
+  "method": "GET",
+  "header": "'Authorization':'apikey $API_key'",
+  "url": "https://api.getaround.com/users/me",
+  "body": "",
+  "note": "",
+  "description": "Getaround is a car rental marketplace that empowers people to share and rent cars in their neighborhood. Getaround is a mobile application and a peer-to-peer car sharing marketplace that enables car owners to rent out their cars. Through our patented c..."
+}

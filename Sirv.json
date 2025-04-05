@@ -1,0 +1,9 @@
+{
+  "name": "Sirv",
+  "method": "POST",
+  "header": "'authorization':'Bearer BEARER_TOKEN_HERE','content-type':'application/json'",
+  "url": "https://api.sirv.com/v2/token",
+  "body": "{'clientId':'$Clinet_ID','clientSecret':'$Client_Secret'}",
+  "note": "",
+  "description": "Sirv is an image hosting platform that provides image optimization, processing, and hosting services. It allows users to manage, transform, optimize, and deliver digital assets for faster websites and apps. With Sirv, users have control over delivering..."
+}

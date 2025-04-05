@@ -1,0 +1,9 @@
+{
+  "name": "Carbon Interface",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Key'",
+  "url": "https://www.carboninterface.com/api/v1/auth",
+  "body": "",
+  "note": "",
+  "description": "Carbon Interface is a carbon emissions measurement platform for developers. It provides an easy-to-use API that allows developers to generate accurate emissions for common carbon emitting activities. With Carbon Interface, developers can calculate carb..."
+}

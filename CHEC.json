@@ -1,0 +1,9 @@
+{
+  "name": "CHEC",
+  "method": "GET",
+  "header": "'X-Authorization':'$Secret_Key'",
+  "url": "https://api.chec.io/v1/products",
+  "body": "",
+  "note": "",
+  "description": "Commerce.js is a flexible commerce engine that gives businesses the freedom to innovate and grow. Replatforming is optional. Delight customers and drive revenue, on your own terms. Test, iterate, and optimize every aspect of your eCommerce, including y..."
+}

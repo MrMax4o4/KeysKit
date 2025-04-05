@@ -1,0 +1,9 @@
+{
+  "name": "Webflow",
+  "method": "GET",
+  "header": "'accept':'application/json','authorization':'Bearer $API_Token'",
+  "url": "https://api.webflow.com/v2/token/authorized_by",
+  "body": "",
+  "note": "",
+  "description": "Webflow is a visual web design platform, CMS, and hosting provider perfect for building production websites and prototypes. It allows users to create custom, responsive websites with the power of code visually. With Webflow, users can design and build ..."
+}

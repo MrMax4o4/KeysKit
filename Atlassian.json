@@ -1,0 +1,9 @@
+{
+  "name": "Atlassian",
+  "method": "GET",
+  "header": "'Authorization':'GenieKey $API_KEY'",
+  "url": "https://api.opsgenie.com/v2/account",
+  "body": "",
+  "note": "",
+  "description": "Atlassian is a leading provider of collaboration software for teams with products including JIRA, Confluence, HipChat, Bitbucket and Stash. Support for Server products ends Feb. 15, 2024. Migrate to stay supported."
+}

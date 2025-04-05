@@ -1,0 +1,9 @@
+{
+  "name": "tyntec",
+  "method": "GET",
+  "header": "'Accept':'application/json','apiKey':'$API_KEY'",
+  "url": "https://api.tyntec.com/2fa/v4/profiles",
+  "body": "",
+  "note": "",
+  "description": "tyntec is a cloud communications provider enabling businesses to communicate easier with their customers, workforce and machines. tyntec has built its global connectivity from the ground up and developed cloud APIs on top to provide the full advantage ..."
+}

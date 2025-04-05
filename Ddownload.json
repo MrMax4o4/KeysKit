@@ -1,0 +1,9 @@
+{
+  "name": "Ddownload",
+  "method": "GET",
+  "header": "",
+  "url": "https://api-v2.ddownload.com/api/account/info?key=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "ddownload.com is a fast and free file hosting platform that allows users to upload and share their files. With unlimited bandwidth, storage, and file size, users can upload as many files as they want without worrying about running out of space. The pla..."
+}

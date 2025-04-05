@@ -1,0 +1,9 @@
+{
+  "name": "Fitbit",
+  "method": "GET",
+  "header": "'authorization':'Bearer $API_Token'",
+  "url": "https://api.fitbit.com/1/user/-/profile.json",
+  "body": "",
+  "note": "",
+  "description": "Fitbit is a provider of health and fitness devices. The company's platform combines connected health and fitness devices with software and services, including an online dashboard and mobile applications, data analytics, motivational and social tools, p..."
+}

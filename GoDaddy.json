@@ -1,0 +1,9 @@
+{
+  "name": "GoDaddy",
+  "method": "GET",
+  "header": "'accept':'application/json','X-Market-Id':'en-US','Authorization':'sso-key $SSO_Key'",
+  "url": "https://api.ote-godaddy.com/v1/orders?offset=0&limit=25&sort=-createdAt",
+  "body": "",
+  "note": "",
+  "description": "OTE-GoDaddy is a leading technology provider dedicated to empowering people to easily start, confidently grow and successfully run their own ventures. We provide a comprehensive suite of online tools and services including domain registration, website ..."
+}

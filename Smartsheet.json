@@ -1,0 +1,9 @@
+{
+  "name": "Smartsheet",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Key'",
+  "url": "https://api.smartsheet.com/2.0/home?include=source",
+  "body": "",
+  "note": "",
+  "description": "The enterprise work management platform Smartsheet enables teams to manage projects, automate processes & scale programs in one powerful platform. Maintain visibility & keep distributed teams connected. Smartsheet.com, a leading enterprise SaaS collabo..."
+}

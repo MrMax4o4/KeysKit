@@ -1,0 +1,9 @@
+{
+  "name": "Seismic",
+  "method": "GET",
+  "header": "'Authorization':'$Token','accept':'application/json'",
+  "url": "https://api.seismic.com/integration/v2/users?limit=10&offset=0",
+  "body": "",
+  "note": "",
+  "description": "Seismic is the leading end to end sales enablement solution that increases sales productivity and marketing effectiveness by delivering the right content at the right time on any device. By creating, customizing and analyzing sales materials with Seism..."
+}

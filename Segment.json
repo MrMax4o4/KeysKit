@@ -1,0 +1,9 @@
+{
+  "name": "Segment",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Token'",
+  "url": "https://api.segmentapis.com/users",
+  "body": "",
+  "note": "",
+  "description": "null"
+}

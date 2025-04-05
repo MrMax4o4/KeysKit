@@ -1,0 +1,9 @@
+{
+  "name": "Flat",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token'",
+  "url": "https://api.flat.io/v2/me",
+  "body": "",
+  "note": "",
+  "description": "Flat.io is an online collaborative music notation software that allows users to create, compose, collaborate, play, and print sheet music. With a simple and intuitive web-based music score editor, users can create music scores collaboratively on any de..."
+}

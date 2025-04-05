@@ -1,0 +1,9 @@
+{
+  "name": "Apptivo",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.apptivo.com/app/dao/v6/customers?a=getConfigData&apiKey=$API_Key&accessKey=$Access_Key",
+  "body": "",
+  "note": "",
+  "description": "Simplify your business operations with Business Management Software. Unleash the potential of comprehensive software suite for enterprise management to boost your business efficiency and growth. We believe that every business   whether a small business..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Coinlib",
+  "method": "GET",
+  "header": "",
+  "url": "https://coinlib.io/api/v1/global?key=$API_Key&pref=EUR",
+  "body": "",
+  "note": "",
+  "description": "Coinlib is a platform that provides live and historic cryptocurrency prices, news, charts, and coin rankings. It offers portfolio tracking, price alerts, and other advanced tools. Users can create an account to star coins, track their portfolio, set up..."
+}

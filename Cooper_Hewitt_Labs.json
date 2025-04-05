@@ -1,0 +1,9 @@
+{
+  "name": "Cooper Hewitt Labs",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.collection.cooperhewitt.org/rest/?method=api.spec.formats&access_token=ACCESS_TOKEN",
+  "body": "",
+  "note": "",
+  "description": "Cooper Hewitt, Smithsonian Design Museum is the only museum in the nation devoted exclusively to historic and contemporary design. After a three year renovation, the museum re opened in December 2014 with exhibitions featuring a rich mix of historic an..."
+}

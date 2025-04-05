@@ -1,0 +1,8 @@
+{
+  "name": "file.io",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Key'",
+  "url": "https://file.io/",
+  "body": "",
+  "description": "file.io is a company that provides super simple file sharing and file storage services. Users can upload as many files as they like up to 2 GB and get a download link to share for free with no sign up required. With a free file.io account, users can ma..."
+}

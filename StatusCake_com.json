@@ -1,0 +1,9 @@
+{
+  "name": "StatusCake.com",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token'",
+  "url": "https://api.statuscake.com/v1/uptime",
+  "body": "",
+  "note": "",
+  "description": "StatusCake is a website monitoring solution that provides uptime monitoring, page speed monitoring, domain monitoring, server monitoring, and SSL certificate monitoring. They offer free unlimited website monitoring with alerts by email, Twitter, and ph..."
+}

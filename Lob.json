@@ -1,0 +1,9 @@
+{
+  "name": "Lob",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.lob.com/v1/postcards?limit=2",
+  "body": "",
+  "note": "Base64 encode as following \"API_Key:\"",
+  "description": "Lob is a direct mail automation platform that transforms direct mail into intelligent mail. With a simple REST API, developers can easily integrate print and mail solutions into their web and mobile applications. Lob automates the printing and mailing ..."
+}

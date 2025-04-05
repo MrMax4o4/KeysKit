@@ -1,0 +1,9 @@
+{
+  "name": "Imagga",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.imagga.com/v2/tags?image_url=$Image_URL",
+  "body": "",
+  "note": "Base64 encode as following \"api_key:api_secret\"",
+  "description": "Imagga is an Image Recognition Platform as a Service providing Image Tagging APIs for developers & businesses to build scalable, image intensive cloud apps. The technology fully automates the process of assigning keywords and/or domain specific categor..."
+}

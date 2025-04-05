@@ -1,0 +1,9 @@
+{
+  "name": "Qwilr",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token'",
+  "url": "https://api.qwilr.com/v1/blocks/saved",
+  "body": "",
+  "note": "",
+  "description": "Qwilr is a sales proposal software that helps businesses close deals faster. It offers web-based proposal software with real-time buyer analytics. With Qwilr, users can create beautiful and intuitive proposals, sales and marketing documents, and genera..."
+}

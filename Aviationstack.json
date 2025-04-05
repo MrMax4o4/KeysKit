@@ -1,0 +1,9 @@
+{
+  "name": "Aviationstack",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.aviationstack.com/v1/flights?access_key=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "aviationstack is a company that provides a powerful REST API for real-time flight tracking and status information. Their API offers live data for flights, airports, schedules, timetables, and IATA codes. With access to an extensive set of aviation data..."
+}

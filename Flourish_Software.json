@@ -1,0 +1,9 @@
+{
+  "name": "Flourish Software",
+  "method": "GET",
+  "header": "'Authorization':'Basic Basic_Auth'",
+  "url": "https://app.flourishsoftware.com/external/api/v1/facilities?limit=2",
+  "body": "",
+  "note": "Base64 encode as following \"{USERNAME}:{API_KEY}\"",
+  "description": "Flourish Software is a cannabis cultivation and distribution management software that is built by engineers and cultivators to handle the complex requirements unique to the cannabis industry. It offers a comprehensive seed to sale suite of tools that c..."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Adzuna",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.adzuna.com/jobs/us/top_companies?app_id=$APP_ID&app_key=$APP_Key",
+  "body": "",
+  "description": "Adzuna is a job search engine that searches thousands of job sites to help users find job vacancies in their local area and across the US. They have developed a transparent search engine that allows users to zero in on the right role faster. Adzuna als..."
+}

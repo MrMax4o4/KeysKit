@@ -1,0 +1,9 @@
+{
+  "name": "Telnyx",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token'",
+  "url": "https://api.telnyx.com/v2/number_lookup/$phone_number?type=carrier",
+  "body": "",
+  "note": "",
+  "description": "Telnyx is a VoIP service provider that offers a cloud-based platform for carrier-grade voice services over the internet. They provide telecom APIs for voice, messaging, and fax, making it easy to build next-generation applications on their cloud connec..."
+}

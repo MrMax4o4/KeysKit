@@ -1,0 +1,9 @@
+{
+  "name": "Checkly",
+  "method": "GET",
+  "header": "'X-Checkly-Account':'$Account_ID','Authorization':'Bearer $my_token'",
+  "url": "https://api.checklyhq.com/v1/accounts",
+  "body": "",
+  "note": "",
+  "description": "Code, test, and deploy synthetic monitoring at scale. Monitoring as code workflow for developers: programmable, fast, reliable. Build & run synthetics that scale. Monitoring as code workflow for developers: programmable, fast, reliable. Free trial.stat..."
+}

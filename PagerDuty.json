@@ -1,0 +1,9 @@
+{
+  "name": "PagerDuty",
+  "method": "GET",
+  "header": "'Accept':'application/vnd.pagerduty+json;version=2','Authorization':'Token token=$API_Token'",
+  "url": "https://api.pagerduty.com/schedules",
+  "body": "",
+  "note": "",
+  "description": "PagerDuty is a leading incident management platform for digital businesses. They provide enterprise-grade incident management that helps organizations orchestrate the ideal response to critical disruptions for exceptional customer experience. With thei..."
+}

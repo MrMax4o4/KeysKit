@@ -1,0 +1,9 @@
+{
+  "name": "orb-intelligence.com",
+  "method": "GET",
+  "header": "'Accept':'application/json'",
+  "url": "https://api.orb-intelligence.com/3/fetch/1/?api_key=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "Orb Intelligence is a global firmographic data provider. Our clients include some of the world's largest enterprises and leading B2B sales and marketing solution providers. Orb is focused on providing our clients with high quality information on compan..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "SpeechText.AI",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.speechtext.ai/results?key=$API_Secret&task=$Task_ID&summary=true&summary_size=15&highlights=true&max_keywords=10",
+  "body": "",
+  "note": "",
+  "description": "SpeechText.AI is an AI transcription service that provides speech to text conversion and audio/video transcription. They offer automated transcription software with human accuracy, using a domain-specific speech recognition engine. Users can upload aud..."
+}

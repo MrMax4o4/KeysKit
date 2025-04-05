@@ -1,0 +1,9 @@
+{
+  "name": "ReadMe",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://dash.readme.com/api/v1",
+  "body": "",
+  "note": "Base64 encode as following \"{API_KEY}\"",
+  "description": "ReadMe is a company that provides interactive developer hubs to make APIs easy to use and help developers succeed. Their platform transforms API documentation into interactive hubs that offer easy-to-edit guides, real-time API logs for troubleshooting,..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "GrowthBook",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Secret_Key'",
+  "url": "https://api.growthbook.io/api/v1",
+  "body": "",
+  "note": "",
+  "description": "GrowthBook is an open source feature flagging and A/B testing platform that helps companies release code and measure the impact with their own data. It provides a customized release and A/B testing solution similar to those used by Netflix, Pinterest, ..."
+}

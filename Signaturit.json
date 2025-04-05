@@ -1,0 +1,9 @@
+{
+  "name": "Signaturit",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token'",
+  "url": "https://api.sandbox.signaturit.com/v3/team/users.json",
+  "body": "",
+  "note": "",
+  "description": "Signaturit is a leading European provider of electronic signature and trust services. Their electronic signature solution allows users to send and sign documents online with full legal validity, without the need to install any additional applications. ..."
+}

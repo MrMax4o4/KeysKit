@@ -1,0 +1,9 @@
+{
+  "name": "Tray.io",
+  "method": "GET",
+  "header": "'Authorization':'Bearer API_Token'",
+  "url": "https://api.tray.io/core/v1/connectors",
+  "body": "",
+  "note": "",
+  "description": "Unified, AI powered iPaaS for every team to automate at scale | Tray.io Dramatically simplify API integrations with Tray connectors, the Connector Builder, and our Authentication and Projects features. Visit Tray.io to learn more. Build + Discover Powe..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Medium",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token','Content-Type':'application/json'",
+  "url": "https://api.medium.com/v1/me",
+  "body": "",
+  "note": "",
+  "description": "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic. Medium provides an editor that allows users to focus on writing, with no distractions. The platform also emph..."
+}

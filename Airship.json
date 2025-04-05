@@ -1,0 +1,9 @@
+{
+	"name": "Airship",
+	"method": "GET",
+	"header": "'Accept':'application/vnd.urbanairship+json; version=3','Authorization':'Bearer $API_TOKEN'",
+	"url": "https://go.urbanairship.com/api/schedules",
+	"body": "",
+	"note": "",
+	"description": "Airship is an App Experience Platform (AXP) that helps brands master the full lifecycle of mobile app experiences. They provide tools and services to engage customers with timely, targeted messages, guide customers through meaningful and interactive ap..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Teamwork",
+  "method": "GET",
+  "header": "'Accept':'application/json','Authorization':'Bearer $API_Token'",
+  "url": "https://$Subdomain_name.teamwork.com/projects/api/v2/me.json",
+  "body": "",
+  "note": "",
+  "description": "Teamwork.com is an all-in-one project management platform custom built for client work operations. It offers best-in-class project management and complete performance reporting. With Teamwork.com, you can manage resources, track time, streamline workfl..."
+}

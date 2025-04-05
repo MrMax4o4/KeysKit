@@ -1,0 +1,9 @@
+{
+  "name": "Brandfetch",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Key'",
+  "url": "https://api.brandfetch.io/v2/brands/brandfetch.com",
+  "body": "",
+  "note": "",
+  "description": "null"
+}

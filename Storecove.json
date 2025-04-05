@@ -1,0 +1,9 @@
+{
+  "name": "Storecove",
+  "method": "GET",
+  "header": "'Accept':'application/json','Authorization':'Bearer $API_KEY','Content-Type':'application/json'",
+  "url": "https://api.storecove.com/api/v2/document_submissions/guid/evidence",
+  "body": "",
+  "note": "",
+  "description": "Storecove is a platform that provides people and companies with a way to view all their invoices. They offer a Restful API solution for global e-invoicing, allowing users to become compliant with e-invoicing regulations in over 50 countries. By connect..."
+}

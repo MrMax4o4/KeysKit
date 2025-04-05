@@ -1,0 +1,9 @@
+{
+  "name": "GitHub - Access_Token",
+  "method": "GET",
+  "header": "'Authorization':'token $Access_Token'",
+  "url": "https://api.github.com/user",
+  "body": "",
+  "note": "",
+  "description": "GitHub is a web-based company that offers code hosting services for collaborative software development. It is the world's leading AI-powered developer platform, trusted by over 100 million developers. With GitHub, developers can contribute to the open-..."
+}

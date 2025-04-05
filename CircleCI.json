@@ -1,0 +1,9 @@
+{
+  "name": "CircleCI",
+  "method": "GET",
+  "header": "'authorization':'Basic $Basic_Auth'",
+  "url": "https://circleci.com/api/v2/me",
+  "body": "",
+  "note": "Base64 encode as following \"Circle-Token:\"",
+  "description": "CircleCI is an automated testing and continuous integration platform for web application developers. It provides the best continuous integration and delivery (CI/CD) for any platform, in our cloud or on your own infrastructure, for free. CircleCI is th..."
+}

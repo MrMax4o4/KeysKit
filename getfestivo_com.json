@@ -1,0 +1,9 @@
+{
+  "name": "getfestivo.com",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.getfestivo.com/v2/holidays?country=US&api_key=$API_Key&year=2020",
+  "body": "",
+  "note": "",
+  "description": "Festivo is a company that provides a Public Holidays API, offering holiday data for over 230 countries. With Festivo, there is no need for databases, data scraping, or maintenance. Users can get an API key and start developing in minutes for free. Fest..."
+}

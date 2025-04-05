@@ -1,0 +1,9 @@
+{
+  "name": "Binti",
+  "method": "GET",
+  "header": "'accept':'application/json','Authorization':'Bearer $API_KEY'",
+  "url": "https://family.binti.com/api/v1/user_agency_profiles?tz=utc",
+  "body": "",
+  "note": "",
+  "description": "Binti is a foster care software company based in Oakland, CA. They use technology to reinvent foster care and adoption, with the goal of helping every child find a safe, loving, and stable family. Binti works with state, county, and private foster care..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Telegram",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.telegram.org/bot$TOKEN/getMe",
+  "body": "",
+  "note": "",
+  "description": "Telegram Messenger is a simple, fast, and secure messaging app that is synced across all devices. It is one of the top 5 most downloaded apps in the world with over 700 million active users. Telegram Messenger provides pure instant messaging, ensuring ..."
+}

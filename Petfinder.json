@@ -1,0 +1,9 @@
+{
+  "name": "Petfinder",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.petfinder.com/v2/oauth2/token",
+  "body": "grant_type=client_credentials&client_id=$CLIENT_ID&client_secret=$CLIENT_SECRET",
+  "note": "",
+  "description": "Petfinder is an online database that enables its users to find and adopt animals in need of homes. They host the largest online, searchable database of adoptable pets with over 375,000 pets from more than 13,900 adoption groups across North America. In..."
+}

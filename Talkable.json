@@ -1,0 +1,9 @@
+{
+  "name": "Talkable",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Key'",
+  "url": "https://www.talkable.com/api/v2/campaigns?site_slug=$Site_Slug",
+  "body": "",
+  "note": "",
+  "description": "Talkable is a SaaS platform that enables companies to profit from the science behind referrals, while increasing sales revenue and preventing fraud. Talkable is a technology platform that enables marketers to run customizable Refer A Friend Programs. T..."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Livestorm",
+  "method": "GET",
+  "header": "'Authorization':'$API_Token'",
+  "url": "https://api.livestorm.co/v1/me",
+  "body": "",
+  "description": "Livestorm is a software company that provides a browser-based online web conferencing software for webinars and virtual meetings. Livestorm is the end-to-end video engagement platform enabling organizations to create on-demand, live, or pre-recorded ev..."
+}

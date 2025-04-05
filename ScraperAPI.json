@@ -1,0 +1,9 @@
+{
+  "name": "ScraperAPI",
+  "method": "GET",
+  "header": "",
+  "url": "http://api.scraperapi.com/account?api_key=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "ScraperAPI is a proxy API for web scraping. It handles proxy rotation, browsers, and CAPTCHAs, allowing developers to scrape any page with a single API call. With ScraperAPI, developers can build scrapers without having to manage proxies and headless b..."
+}

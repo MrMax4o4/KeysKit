@@ -1,0 +1,9 @@
+{
+  "name": "Delighted",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.delighted.com/v1/people.json",
+  "body": "",
+  "note": "Base64 encode \"{YOUR_API_Key}:\"",
+  "description": "Delighted is a self-serve experience management platform that helps businesses collect and analyze customer feedback. It is the platform of choice for top brands worldwide. Delighted allows businesses to connect with their customers, learn from their f..."
+}

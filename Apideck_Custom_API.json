@@ -1,0 +1,9 @@
+{
+	"name": "Apideck - Custom API",
+	"method": "GET",
+	"header": "'Authorization':'Bearer $API_Key','x-apideck-consumer-id':'$Consumer_ID','x-apideck-app-id':'$APP_ID'",
+	"url": "https://unify.apideck.com/accounting/company-info",
+	"body": "",
+	"note": "",
+	"description": "Apideck is a company that provides a platform for API integration. Their goal is to redefine API integration by allowing developers to integrate and monitor APIs at a faster speed. With Apideck, developers can connect new APIs in minutes instead of day..."
+}

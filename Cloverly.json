@@ -1,0 +1,9 @@
+{
+  "name": "Cloverly",
+  "method": "GET",
+  "header": "'Accept':'application/json','Authorization':'Bearer $Token'",
+  "url": "https://api-prod-no-cert.cloverly.com/2021-10/account",
+  "body": "",
+  "note": "",
+  "description": "Cloverly is a platform for scaling climate action. It empowers businesses to buy and supply carbon removals and credits, providing trust, access, and ease to scale meaningful impact. Cloverly's technology enables businesses to go green by offering seam..."
+}

@@ -1,0 +1,9 @@
+{
+	"name": "HubSpot - hapikey",
+	"method": "GET",
+	"header": "",
+	"url": "https://api.hubapi.com/owners/v2/owners?hapikey=$API_Key",
+	"body": "",
+	"note": "",
+	"description": "null"
+}

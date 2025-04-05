@@ -1,0 +1,9 @@
+{
+  "name": "Pinterest",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $ACCESS_TOKEN'",
+  "url": "https://api.pinterest.com/v5/user_account",
+  "body": "",
+  "note": "",
+  "description": "Pinterest is a social bookmarking site with a virtual pinboard interface that visually showcases the user's interests. It is a platform for discovering and saving creative ideas for everyday life."
+}

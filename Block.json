@@ -1,0 +1,9 @@
+{
+  "name": "Block",
+  "method": "GET",
+  "header": "",
+  "url": "https://block.io/api/v2/get_balance/?api_key=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "Block.io is a company that provides the easiest Blockchain API and Crypto Wallet as a Service. They offer simple API calls for various blockchain-related tasks and support multiple currencies and programming languages. Block.io also provides wallet hos..."
+}

@@ -1,0 +1,9 @@
+{
+	"name": "D7 Networks - Get",
+	"method": "GET",
+	"header": "'Authorization':'Bearer $Access_Token'",
+	"url": "https://api.d7networks.com/messages/v1/balance",
+	"body": "",
+	"note": "",
+	"description": "Direct7 Networks is a telecommunications company founded in 2012. They provide high-end quality SMS services for customers to deliver messages anywhere in 7 continents and 7 days of the week. Their focus is on transactional traffic, including banking O..."
+}

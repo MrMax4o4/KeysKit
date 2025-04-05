@@ -1,0 +1,9 @@
+{
+  "name": "Descript",
+  "method": "GET",
+  "header": "'authorization':'Bearer $Access_TOKEN'",
+  "url": "https://descriptapi.com/v1/overdub/voices",
+  "body": "",
+  "note": "",
+  "description": "null"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Code Climate - With Accept",
+	"method": "GET",
+	"header": "'Accept':'application/vnd.api+json','Authorization':'Token token=$TOKEN'",
+	"url": "https://api.codeclimate.com/v1/user",
+	"body": "",
+	"note": "",
+	"description": "Code Climate is a software engineering intelligence platform that provides a suite of tools for static analysis and code quality enforcement. Their flagship product, Velocity, is an Engineering Management Platform (EMP) that offers insights and visibil..."
+}

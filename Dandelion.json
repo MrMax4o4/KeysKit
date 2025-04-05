@@ -1,0 +1,9 @@
+{
+  "name": "Dandelion",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.dandelion.eu/datatxt/nex/v1/?text=The%20doctor%20says%20an%20apple%20is%20better%20than%20an%20orange&include=types%2Cabstract%2Ccategories&token=$API_Token",
+  "body": "",
+  "note": "",
+  "description": "Dandelion API provides Semantic Text Analytics as a service. Their API allows users to extract meaning from unstructured text and put it in context. The API works well even on short and malformed texts in multiple languages. Extracted entities are link..."
+}

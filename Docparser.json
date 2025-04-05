@@ -1,0 +1,9 @@
+{
+  "name": "Docparser",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.docparser.com/v1/parsers",
+  "body": "",
+  "note": "Base64 encode as following \"secret_api_key:\"",
+  "description": "Docparser is a leading document parser software that allows users to extract data from PDF files and automate their workflow. With Docparser, users can convert PDF files to Excel, JSON, CSV, XML, or update apps with webhooks. The software uses advanced..."
+}

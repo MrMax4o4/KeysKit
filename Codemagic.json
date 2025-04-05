@@ -1,0 +1,8 @@
+{
+  "name": "Codemagic",
+  "method": "GET",
+  "header": "'x-auth-token':'$API_Token'",
+  "url": "https://api.codemagic.io/apps",
+  "body": "",
+  "description": "Codemagic is a cloud-based continuous integration and delivery platform for mobile projects. It provides CI/CD for Android, iOS, Flutter, and React Native projects, allowing developers to automate the build, test, and release pipeline of their mobile a..."
+}

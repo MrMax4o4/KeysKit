@@ -1,0 +1,9 @@
+{
+  "name": "Zenput",
+  "method": "GET",
+  "header": "'X-API-TOKEN':'$API_TOKEN','accept':'application/json'",
+  "url": "https://staging.zenput.com/api/v3/users/$User_ID",
+  "body": "",
+  "note": "",
+  "description": "Zenput is a leading operations execution platform that helps elevate team execution in every store. It is used by restaurant, retail, and other multi-unit operators in over 60,000 locations across 100 countries. Zenput provides operations management so..."
+}

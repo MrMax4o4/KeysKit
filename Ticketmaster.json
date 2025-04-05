@@ -1,0 +1,9 @@
+{
+  "name": "Ticketmaster",
+  "method": "GET",
+  "header": "",
+  "url": "https://app.ticketmaster.com/discovery/v2/events.json?apikey=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "Ticketmaster is a global ticketing platform that allows users to buy and sell tickets online for concerts, sports events, theater shows, and other live entertainment. With a focus on putting fans first, Ticketmaster strives to improve the overall exper..."
+}

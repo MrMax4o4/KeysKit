@@ -1,0 +1,9 @@
+{
+  "name": "Scraperbox",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.scraperbox.com/scrape?token=$API_Key&url=$URL",
+  "body": "",
+  "note": "",
+  "description": "ScraperBox is a web scraping API that allows users to scrape web pages without getting blocked. They provide rotating proxies and support javascript enabled web scraping. With ScraperBox, users can scrape Javascript webpages and receive the website HTM..."
+}

@@ -1,0 +1,1 @@
+{"name":"Computer Repair Shop Software","method":"GET","header":"'accept':'application/json','Authorization':'$API_Key'","url":"https://$Your-Subdomain.repairshopr.com/api/v1/me","body":"","note":""}

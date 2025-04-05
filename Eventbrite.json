@@ -1,0 +1,9 @@
+{
+  "name": "Eventbrite",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Private_Token'",
+  "url": "https://www.eventbriteapi.com/v3/users/me/",
+  "body": "",
+  "note": "",
+  "description": "Eventbrite is a global marketplace for live experiences that lets people find and create events. It provides a platform for anyone to create, share, find, and attend events that fuel their passions. From concerts and workshops to yoga classes and chari..."
+}

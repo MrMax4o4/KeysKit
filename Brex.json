@@ -1,0 +1,1 @@
+{"name":"Brex","method":"GET","header":"'Authorization':'Bearer $Token'","url":"https://platform.brexapis.com/v2/users/$User_ID","body":"","note":"","description":""}

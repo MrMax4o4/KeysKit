@@ -1,0 +1,9 @@
+{
+  "name": "Подбери Друга. Adopt a pet",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.adoptapet.com/search/pets_at_shelter?key=$YOUR_API_KEY&v=2&output=json&shelter_id=79570&start_number=1&end_number=500",
+  "body": "",
+  "note": "",
+  "description": "Adopt a Pet.com is a non profit pet adoption charity that helps shelters, humane societies, SPCAs, pet rescue groups, and pet adoption agencies advertise their homeless pets to adopters for free. We're all about getting homeless pets into homes. We use..."
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Tailscale - Get",
+	"method": "GET",
+	"header": "'Authorization':'Bearer $Access_Token'",
+	"url": "https://api.tailscale.com/api/v2/tailnet/-/devices",
+	"body": "",
+	"note": "",
+	"description": "Tailscale is a zero config VPN for building secure networks. Install on any device in minutes. Remote access from any network or physical location. Simple, secure networks for teams of any scale. Built on WireGuard. Replace your legacy VPN Securely acc..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "CurrencyScoop",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.currencyscoop.com/v1/historical?api_key=$API_Key&date=2022-01-01",
+  "body": "",
+  "note": "",
+  "description": "CurrencyBeacon is an enterprise grade and developer friendly currency rates REST API with real time and historical exchange rates for 168 world currencies and 1600 cryptocurrencies. CurrencyBeacon is a developer friendly, easy to use REST API with real..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Razorpay",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.razorpay.com/v1/payments",
+  "body": "",
+  "note": "Base64 encode as following \"{YOUR_KEY_ID}:{KEY_SECRET}\"",
+  "description": "Razorpay is India's first full-stack financial solutions company that provides a modern payment gateway for online payments in India. They offer a payment suite that supports net banking, credit cards, debit cards, UPI, and more. Razorpay's payment gat..."
+}

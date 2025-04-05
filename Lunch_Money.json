@@ -1,0 +1,9 @@
+{
+  "name": "Lunch Money",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Key'",
+  "url": "https://dev.lunchmoney.app/v1/me",
+  "body": "",
+  "note": "",
+  "description": "Lunch Money is a budgeting app with multi currency & cryptocurrency support for the modern day spender. Meet your biggest cheerleader in personal finances! Delightfully simple personal finance. Multicurrency + crypto support. 100% customer funded. Made..."
+}

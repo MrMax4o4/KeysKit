@@ -1,0 +1,9 @@
+{
+  "name": "Veem",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth','Accept':'application/json'",
+  "url": "https://sandbox-api.veem.com/oauth/token",
+  "body": "scope=all",
+  "note": "Base64 encode \"Client_ID:Client_Secret\"",
+  "description": "Veem is a next generation platform for business to business payments. We enable businesses to send and receive payments in local currency via a simple and inexpensive manner by using our unique multi rail technology across several global networks. Veem..."
+}

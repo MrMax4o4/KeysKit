@@ -1,0 +1,9 @@
+{
+  "name": "Ticket Tailor",
+  "method": "GET",
+  "header": "'Accept':'application/json','Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.tickettailor.com/v1/orders",
+  "body": "",
+  "note": "Base64 encode \"{API_Key}:\"",
+  "description": "Ticket Tailor is a simple, free event ticketing solution for events of all shapes and sizes. It is a customisable, supported platform to sell tickets online without charging any booking fees. Ticket Tailor offers flexible and fair pricing, with no cont..."
+}

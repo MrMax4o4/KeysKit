@@ -1,0 +1,9 @@
+{
+  "name": "Dynata",
+  "method": "GET",
+  "header": "'Accept':'application/json','Authorization':'Bearer $Access_Token'",
+  "url": "https://api.dynata.com/sample/v1/user",
+  "body": "",
+  "note": "",
+  "description": "Dynata is the world’s largest first party data platform for insights, activation, and measurement. With a reach that encompasses over 67 million consumers and business professionals globally, Dynata provides high-quality data that drives accurate insig..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Академия Blockchain Образования",
+  "method": "GET",
+  "header": "'X-API-Token':'$API_Key'",
+  "url": "https://api.blockchain.com/v3/exchange/accounts",
+  "body": "",
+  "note": "",
+  "description": "Blockchain.com is a web-based bitcoin platform that makes using bitcoin safe, easy, and secure for all consumers and businesses worldwide. With the largest bitcoin wallet platform in the world, Blockchain.com has powered over 100M transactions and empo..."
+}

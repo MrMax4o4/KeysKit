@@ -1,0 +1,9 @@
+{
+  "name": "ScrapingAnt",
+  "method": "POST",
+  "header": "'x-api-key':'$API_Key','accept':'application/json','content-type':'application/json'",
+  "url": "https://api.scrapingant.com/v1/general",
+  "body": "{'url': '$URL'}",
+  "note": "",
+  "description": "ScrapingAnt is a web scraping API that provides the best solution for extracting data from websites. It offers a free plan and handles rotating proxies, headless browser, CAPTCHA, and Cloudflare. With the use of millions of proxies and a headless brows..."
+}

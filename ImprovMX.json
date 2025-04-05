@@ -1,0 +1,9 @@
+{
+  "name": "ImprovMX",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.improvmx.com/v3/account",
+  "body": "",
+  "note": "Base64 encode \"{YOUR_API_KEY}:\"",
+  "description": "ImprovMX is a company that provides free email forwarding and email aliases for your domain name. With ImprovMX, you can set up email forwarding in seconds and start receiving and sending emails with your domain name. The service is absolutely free and..."
+}

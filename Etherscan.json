@@ -1,0 +1,9 @@
+{
+  "name": "Etherscan",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.etherscan.io/api?module=account&action=balance&address=$Address&tag=latest&apikey=$YOUR_API_KEY",
+  "body": "",
+  "note": "",
+  "description": "Providing equitable access to human readable blockchain data. Etherscan is the leading Blockchain Explorer, Search, API and Analytics Platform for Ethereum, a decentralized smart contracts platform. Built and launched in 2015 it is one of the earliest ..."
+}

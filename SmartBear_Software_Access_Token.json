@@ -1,0 +1,1 @@
+{"name":"SmartBear Software - Access_Token","method":"GET","header":"","url":"https://cloud.bitbar.com/api/me?access_token=$ACCESS_TOKEN","body":"","note":""}

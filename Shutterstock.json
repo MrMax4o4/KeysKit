@@ -1,0 +1,9 @@
+{
+  "name": "Shutterstock",
+  "method": "GET",
+  "header": "'Accept':'application/json','Authorization':'Bearer $API_TOKEN'",
+  "url": "https://api.shutterstock.com/v2/user",
+  "body": "",
+  "note": "",
+  "description": "Shutterstock is a leading global creative platform offering full service solutions, high quality content, and tools for brands, businesses, and media companies. They provide a comprehensive collection of licensed photographs, vectors, illustrations, vi..."
+}

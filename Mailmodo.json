@@ -1,0 +1,8 @@
+{
+  "name": "Mailmodo",
+  "method": "POST",
+  "header": "'mmApiKey':'$_API_key','Content-Type':'application/json'",
+  "url": "https://api.mailmodo.com/api/v1/addToList",
+  "body": "{'email':'$Email_Address','listName':'test'}",
+  "description": "Mailmodo is a complete email marketing solution enabling users to create and send app like interactive emails to improve email conversions. As all interactions happen inside the email, this eliminates user redirections for a smoother email experience a..."
+}

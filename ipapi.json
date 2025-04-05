@@ -1,0 +1,9 @@
+{
+  "name": "ipapi",
+  "method": "GET",
+  "header": "",
+  "url": "http://api.ipapi.com/api/161.185.160.93?access_key=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "ipapi.com is a company that provides an IP Address Lookup and Geolocation API. Their API allows users to retrieve geolocation information for both IPv4 and IPv6 addresses, including latitude, longitude, city, state, and zip code. The API supports JSON ..."
+}

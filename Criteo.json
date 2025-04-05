@@ -1,0 +1,9 @@
+{
+  "name": "Criteo",
+  "method": "GET",
+  "header": "'accept':'application/json','authorization':'Bearer $API_KEY'",
+  "url": "https://api.criteo.com/2023-10/advertisers/me",
+  "body": "",
+  "note": "",
+  "description": "Criteo is a global technology company that enables brands and retailers to connect more shoppers to the things they need and love. We’ve built the Criteo Commerce Marketing Ecosystem: an open, secure, transparent, and fair environment where retailers, ..."
+}

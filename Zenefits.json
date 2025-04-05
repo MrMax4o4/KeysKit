@@ -1,0 +1,9 @@
+{
+  "name": "Zenefits",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Token'",
+  "url": "https://api.zenefits.com/core/me",
+  "body": "",
+  "note": "",
+  "description": "Zenefits is an award-winning People Ops Platform that provides innovative and intuitive HR, payroll, employee benefits, and time & scheduling software/services for small businesses. With Zenefits, businesses can manage all their HR, payroll, benefits, ..."
+}

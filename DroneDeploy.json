@@ -1,0 +1,9 @@
+{
+  "name": "DroneDeploy",
+  "method": "GET",
+  "header": "",
+  "url": "https://public-api.dronedeploy.com/v2/plans?api_key=$api_key",
+  "body": "",
+  "note": "",
+  "description": "DroneDeploy is a powerful, cloud-based image processing software that is compatible with any drone. It is the fastest, easiest, and most powerful solution available for creating aerial maps and 3D models. With over 200 million acres mapped, DroneDeploy..."
+}

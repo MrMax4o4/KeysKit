@@ -1,0 +1,1 @@
+{"name":"UploadCare","method":"GET","header":"'Content-Type':'application/json','Authorization':'Basic $Basic_Auth'","url":"https://api.uploadcare.com/project/","body":"","note":"Base64 encode \"{PUBLIC_KEY:SECRET_KEY}\""}

@@ -1,0 +1,9 @@
+{
+	"name": "Paddle",
+	"method": "GET",
+	"header": "'Authorization':'Bearer $Access_Token'",
+	"url": "https://api.paddle.com/customers",
+	"body": "",
+	"note": "",
+	"description": "Paddle is a complete payments, tax, and subscriptions solution for SaaS B2B and B2C software companies. They provide a range of tools and services to offload operational complexities and support growth. As a merchant of record, Paddle takes care of fra..."
+}

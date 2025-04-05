@@ -1,0 +1,1 @@
+{"name":"VPNAPI.io","method":"GET","header":"","url":"https://vpnapi.io/api/$IP?key=$API_KEY","body":"","note":"","description":"VPNapi.io is an API that helps prevent fraud and spam by checking if an IP address is either a VPN or a proxy. It allows users to test if an IP address is a VPN, Proxy, TOR Exit Node, or Private Relay."}

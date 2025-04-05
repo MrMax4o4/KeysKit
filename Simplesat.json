@@ -1,0 +1,9 @@
+{
+  "name": "Simplesat",
+  "method": "GET",
+  "header": "'X-Simplesat-Token':'$Access_Token'",
+  "url": "https://api.simplesat.io/api/answers/",
+  "body": "",
+  "note": "",
+  "description": "Customer Satisfaction Survey Tool, CSAT & NPS (Net Promoter Score) Software Delightfully easy to use one click CSAT and NPS surveys for MSPs and service minded professionals. Supporting surveys for ConnectWise, Autotask, Zendesk and more. SimpleSat is ..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Sage HR",
+  "method": "GET",
+  "header": "'X-Auth-Token':'$API_Token'",
+  "url": "https://$subdomain.sage.hr/api/employees",
+  "body": "",
+  "note": "",
+  "description": "Sage HR is an award-winning HR technology company that provides attendance, performance, and recruitment management software for customers worldwide. With a free 30-day trial, easy setup, and the ability to cancel anytime, Sage HR offers a range of fea..."
+}

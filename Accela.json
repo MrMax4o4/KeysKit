@@ -1,0 +1,9 @@
+{
+  "name": "Accela",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token'",
+  "url": "https://api.accela.com/v3/users/me?lang=en",
+  "body": "",
+  "note": "",
+  "description": "Accela provides government software for permitting, licensing, code enforcement, and service request management that empower innovative agencies worldwide to build communities, grow businesses and protect citizens. Accela provides a platform of cloud b..."
+}

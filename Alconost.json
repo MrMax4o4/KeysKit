@@ -1,0 +1,9 @@
+{
+  "name": "Alconost",
+  "method": "GET",
+  "header": "'Content-Type':'application/json','Authorization':'Basic $Basic_Auth'",
+  "url": "https://nitro.alconost.com/api/v1/account",
+  "body": "",
+  "note": "Base64 encode \"{YOUR_API_KEY}:\"",
+  "description": "Alconost is a localization company that provides professional translation and localization services, multilingual marketing, and video production. They specialize in localizing games, applications, websites, software, and other materials into over 60 l..."
+}

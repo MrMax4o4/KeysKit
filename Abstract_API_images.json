@@ -1,0 +1,9 @@
+{
+	"name": "Abstract API - images",
+	"method": "POST",
+	"header": "'Content-Type':'application/json','Accept':'application/json'",
+	"url": "https://images.abstractapi.com/v1/url/",
+	"body": "{'api_key'}: '$API_Key', 'lossy': true, 'url': 'https://s3.amazonaws.com/static.abstractapi.com/test-images/dog.jpg'}",
+	"note": "",
+	"description": "Abstract provides powerful APIs to help you enrich any user experience or automate any workflow. Used by 10,000+ developers worldwide. Abstract API Automate your work with high quality / high availability APIs. Explore the essentials of validating 10 d..."
+}

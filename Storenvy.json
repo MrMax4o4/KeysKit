@@ -1,0 +1,9 @@
+{
+  "name": "Storenvy",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.storenvy.com/v1/store.json?api_key=$API_KEY",
+  "body": "",
+  "note": "",
+  "description": "null"
+}

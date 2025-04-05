@@ -1,0 +1,9 @@
+{
+  "name": "KarmaCRM",
+  "method": "GET",
+  "header": "",
+  "url": "https://app.karmacrm.com/api/v2/settings/integrations.json?api_token=$API_Token",
+  "body": "",
+  "note": "",
+  "description": "karmaCRM is a CRM software for small businesses that helps build better customer relationships through clarity and efficiency. It offers a fully customizable solution personalized to the daily workflows and needs of users. The platform was built based ..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Campayn",
+  "method": "POST",
+  "header": "'Content-Type':'application/json','Authorization':'TRUEREST apikey=$API_Key'",
+  "url": "https://campayn.com/api/v1/lists/123/contacts.json",
+  "body": "{'email':'sample@sample.com','first_name':'Nick','last_name':'Sample'}",
+  "note": "",
+  "description": "Campayn is a Canadian-based email marketing service that provides an easy way to create, send, and track email marketing campaigns. They offer a variety of features, including access to free responsive email templates, the ability to import contact lis..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Equinix,",
+  "method": "GET",
+  "header": "'content-type':'application/json','authorization':'Bearer $API_Token'",
+  "url": "https://api.equinix.com/ecx/v3/port/userport",
+  "body": "",
+  "note": "",
+  "description": "Equinix is the largest global data center and colocation provider for enterprise network and cloud computing. Equinix connects the world’s leading businesses to their customers, employees, and partners inside the most interconnected data centers. Equin..."
+}

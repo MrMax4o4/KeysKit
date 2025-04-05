@@ -1,0 +1,9 @@
+{
+  "name": "Comma",
+  "method": "GET",
+  "header": "'Authorization':'JWT $JWT_Token'",
+  "url": "https://api.commadotai.com/v1/me/",
+  "body": "",
+  "note": "",
+  "description": "null"
+}

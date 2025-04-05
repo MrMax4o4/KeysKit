@@ -1,0 +1,9 @@
+{
+  "name": "Code::Stats",
+  "method": "POST",
+  "header": "'X-API-Token':'$API_Key'",
+  "url": "https://codestats.net/api/my/pulses",
+  "body": "{'coded_at': '2016-04-24T01:43:56+12:00','xps': [{'language': 'C++','xp': 15},{'language': 'Elixir', 'xp': 30},{'language': 'EEx','xp': 3}]}",
+  "note": "",
+  "description": "Code::Stats is a free statistics tracking service for programmers."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Dribbble",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.dribbble.com/v2/user?access_token=$ACCESS_TOKEN",
+  "body": "",
+  "note": "",
+  "description": "Dribbble is a community of designers sharing screenshots of their work, process, and projects."
+}

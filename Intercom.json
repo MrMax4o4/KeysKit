@@ -1,0 +1,9 @@
+{
+  "name": "Intercom",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Token','Intercom-Version':'2.10'",
+  "url": "https://api.intercom.io/me",
+  "body": "",
+  "note": "",
+  "description": "Intercom is a messaging platform that helps businesses connect with consumers. They provide messaging products for sales, marketing, and customer service, all in one platform. With Intercom, businesses can have real conversations with their customers, ..."
+}

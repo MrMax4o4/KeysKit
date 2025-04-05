@@ -1,0 +1,9 @@
+{
+  "name": "Alation",
+  "method": "GET",
+  "header": "'TOKEN':'$API_Token'",
+  "url": "https://$Instance_URL/integration/v1/userinfo/",
+  "body": "",
+  "note": "",
+  "description": "null"
+}

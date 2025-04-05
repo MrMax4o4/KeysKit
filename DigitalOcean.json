@@ -1,0 +1,9 @@
+{
+  "name": "DigitalOcean",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Auth_Token'",
+  "url": "https://api.digitalocean.com/v2/account",
+  "body": "",
+  "note": "",
+  "description": "DigitalOcean is a cloud hosting company that provides simple and scalable solutions for small and mid-sized businesses. They offer SSD cloud servers starting at $0.01/hour or $5/month, with fast deployment in just 55 seconds. DigitalOcean aims to simpl..."
+}

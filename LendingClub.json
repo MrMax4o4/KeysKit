@@ -1,0 +1,9 @@
+{
+  "name": "LendingClub",
+  "method": "GET",
+  "header": "'Authorization':'$Access_Token'",
+  "url": "https://api.lendingclub.com/api/investor/$version/accounts/$investor_ID/portfolios",
+  "body": "",
+  "note": "",
+  "description": "LendingClub is America's largest online marketplace connecting borrowers and investors, facilitating personal loans, business loans, and financing for elective medical procedures and K 12 education and tutoring. Borrowers access lower interest rate loa..."
+}

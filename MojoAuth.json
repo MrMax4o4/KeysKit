@@ -1,0 +1,9 @@
+{
+  "name": "MojoAuth",
+  "method": "POST",
+  "header": "'X-API-Key':'$YOUR_API_KEY'",
+  "url": "https://api.mojoauth.com/token/jwks",
+  "body": "",
+  "note": "",
+  "description": "MojoAuth is a company that provides a secure and delightful passwordless login solution. They offer a quick integration for web and mobile applications, allowing users to have a smooth and secure login experience. MojoAuth's authentication solution is ..."
+}

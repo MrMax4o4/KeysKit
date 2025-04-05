@@ -1,0 +1,9 @@
+{
+  "name": "Teamgate",
+  "method": "GET",
+  "header": "'X-App-Key':'$APP_Key','X-Auth-Token':'$AUTH_Token'",
+  "url": "https://api.teamgate.com/v4/users",
+  "body": "",
+  "note": "",
+  "description": "Teamgate is a cloud-based intelligent Sales CRM for small and mid-size teams. With its simple yet playful interface, Teamgate is a great sales stack for today's business. Data-driven smart reports provide Sales Managers with a real-time image of their ..."
+}

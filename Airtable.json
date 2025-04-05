@@ -1,0 +1,9 @@
+{
+	"name": "Airtable",
+	"method": "GET",
+	"header": "'Authorization':'Bearer $API_Token'",
+	"url": "https://api.airtable.com/v0/meta/whoami",
+	"body": "",
+	"note": "",
+	"description": "Airtable is a low-code platform to build next-gen apps. It combines the speed and flexibility of a spreadsheet with the power of a database. With Airtable, users can create their own organizational databases, manage customers or contacts, and organize ..."
+}

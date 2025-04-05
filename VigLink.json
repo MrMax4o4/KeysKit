@@ -1,0 +1,9 @@
+{
+  "name": "VigLink",
+  "method": "GET",
+  "header": "'Authorization':'secret $Secret_Key'",
+  "url": "https://rest.viglink.com/api/account/campaigns",
+  "body": "",
+  "note": "",
+  "description": "Sovrn is a programmatic advertising and publisher platform company that provides products and services to tens of thousands of online publishers. They offer a complete set of data and monetization tools, including advertising, data insights, ad managem..."
+}

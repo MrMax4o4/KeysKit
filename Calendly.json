@@ -1,0 +1,9 @@
+{
+  "name": "Calendly",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Personal_Access_Token'",
+  "url": "https://calendly.com/api/v1/users/me",
+  "body": "",
+  "note": "",
+  "description": "Calendly is a modern scheduling platform that provides free online appointment scheduling software. It makes finding time for meetings and appointments easy and eliminates the need for email and phone tag. With Calendly, teams can schedule and manage t..."
+}

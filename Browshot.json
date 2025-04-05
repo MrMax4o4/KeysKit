@@ -1,0 +1,9 @@
+{
+  "name": "Browshot",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.browshot.com/api/v1/simple?url=$URL&key=$API_Key&width=640&size=page",
+  "body": "",
+  "note": "",
+  "description": "Browshot is a service that provides real-time website screenshots. They offer a powerful API and libraries, allowing users to take screenshots of web pages on any device and in any screen size. With the largest choice of browsers and features, Browshot..."
+}

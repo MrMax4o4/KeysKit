@@ -1,0 +1,9 @@
+{
+  "name": "Cloudflare",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Auth_Token'",
+  "url": "https://api.cloudflare.com/client/v4/user",
+  "body": "",
+  "note": "",
+  "description": "Cloudflare is a web performance and security company that provides online services to protect and accelerate websites online. They offer CDN, DNS, DDoS protection, and security services. Cloudflare's intelligent global network routes web traffic throug..."
+}

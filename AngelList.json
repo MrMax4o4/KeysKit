@@ -1,0 +1,9 @@
+{
+  "name": "AngelList",
+  "method": "GET",
+  "header": "'Authorization Bearer $api_token','accept':'application.json'",
+  "url": "https://api.angel.co/1/me",
+  "body": "",
+  "note": "",
+  "description": "AngelList is a U.S. website for startups, angel investors, and job seekers looking to work at startups. Founded in 2010, it started as an online introduction board for tech startups that needed seed funding. Since 2015, the site allows startups to rais..."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "AdaFruit",
+  "method": "GET",
+  "header": "",
+  "url": "https://io.adafruit.com/api/v2/$username/feeds?x-aio-key=$API_Key",
+  "body": "",
+  "description": "Adafruit Industries is an online educational platform for learning electronics and making well-designed products. They offer a wide range of DIY electronics and kits, including tools, Arduino boards, sensors, LEDs, breakout boards, power supplies, comp..."
+}

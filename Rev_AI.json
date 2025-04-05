@@ -1,0 +1,9 @@
+{
+  "name": "Rev AI",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token'",
+  "url": "https://api.rev.ai/speechtotext/v1/account",
+  "body": "",
+  "note": "",
+  "description": "Rev AI is a leading provider of speech to text API and speech recognition services. Their API is known for its high accuracy and affordability, with a rate of only 2.0¢ per minute. Users can quickly obtain transcripts of their audio and video files, wi..."
+}

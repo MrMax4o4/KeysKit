@@ -1,0 +1,9 @@
+{
+  "name": "Axonaut",
+  "method": "GET",
+  "header": "'userApiKey':'$API_Key'",
+  "url": "https://axonaut.com/api/v2/me",
+  "body": "",
+  "note": "",
+  "description": "Axonaut is a certified management software for small and medium-sized enterprises (SMEs) and small businesses (SMBs). It offers a comprehensive suite of tools including CRM, quotes, invoicing, project management, cash flow management, and reminders. Wi..."
+}

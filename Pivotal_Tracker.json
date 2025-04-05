@@ -1,0 +1,9 @@
+{
+  "name": "Pivotal Tracker",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://www.pivotaltracker.com/services/v5/me",
+  "body": "",
+  "note": "Base64 encode as following \"{USERNAME}:{PASSWORD}\"",
+  "description": "Pivotal Tracker is an agile project management tool that provides simple and effective project management and team collaboration. It allows developers to collaborate in real-time around a shared, prioritized backlog. With Pivotal Tracker, teams can inc..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Diggernaut",
+  "method": "GET",
+  "header": "'Authorization':'Token $API_key'",
+  "url": "https://www.diggernaut.com/api/sessions",
+  "body": "",
+  "note": "",
+  "description": "Diggernaut is a cloud-based service for web scraping, data extraction, and other ETL (Extract, Transform, Load) tasks. It allows users to extract website content and turn it into datasets without requiring any programming skills. Diggernaut also offers..."
+}

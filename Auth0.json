@@ -1,0 +1,9 @@
+{
+  "name": "Auth0",
+  "method": "GET",
+  "header": "'Accept':'application/json','Authorization':'Bearer $Access_Token'",
+  "url": "https://$Tenant_name.auth0.com/api/v2/clients",
+  "body": "",
+  "note": "",
+  "description": "Auth0 is a highly customizable platform that provides secure access for everyone. It allows developers to rapidly integrate authentication and authorization for web, mobile, and legacy applications, freeing them to focus on their core business. Auth0 o..."
+}

@@ -1,0 +1,1 @@
+{"name":"Powrbot","method":"GET","header":"'Authorization':'secret-key $API_KEY'","url":"https://powrbot.com/api/v1/search/single/?company=Apple","body":"","note":"","description":"Powrbot Inc. is a passionate company working on problems using data analytics, automation & machine learning. Our goal is to automate the boring stuff."}

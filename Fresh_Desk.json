@@ -1,0 +1,9 @@
+{
+  "name": "Fresh Desk",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://$Domain.freshdesk.com/api/v2/account",
+  "body": "",
+  "note": "Base64 encode as following \"{API_Key}:X\"",
+  "description": "Freshworks is a leading provider of modern SaaS solutions that solve multiple, complex business problems. Their suite of products includes Freshdesk, Freshservice, Freshsales, and Freshcaller, which are designed to work tightly together to increase col..."
+}

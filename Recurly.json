@@ -1,0 +1,9 @@
+{
+  "name": "Recurly",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Key','application/vnd.recurly.v2021-02-25','accept':'application/vnd.recurly.v2021-02-25'",
+  "url": "https://v3.recurly.com/accounts",
+  "body": "",
+  "note": "",
+  "description": "Recurly is a subscription management software and recurring billing platform that provides enterprise-class subscription management for businesses worldwide. They make it easy to manage the overhead required to operate a large and rapidly growing subsc..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "SigOpt",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.sigopt.com/v1/clients/$Client_ID",
+  "body": "",
+  "note": "Base64 encode \"API_Token\"",
+  "description": "SigOpt is a standardized, scalable, enterprise grade optimization platform and API designed to unlock the potential of your modeling pipelines. SigOpt is the optimization platform that amplifies your research. SigOpt takes any research pipeline and tun..."
+}

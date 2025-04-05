@@ -1,0 +1,9 @@
+{
+  "name": "BugHerd",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://www.bugherd.com/api_v2/users.json",
+  "body": "",
+  "note": "Base64 encode as following \"api_key:Auth_token\"",
+  "description": "BugHerd is a visual bug tracking website feedback tool for web agencies, developers, and product managers that improves communication for teams. It is the world's leading visual feedback and bug tracking tool for websites. BugHerd revolutionizes the wa..."
+}

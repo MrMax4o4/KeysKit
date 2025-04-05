@@ -1,0 +1,9 @@
+{
+  "name": "Shortcut",
+  "method": "GET",
+  "header": "'Content-Type':'application/json','Shortcut-Token':'$API_Token'",
+  "url": "https://api.app.shortcut.com/api/v3/member",
+  "body": "",
+  "note": "",
+  "description": "Shortcut is a project management platform for software development that helps teams align their work with company objectives. It offers features such as Kanban boards, connecting plans to work, cross-functional collaboration, big picture view of develo..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Web3.Storage",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Key'",
+  "url": "https://api.web3.storage/user/uploads",
+  "body": "",
+  "note": "",
+  "description": "web3.storage is a simple file storage service for IPFS and Filecoin. It provides all the benefits of decentralized storage and content addressing with a frictionless experience. With web3.storage, you can liberate your data using decentralized protocol..."
+}

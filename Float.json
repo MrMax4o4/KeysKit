@@ -1,0 +1,8 @@
+{
+  "name": "Float",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token'",
+  "url": "https://api.float.com/v3/people",
+  "body": "",
+  "description": "Float is a resource management, planning, and scheduling software that is rated as the #1 resource management software on G2. It is trusted by over 4,000 of the world's top teams to plan their projects and schedule their team's time. With Float, teams ..."
+}

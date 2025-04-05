@@ -1,0 +1,9 @@
+{
+  "name": "Mixpanel",
+  "method": "GET",
+  "header": "'authorization':'Basic $Base64_Auth'",
+  "url": "https://mixpanel.com/api/app/me",
+  "body": "",
+  "note": "Base64 encode <serviceaccount_username>:<serviceaccount_secret>",
+  "description": "Mixpanel is an analytics platform for the mobile and web, supporting businesses to study consumer behavior. It tracks user interactions with web and mobile applications and provides tools for targeted communication with them. Data collected is used to ..."
+}

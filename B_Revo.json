@@ -1,0 +1,9 @@
+{
+  "name": "B-Revo",
+  "method": "GET",
+  "header": "'accept':'application/json','api-key':'$API_KEY'",
+  "url": "https://api.brevo.com/v3/organization/invited/users",
+  "body": "",
+  "note": "",
+  "description": "null"
+}

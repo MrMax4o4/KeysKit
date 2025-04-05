@@ -1,0 +1,9 @@
+{
+  "name": "Erply",
+  "method": "POST",
+  "header": "'content-type':'application/x-www-form-urlencoded'",
+  "url": "https://$Client_Code.erply.com/api/",
+  "body": "clientCode=$Client_Code&username=$username&password=$password&request=verifyUser&sendContentType=1",
+  "note": "",
+  "description": "ERPLY is a software for commercial retail inventory and e-commerce that handles data across several sales locations, online stores, and offices. It provides real-time dashboards with relevant data and offers solutions for cloud POS, integrated payments..."
+}

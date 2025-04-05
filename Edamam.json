@@ -1,0 +1,9 @@
+{
+  "name": "Edamam",
+  "method": "GET",
+  "header": "'Accept-Language':'en'",
+  "url": "https://api.edamam.com/api/recipes/v2?type=public&app_id=$App_Id&app_key=$App_Key",
+  "body": "",
+  "note": "",
+  "description": "Edamam is a food database and nutrition data provider that offers a range of APIs for wellness and health applications. Their services include a Food Database API, Nutrition Analysis API, and Recipe Search API. They provide nutrition data solutions for..."
+}

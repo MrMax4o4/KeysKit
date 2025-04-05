@@ -1,0 +1,9 @@
+{
+  "name": "Store Leads",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Key'",
+  "url": "https://storeleads.app/json/api/v1/all/list/List%20Name",
+  "body": "",
+  "note": "",
+  "description": "Store Leads is a platform for ecommerce data that provides the most comprehensive list of ecommerce stores. It includes 12,812,166 active stores across 235 platforms such as Shopify, WooCommerce, and Square Online. The platform offers a free Chrome Ext..."
+}

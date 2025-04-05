@@ -1,0 +1,9 @@
+{
+  "name": "Fond",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth','Content-Type':'application/json'",
+  "url": "https://api.fond.co/v1/users/$USER_ID",
+  "body": "",
+  "note": "Base64 encode \"{API_Key:API_Secret}\"",
+  "description": "Fond is a global rewards and recognition platform that helps companies build a happier workforce with an easy to use, simplified solution. Fond provides a recognition and rewards platform that allows companies to create a culture of recognition, public..."
+}

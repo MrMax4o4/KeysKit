@@ -1,0 +1,9 @@
+{
+  "name": "Bible API",
+  "method": "GET",
+  "header": "'api-key':'$YOUR_API_KEY'",
+  "url": "https://api.scripture.api.bible/v1/bibles/a6aee10bb058511c-02/verses/JHN.3.16?fums-version=3",
+  "body": "",
+  "note": "",
+  "description": "null"
+}

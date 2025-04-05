@@ -1,0 +1,9 @@
+{
+  "name": "Todoist",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Key'",
+  "url": "https://api.todoist.com/rest/v1/projects",
+  "body": "",
+  "note": "",
+  "description": "Todoist is a task management app and to-do list that helps individuals and teams stay organized and focused. With over 30 million users, Todoist is trusted by people all over the world to manage their work and personal tasks. The app is available on va..."
+}

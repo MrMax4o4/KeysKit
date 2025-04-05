@@ -1,0 +1,9 @@
+{
+	"name": "Abstract API - ipgeolocation",
+	"method": "GET",
+	"header": "",
+	"url": "https://ipgeolocation.abstractapi.com/v1/?api_key=$API_Key&ip_address=$IP_Address",
+	"body": "",
+	"note": "",
+	"description": "Abstract provides powerful APIs to help you enrich any user experience or automate any workflow. Used by 10,000+ developers worldwide. Abstract API Automate your work with high quality / high availability APIs. Explore the essentials of validating 10 d..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "GitLab",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token'",
+  "url": "https://gitlab.com/api/v4/users",
+  "body": "",
+  "note": "For different instances, change the API host",
+  "description": "GitLab is a complete DevOps platform, delivered as a single application, fundamentally changing the way Development, Security, and Ops teams collaborate and build software. From idea to production, GitLab helps teams improve cycle time from weeks to mi..."
+}

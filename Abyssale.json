@@ -1,0 +1,9 @@
+{
+  "name": "Abyssale",
+  "method": "GET",
+  "header": "'x-api-key':'$API_Key'",
+  "url": "https://api.abyssale.com/templates",
+  "body": "",
+  "note": "",
+  "description": "Abyssale is a creative automation platform that helps designers, marketers, and founders speed up their creative asset production. With Abyssale, designers can save 90% of their time, marketers gain autonomy, and the whole team can launch campaigns fas..."
+}

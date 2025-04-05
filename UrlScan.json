@@ -1,0 +1,9 @@
+{
+  "name": "UrlScan",
+  "method": "GET",
+  "header": "'Content-Type':'application/json','API-Key':'$API_KEY'",
+  "url": "https://urlscan.io/user/quotas/",
+  "body": "",
+  "note": "",
+  "description": "urlscan.io is a website scanner that provides a sandbox for analyzing suspicious and malicious URLs. It is designed to help users find and identify malicious websites and phishing attempts. With comprehensive threat intelligence and a focus on cybersec..."
+}

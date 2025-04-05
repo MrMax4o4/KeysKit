@@ -1,0 +1,8 @@
+{
+  "name": "Fixer",
+  "method": "GET",
+  "header": "",
+  "url": "https://data.fixer.io/api/latest?access_key=$Access_Token",
+  "body": "",
+  "description": "Foreign exchange rates and currency conversion API Fixer provides a free, simple, and lightweight API for current and historical foreign exchange rates and currency conversion. The API tracks rates published daily by the European Central Bank. Fixer.io..."
+}

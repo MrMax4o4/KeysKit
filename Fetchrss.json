@@ -1,0 +1,8 @@
+{
+  "name": "Fetchrss",
+  "method": "GET",
+  "header": "",
+  "url": "http://fetchrss.com/api/v1/feed/list?auth=$API_Auth_Key",
+  "body": "",
+  "description": "FetchRSS is a free online RSS generator that allows users to create RSS feeds from any web page. Users simply need to provide the target URL and point to the desired blocks in the visual RSS builder. The service then generates the RSS feed in seconds a..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "StockDate",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.stockdata.org/v1/news/all?symbols=AAPL,TSLA&filter_entities=true&api_token=$API_Token",
+  "body": "",
+  "note": "",
+  "description": "StockData.org is a company that provides free real-time, intraday, and historical stock data API. They offer stock, forex, and crypto data and news in JSON format through easy-to-use API endpoints. Users can sign up for free and access over 150,000 wor..."
+}

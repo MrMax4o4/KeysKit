@@ -1,0 +1,9 @@
+{
+  "name": "ConvertAPI",
+  "method": "POST",
+  "header": "",
+  "url": "https://v2.convertapi.com/token/create?Secret=$API_Secret&RequestCount=3&Lifetime=10000&Count=2",
+  "body": "",
+  "note": "",
+  "description": "File conversion Rest API."
+}

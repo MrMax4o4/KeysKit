@@ -1,0 +1,9 @@
+{
+  "name": "API2Cart",
+  "method": "GET",
+  "header": "'x-api-key':'$API_Key'",
+  "url": "https://api.api2cart.com/v1.1/account.cart.list.json?params=force_all",
+  "body": "",
+  "note": "",
+  "description": "API2Cart is a unified shopping cart API integration interface that allows you to connect your B2B eCommerce solution with over 40 shopping platforms and marketplaces at once. With API2Cart, you can easily integrate your solution with platforms like Mag..."
+}

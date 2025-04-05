@@ -1,0 +1,9 @@
+{
+	"name": "New Relic - Get",
+	"method": "GET",
+	"header": "'x-api-key':'$API_Key'",
+	"url": "https://api.newrelic.com/v2/users.json",
+	"body": "",
+	"note": "",
+	"description": "New Relic is a software analytics company that makes sense of 250 billion data points daily from millions of applications. New Relic is a leading digital intelligence company, delivering full stack visibility and analytics to over 40% of the Fortune 10..."
+}

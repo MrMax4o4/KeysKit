@@ -1,0 +1,9 @@
+{
+  "name": "BlaBlaCar",
+  "method": "GET",
+  "header": "'Authorization':'Token $API_Token'",
+  "url": "https://bus-api.blablacar.com/v3/fares?date=2015-04-16&origin_id=12",
+  "body": "",
+  "note": "",
+  "description": "BlaBlaCar is the world's leading community based travel network. Bus or carpool, find the perfect ride from a wide range of destinations and routes at low prices. The biggest European carpooling platform has now gone Global. Our members are having fun ..."
+}

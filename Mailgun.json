@@ -1,0 +1,9 @@
+{
+  "name": "Mailgun",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.mailgun.net/v3/domains",
+  "body": "",
+  "note": "Base64 encode as following \"api:{YOUR_API_KEY}\"",
+  "description": "Mailgun is email automation for developers. Use our REST APIs to effortlessly send, receive and track email from your website or application. The leading email delivery service for developers and businesses around the world."
+}

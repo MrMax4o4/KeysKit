@@ -1,0 +1,9 @@
+{
+  "name": "AdRoll",
+  "method": "GET",
+  "header": "'Authorization':'Token $Access_Token'",
+  "url": "https://services.adroll.com/api/v1/organization/get_advertisables_paginated?apikey=$API_KEY",
+  "body": "",
+  "note": "",
+  "description": "AdRoll is a leading performance marketing platform with over 30,000 clients worldwide. Its suite of high performance tools works across devices, helping businesses attract, convert, and grow their customer base. The company is home to the world's large..."
+}

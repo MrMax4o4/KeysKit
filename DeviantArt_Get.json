@@ -1,0 +1,9 @@
+{
+	"name": "DeviantArt - Get",
+	"method": "GET",
+	"header": "",
+	"url": "https://www.deviantart.com/api/v1/oauth2/placebo?access_token=$Access_Token",
+	"body": "",
+	"note": "",
+	"description": "DeviantArt is the largest online social network for artists and art enthusiasts. It is a platform for emerging and established artists to exhibit, promote, and share their works with a supportive community. With over 44 million registered members and 4..."
+}

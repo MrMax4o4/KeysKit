@@ -1,0 +1,9 @@
+{
+  "name": "Terminus",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.terminusapp.com/v1/projects",
+  "body": "",
+  "note": "Base64 encode as following \"YOUR_API_KEY:\"",
+  "description": "All in one UTM Builder and Link Management Platform Terminus App is a feature rich UTM builder software and link management platform. Replace your UTM spreadsheet and standardize your UTM naming conventions. Build and Track UTM URLs Consistently and Ac..."
+}

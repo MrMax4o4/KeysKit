@@ -1,0 +1,9 @@
+{
+  "name": "1Forge",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.1forge.com/quota?api_key=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "1Forge offers Realtime Forex and Cryptocurrency Quotes straight from trading floors, banks and ECNs across the globe. Over 700 unique currency pairs supported including FX, cryptos, gold and silver. True, executable bid/ask quotes without any spread pa..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Loqate",
+  "method": "GET",
+  "header": "",
+  "url": "http://api.addressy.com/Capture/Interactive/Find/v1.00/json3.ws?Key=$API_KEY&Countries=US,CA&Language=en&Limit=5&Text=BHAR",
+  "body": "",
+  "note": "",
+  "description": "Loqate is a GBG Solution that improves data quality by capturing correct addresses. They offer postal code address verification and geocoding technology to boost conversions and user experience. With coverage in over 240 countries and territories, Loqa..."
+}

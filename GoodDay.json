@@ -1,0 +1,9 @@
+{
+  "name": "GoodDay",
+  "method": "GET",
+  "header": "'gd-api-token':'$API_Token'",
+  "url": "https://api.goodday.work/2.0/users",
+  "body": "",
+  "note": "",
+  "description": "GoodDay is a powerful work management platform that helps teams power projects, processes, and workflows in one digital space. It uses motivation, autonomy, accountability, and recognition to inspire results-oriented work in a happy workplace. GoodDay ..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Currents API",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.currentsapi.services/v1/search?apiKey=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "Currents API is a news data provider that offers a JSON-based News API. With access to over 14,000 news sources in more than 20 languages, Currents API allows users to easily retrieve the latest news articles from around the world. The API curates news..."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Mite",
+  "method": "GET",
+  "header": "'X-MiteApiKey':'$API_Key'",
+  "url": "https://$Account_Name.mite.de/users.json",
+  "body": "",
+  "description": "null"
+}

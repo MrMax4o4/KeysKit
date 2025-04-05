@@ -1,0 +1,9 @@
+{
+  "name": "VirusTotal",
+  "method": "POST",
+  "header": "",
+  "url": "https://www.virustotal.com/vtapi/v2/url/scan",
+  "body": "{'apikey=$API_KEY','url=$URL'}",
+  "note": "",
+  "description": "VirusTotal is a service that analyzes suspicious files and facilitates real-time detection of viruses, worms, trojans, and malware content. It is the richest and most actionable crowdsourced threat intelligence platform in the world, providing comprehe..."
+}

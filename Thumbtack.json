@@ -1,0 +1,9 @@
+{
+  "name": "Thumbtack",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token','Content-Type':'application/json'",
+  "url": "https://pro-api.thumbtack.com/v2/get-thumbtack-info",
+  "body": "",
+  "note": "",
+  "description": "Thumbtack is a service that connects people with the best local professionals for any project on their list. Simply answer a few questions about what you need done and in no time, you’ll receive up to five free quotes from qualified and available profe..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Gumroad",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.gumroad.com/v2/user?access_token=$Access_Token",
+  "body": "",
+  "note": "",
+  "description": "Gumroad is a powerful e-commerce platform that makes it easy to earn money online by selling digital products, memberships, and more. It enables creators in various fields such as writing, design, game development, music, art, and film to turn their ho..."
+}

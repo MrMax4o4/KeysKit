@@ -1,0 +1,9 @@
+{
+  "name": "Lokalise",
+  "method": "GET",
+  "header": "'X-Api-Token':'$API_Token','accept':'application/json'",
+  "url": "https://api.lokalise.com/api2/projects",
+  "body": "",
+  "note": "",
+  "description": "Lokalise is a continuous localization and translation management platform. It integrates into your development workflow so you can ship localized products, faster. Your one stop solution for AI powered translations and automated localization. Collabora..."
+}

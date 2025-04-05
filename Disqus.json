@@ -1,0 +1,9 @@
+{
+  "name": "Disqus",
+  "method": "GET",
+  "header": "",
+  "url": "https://disqus.com/api/3.0/users/details.json?access_token=$Access_Token&api_key=$API_Key&api_secret=$API_Secret",
+  "body": "",
+  "note": "",
+  "description": "From small blogs to massive websites, Disqus is the easiest way to build active communities. It's free to use and works with virtually any type of website. Disqus is the web's community of communities.Have a question or need assistance? Contact us at  ..."
+}

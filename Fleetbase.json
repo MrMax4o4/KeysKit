@@ -1,0 +1,9 @@
+{
+  "name": "Fleetbase",
+  "method": "GET",
+  "header": "'Authorization':'Basic $API_Key'",
+  "url": "https://api.fleetbase.io/v1",
+  "body": "",
+  "note": "Base64 encode as following \"API_Key:\"",
+  "description": "Fleetbase is an open-source modular logistics platform that provides a complete end-to-end operations system for logistics and supply chain management. With Fleetbase, businesses can implement their own on-premise setup for logistics headquarters, driv..."
+}

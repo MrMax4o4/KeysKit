@@ -1,0 +1,9 @@
+{
+  "name": "Alloy",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.uk.alloyapp.io/api/session/me?token=$API_Token",
+  "body": "",
+  "note": "",
+  "description": "null"
+}

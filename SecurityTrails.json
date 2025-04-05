@@ -1,0 +1,9 @@
+{
+  "name": "SecurityTrails",
+  "method": "GET",
+  "header": "'APIKEY':'$API_Key','accept':'application/json'",
+  "url": "https://api.securitytrails.com/v1/domain/oracle.com/subdomains?children_only=false&include_inactive=true",
+  "body": "",
+  "note": "",
+  "description": "SecurityTrails is a company that provides powerful tools for third party risk, attack surface management, and total intel. They offer a total inventory that curates comprehensive domain and IP address data for users and applications that demand clarity..."
+}

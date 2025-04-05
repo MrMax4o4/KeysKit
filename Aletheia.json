@@ -1,0 +1,9 @@
+{
+  "name": "Aletheia",
+  "method": "GET",
+  "header": "'key':'$API_Key'",
+  "url": "https://api.aletheiaapi.com/v2/consumption",
+  "body": "",
+  "note": "",
+  "description": "Aletheia API is a free, real-time financial data API that provides stock data, financials, SEC filings, fundamental analysis, insider trading, and more. It offers unlimited access to millions of transactions and data points, both real-time and historic..."
+}

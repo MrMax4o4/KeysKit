@@ -1,0 +1,9 @@
+{
+	"name": "Brevo",
+	"method": "GET",
+	"header": "'accept':'application/json','api-key':'$API_Key'",
+	"url": "https://api.brevo.com/v3/account",
+	"body": "",
+	"note": "",
+	"description": ""
+}

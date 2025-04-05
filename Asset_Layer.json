@@ -1,0 +1,9 @@
+{
+  "name": "Asset Layer",
+  "method": "GET",
+  "header": "'appsecret':'$APP_Secret'",
+  "url": "https://api.assetlayer.com/api/v1/app/info?appId=$APII_ID",
+  "body": "",
+  "note": "",
+  "description": "Asset Layer is a company that provides the fastest, simplest, and most affordable solution to create and manage digital assets. They offer IT services and IT consulting. Visit their website to learn more and get in touch with them."
+}

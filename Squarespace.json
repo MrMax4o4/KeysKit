@@ -1,0 +1,9 @@
+{
+  "name": "Squarespace",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Token'",
+  "url": "https://api.squarespace.com/1.0/profiles/",
+  "body": "",
+  "note": "",
+  "description": "null"
+}

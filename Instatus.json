@@ -1,0 +1,9 @@
+{
+  "name": "Instatus",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Key'",
+  "url": "https://api.instatus.com/v1/pages",
+  "body": "",
+  "note": "",
+  "description": "Instatus is a platform that allows companies to create quick and beautiful status pages. With Instatus, companies can create a status page in just 10 seconds without having to pay thousands of dollars. The status page is resilient to downtime and loads..."
+}

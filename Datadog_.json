@@ -1,0 +1,9 @@
+{
+  "name": "Datadog,",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.datadoghq.com/api/v1/dashboard?api_key=$api_key&application_key=$application_key",
+  "body": "",
+  "note": "",
+  "description": "Datadog is a cloud monitoring and security platform that provides monitoring and observability solutions for cloud applications. It brings together data from servers, containers, databases, and third-party services to make your stack entirely observabl..."
+}

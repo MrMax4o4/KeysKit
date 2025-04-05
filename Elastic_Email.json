@@ -1,0 +1,9 @@
+{
+  "name": "Elastic Email",
+  "method": "GET",
+  "header": "'X-ElasticEmail-ApiKey':'$API_Key'",
+  "url": "https://api.elasticemail.com/v4/events",
+  "body": "",
+  "note": "",
+  "description": "Elastic Email is a marketing platform that provides email marketing and delivery tools to help businesses communicate with their customers. They offer a cost-effective delivery engine and flexible pricing options, allowing companies to pay only for wha..."
+}

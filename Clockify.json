@@ -1,0 +1,9 @@
+{
+  "name": "Clockify",
+  "method": "GET",
+  "header": "'X-Api-Key':'$API_Key'",
+  "url": "https://api.clockify.me/api/v1/user",
+  "body": "",
+  "note": "",
+  "description": "Clockify is a time tracking software used by millions. It is a simple time tracker and timesheet app that allows users to track work hours across projects. Clockify is the #1 time tracker for teams and offers features such as time and cost tracking, pr..."
+}

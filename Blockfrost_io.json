@@ -1,0 +1,9 @@
+{
+	"name": "Blockfrost.io",
+	"method": "GET",
+	"header": "'project_id':'$API_Key'",
+	"url": "https://cardano-mainnet.blockfrost.io/api/v0/",
+	"body": "",
+	"note": "",
+	"description": "Blockfrost.io is a leading Web3 infrastructure provider that offers an instant and scalable Cardano API for free. In addition to the Cardano API, Blockfrost.io also provides open-source APIs for Cardano, Milkomeda, and IPFS. With Blockfrost.io, users c..."
+}

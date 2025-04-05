@@ -1,0 +1,9 @@
+{
+  "name": "Documo",
+  "method": "GET",
+  "header": "'Authorization':'Basic $API_KEY'",
+  "url": "https://api.documo.com/api-keys",
+  "body": "",
+  "note": "",
+  "description": "Documo is a next generation document workflow solutions company. They make working with documents easy, more secure, and better for the planet. Their products include legally binding e-signatures, secure cloud fax, and cloud storage for workflow critic..."
+}

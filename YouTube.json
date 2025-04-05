@@ -1,0 +1,9 @@
+{
+  "name": "YouTube",
+  "method": "GET",
+  "header": "",
+  "url": "https://www.googleapis.com/youtube/v3/activities?part=contentDetails&maxResults=25&channelId=$Channel_ID&key=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "null"
+}

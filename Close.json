@@ -1,0 +1,9 @@
+{
+  "name": "Close",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.close.com/api/v1/me/",
+  "body": "",
+  "note": "Base64 encode \"{YOUR_API_KEY}:\"",
+  "description": "Close is a CRM software company that provides sales productivity tools for growing sales teams. Their CRM platform helps startups and SMBs make more calls, send more emails, and close more deals. Close integrates with email, calendar, and communication..."
+}

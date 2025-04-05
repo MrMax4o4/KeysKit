@@ -1,0 +1,9 @@
+{
+  "name": "Truework",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Secret_Key'",
+  "url": "https://api.truework.com/companies?q=$Search_Query",
+  "body": "",
+  "note": "",
+  "description": "Verify income and employment for any applicant, all on the Truework platform. Access 35+ million U.S. employees instantly to close loans, faster. We protect consumers by providing transparency and control into how sensitive employee data is shared, whi..."
+}

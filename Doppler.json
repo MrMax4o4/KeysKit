@@ -1,0 +1,9 @@
+{
+  "name": "Doppler",
+  "method": "GET",
+  "header": "'authorization':'Bearer $Auth_Token'",
+  "url": "https://api.doppler.com/v3/workplace",
+  "body": "",
+  "note": "",
+  "description": "Doppler is the #1 SecretOps Platform that enables developers and security teams to keep their secrets and app configuration in sync and secure across devices, environments, and team members. With Doppler, developers can say goodbye to .env files and se..."
+}

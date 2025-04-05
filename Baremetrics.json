@@ -1,0 +1,9 @@
+{
+  "name": "Baremetrics",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Key'",
+  "url": "https://api.baremetrics.com/v1/users",
+  "body": "",
+  "note": "",
+  "description": "Baremetrics is a subscription analytics and insights platform that provides valuable metrics and business insights for businesses using Stripe, Braintree, Recurly, and more. With one click, users can access dozens of metrics to understand how their bus..."
+}

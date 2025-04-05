@@ -1,0 +1,9 @@
+{
+  "name": "Reddit",
+  "method": "GET",
+  "header": "'Authorization':'Bearer API_Token','Accept':'application.json'",
+  "url": "https://www.reddit.com/api/v1/me",
+  "body": "",
+  "note": "",
+  "description": "Reddit is a network of communities where people can dive into their interests, hobbies and passions. There's a community for whatever you're interested in on Reddit. Reddit is a community of millions of users engaging in the creation of content and the..."
+}

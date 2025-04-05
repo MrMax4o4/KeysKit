@@ -1,0 +1,8 @@
+{
+  "name": "Feedier",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Key'",
+  "url": "https://api.feedier.com/v1/carriers",
+  "body": "",
+  "description": "Feedier is an agile solution for managing feedback, performing as a centralized solution for all direct and indirect feedback data. Feedier enables you to collect, organize and centralize end customer feedback in one place, while also providing your te..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Help Scout",
+  "method": "POST",
+  "header": "'content-type':'application/x-www-form-urlencoded'",
+  "url": "https://api.helpscout.net/v2/oauth2/token",
+  "body": "grant_type=client_credentials&client_id=$application_id&client_secret=$application_secret",
+  "note": "",
+  "description": "Help Scout is a company that provides shared inbox, help center, and live chat software. Their software is more powerful than regular email, but just as simple to use. It allows teams to easily manage customer communications and provide real-time, real..."
+}

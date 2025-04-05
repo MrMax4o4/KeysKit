@@ -1,0 +1,9 @@
+{
+  "name": "Helpshift",
+  "method": "GET",
+  "header": "'Accept':'application/json','Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.helpshift.com/v1/$domain/agents/",
+  "body": "",
+  "note": "Base64 encode \"API_KEY\"",
+  "description": "Helpshift is a mobile first customer service platform that delivers a superior in app help experience for many of the world's top mobile apps and games. Helpshift is redefining how companies handle customer service on mobile. Today’s customers must hav..."
+}

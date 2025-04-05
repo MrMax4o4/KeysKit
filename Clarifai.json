@@ -1,0 +1,9 @@
+{
+  "name": "Clarifai",
+  "method": "GET",
+  "header": "'Authorization':'Key $API_Key','Content-Type':'application/json'",
+  "url": "https://api.clarifai.com/v2/users/",
+  "body": "",
+  "note": "",
+  "description": "Clarifai is a leading Full Stack AI, LLM, and computer vision production platform. They specialize in modeling unstructured image, video, text, and audio data. Their deep learning systems have improved significantly in speed, vocabulary size, and memor..."
+}

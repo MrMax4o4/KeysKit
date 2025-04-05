@@ -1,0 +1,9 @@
+{
+  "name": "Tipalti",
+  "method": "GET",
+  "header": "'accept':'application/json','authorization':'Bearer $Access_token'",
+  "url": "https://api-p.tipalti.com/api/v1/gl-accounts",
+  "body": "",
+  "note": "",
+  "description": "Tipalti delivers smart payables that elevate modern business. Let’s bring scale, efficiency, and focus to your business through fully automated, end to end solutions. Tipalti is the only supplier payment automation solution to streamline all phases of ..."
+}

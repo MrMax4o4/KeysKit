@@ -1,0 +1,9 @@
+{
+  "name": "SeatGeek",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.seatgeek.com/2/events?client_id=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "SeatGeek is a ticket search engine enabling users to find and purchase tickets for live sports, concert, and theater events. SeatGeek was built in 2009 as the only mobile ticketing marketplace created with fan experience top of mind. They aim to be a f..."
+}

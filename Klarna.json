@@ -1,0 +1,9 @@
+{
+  "name": "Klarna",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.klarna.com/customer-token/v1/tokens/$customer_Token",
+  "body": "",
+  "note": "",
+  "description": "Klarna provides e-commerce payment solutions for merchants and shoppers. They aim to become the world's favorite way to shop and bring flexible, healthy financial services to consumers. Klarna offers products and services in payments, social shopping, ..."
+}

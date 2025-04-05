@@ -1,0 +1,9 @@
+{
+  "name": "Aiven",
+  "method": "GET",
+  "header": "'Authorization': 'aivenv1 $TOKEN'",
+  "url": "https://api.aiven.io/v1/project",
+  "body": "",
+  "note": "",
+  "description": "Aiven is a cloud technology startup launched in 2016. We run and manage open source database and backend messaging systems for our business customers around the world. We manage your open source data infrastructure in the cloud – so you can get back to..."
+}

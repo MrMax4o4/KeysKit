@@ -1,0 +1,9 @@
+{
+  "name": "PayPal",
+  "method": "GET",
+  "header": "'Content-Type':'application/json','Authorization':'Bearer $ACCESS_TOKEN'",
+  "url": "https://api.sandbox.paypal.com/v1/identity/oauth2/userinfo?schema=paypalv1.1",
+  "body": "",
+  "note": "",
+  "description": "PayPal is a digital payments platform that provides online payment solutions to its users worldwide. It offers a faster and safer way to send and receive money, make online payments, and accept payments as a merchant. With over 210 million active accou..."
+}

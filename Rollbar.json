@@ -1,0 +1,9 @@
+{
+  "name": "Rollbar",
+  "method": "GET",
+  "header": "'X-Rollbar-Access-Token':'$Access_Token'",
+  "url": "https://api.rollbar.com/api/1/users",
+  "body": "",
+  "note": "",
+  "description": "Rollbar provides real time error tracking & debugging tools for developers. Rollbar collects and analyzes errors in web and server applications, so you can find and fix them faster. Rollbar provides real time error tracking services for developers to d..."
+}

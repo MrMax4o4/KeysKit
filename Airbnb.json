@@ -1,0 +1,9 @@
+{
+  "name": "Airbnb",
+  "method": "GET",
+  "header": "'X-RapidAPI-Host':'airbnb19.p.rapidapi.com','X-RapidAPI-Key':'$API_Key'",
+  "url": "https://airbnb19.p.rapidapi.com/api/v1/test",
+  "body": "",
+  "note": "",
+  "description": "RapidAPI is an API marketplace that helps developers find and connect directly to the world's top APIs. It provides a multi-cloud platform for finding, connecting, and sharing thousands of APIs. With RapidAPI, developers can improve their experience wi..."
+}

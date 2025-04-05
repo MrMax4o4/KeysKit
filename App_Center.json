@@ -1,0 +1,9 @@
+{
+  "name": "App Center",
+  "method": "GET",
+  "header": "'Content-Type':'application/json','X-Api-Token':'$api_token'",
+  "url": "https://api.appcenter.ms/v0.1/apps",
+  "body": "",
+  "note": "",
+  "description": "Visual Studio App Center is a platform that allows developers to continuously build, test, release, and monitor apps for every platform. It supports iOS, Android, Xamarin, React Native, macOS, tvOS, Unity, and Windows apps. With Visual Studio App Cente..."
+}

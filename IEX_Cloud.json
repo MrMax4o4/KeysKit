@@ -1,0 +1,1 @@
+{"name":"IEX Cloud","method":"GET","header":"","url":"https://cloud.iexapis.com/stable/stock/aapl/quote?token=$API_TOKEN","body":"","note":"","description":""}

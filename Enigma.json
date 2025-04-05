@@ -1,0 +1,9 @@
+{
+  "name": "Enigma",
+  "method": "POST",
+  "header": "'content-type':'application/json','x-api-key':'$API_Key'",
+  "url": "https://api.enigma.com/businesses/match",
+  "body": "{'name': 'string','person': {'first_name': 'string','last_name': 'string'}}",
+  "note": "",
+  "description": "Enigma is a business data and intelligence company that provides accurate and timely information about the identity and financial health of small and medium businesses in the US. They offer comprehensive data coverage on millions of SMBs, helping compa..."
+}

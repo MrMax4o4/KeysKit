@@ -1,0 +1,9 @@
+{
+  "name": "WorkBoard",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Key'",
+  "url": "https://demo.biz.wobo-int.com/wb/apis/user",
+  "body": "",
+  "note": "",
+  "description": "null"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "CraftMyPDF",
+  "method": "GET",
+  "header": "'X-API-KEY':'$API_Key'",
+  "url": "https://api.craftmypdf.com/v1/list-transactions?limit=300&offset=0",
+  "body": "",
+  "description": "CraftMyPDF.com is a company that provides an API for PDF and Image Generation. They offer an advanced editor that allows users to easily create new PDFs by dragging and dropping elements into templates. Users can create PDF documents such as invoices, ..."
+}

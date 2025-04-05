@@ -1,0 +1,9 @@
+{
+  "name": "Sinch",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token'",
+  "url": "https://numbers.api.sinch.com/v1/projects/$Organization_ID/availableNumbers?regionCode=US&type=LOCAL",
+  "body": "",
+  "note": "",
+  "description": "SMS Messaging, Voice, Email, Video & Verification APIs | Sinch Unlock meaningful conversations across the customer journey with programmable SMS, voice, email, video, & verification APIs! With a passion for simplicity and the culmination of years of ex..."
+}

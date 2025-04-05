@@ -1,0 +1,9 @@
+{
+  "name": "JumpCloud",
+  "method": "GET",
+  "header": "'x-api-key':'$API_Key'",
+  "url": "https://console.jumpcloud.com/api/systems",
+  "body": "",
+  "note": "",
+  "description": "JumpCloud is a cloud-based directory platform that provides secure and frictionless access to resources from any device, anywhere. It offers a range of services including single sign-on (SSO), multi-factor authentication (MFA), device management, and m..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Shodan",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.shodan.io/account/profile?key=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "Shodan is the world's first search engine for Internet connected devices. It allows users to search the Internet of Things and perform empirical market research. Shodan provides a comprehensive view of all exposed services to help users stay secure. It..."
+}

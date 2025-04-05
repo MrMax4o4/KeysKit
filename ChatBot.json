@@ -1,0 +1,8 @@
+{
+  "name": "ChatBot",
+  "method": "GET",
+  "header": "'authorization':'Bearer $Access_Token'",
+  "url": "https://api.chatbot.com/users",
+  "body": "",
+  "description": "ChatBot is an AI chat bot software that helps automate customer service on websites. With ChatBot, businesses can build their own chatbots from scratch without needing any technical skills. The platform uses artificial intelligence to provide quick and..."
+}

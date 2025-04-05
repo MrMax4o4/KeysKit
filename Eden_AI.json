@@ -1,0 +1,9 @@
+{
+  "name": "Eden AI",
+  "method": "GET",
+  "header": "'authorization':'Bearer $API_Token'",
+  "url": "https://api.edenai.run/v2/aiproducts/",
+  "body": "",
+  "note": "",
+  "description": "null"
+}

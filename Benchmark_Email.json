@@ -1,0 +1,9 @@
+{
+  "name": "Benchmark Email",
+  "method": "GET",
+  "header": "'AuthToken':'$Auth_Token','Content-Type':'application/json'",
+  "url": "https://clientapi.benchmarkemail.com/Client/Setting",
+  "body": "",
+  "note": "",
+  "description": "Benchmark Email is an email marketing platform that provides businesses with intelligent email marketing tools to help them reach their audience. They offer a suite of products and services, including building beautiful and responsive emails, engaging ..."
+}

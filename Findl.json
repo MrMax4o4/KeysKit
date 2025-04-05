@@ -1,0 +1,8 @@
+{
+  "name": "Findl",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.findl.com/v1.0/data/daily?apiKey=$API_Key",
+  "body": "",
+  "description": "Radically accessible US stock fundamentals | findl.com 25+ years of reference grade stock fundamentals, EOD price and investor holdings data for US public companies. Free Data  Fundamentals Data  Prices Data  Investors Data  Ultimate Data Bundle  Data ..."
+}

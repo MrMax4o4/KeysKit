@@ -1,0 +1,9 @@
+{
+  "name": "Coinranking",
+  "method": "GET",
+  "header": "'x-access-token':'$API_Key'",
+  "url": "https://api.coinranking.com/v2/exchanges",
+  "body": "",
+  "note": "",
+  "description": "Coinranking is a website that provides a simple and user-friendly interface to check the prices of cryptocurrencies like Bitcoin, Ethereum, and many more. It offers real-time prices and rich metadata of all coins and exchanges through its API. Addition..."
+}

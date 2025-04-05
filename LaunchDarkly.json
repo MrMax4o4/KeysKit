@@ -1,0 +1,9 @@
+{
+  "name": "LaunchDarkly",
+  "method": "GET",
+  "header": "'Authorization':'$API_Key'",
+  "url": "https://app.launchdarkly.com/api/v2/members",
+  "body": "",
+  "note": "",
+  "description": "LaunchDarkly is a Feature Management Platform that serves over 10 billion feature flags daily to help software teams build better software, faster. LaunchDarkly helps eliminate risk for developers and operations teams from the software development cycl..."
+}

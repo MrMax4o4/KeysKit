@@ -1,0 +1,9 @@
+{
+  "name": "SignalWire",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://$Domain.signalwire.com/api/laml/2010-04-01/Accounts",
+  "body": "",
+  "note": "Base64 encode \"{$Your_Project_ID:$Your_Auth_Token}\"",
+  "description": "SignalWire is a software-defined telecom network that unifies old school telecom, modern WebRTC video and audio, and IP messaging into a single API. With SignalWire, users can build AI-powered voice, messaging, and video applications in minutes. The pl..."
+}

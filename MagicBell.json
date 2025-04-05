@@ -1,0 +1,8 @@
+{
+  "name": "MagicBell",
+  "method": "GET",
+  "header": "'X-MAGICBELL-API-KEY':'$API_Key','X-MAGICBELL-API-SECRET':'$API_Secret'",
+  "url": "https://api.magicbell.com/users",
+  "body": "",
+  "description": "MagicBell is a real-time notification system for web and mobile applications. It offers multi-channel delivery, notification preferences, and one-click unsubscriptions to users. With MagicBell, you can improve user experience with smart notifications, ..."
+}

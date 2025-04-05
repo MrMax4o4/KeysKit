@@ -1,0 +1,9 @@
+{
+  "name": "Livongo",
+  "method": "GET",
+  "header": "'x-session-token':'$access_token'",
+  "url": "https://api.mystrength.livongo.com/partner/v2/users?page=0&limit=500",
+  "body": "",
+  "note": "",
+  "description": "Livongo is a consumer digital health company that empowers people with chronic conditions to live a better life. Livongo has developed a completely new approach for diabetes management that combines the latest technology with coaching. We start with ou..."
+}

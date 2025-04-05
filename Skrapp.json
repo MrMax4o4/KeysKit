@@ -1,0 +1,9 @@
+{
+  "name": "Skrapp",
+  "method": "GET",
+  "header": "'X-Access-Key':'$Access_Key'",
+  "url": "https://api.skrapp.io/api/v2/account",
+  "body": "",
+  "note": "",
+  "description": "Skrapp.io is an email lookup tool that helps businesses find and verify B2B emails in seconds. With Skrapp.io, users can extract leads from LinkedIn, find email addresses, and launch email prospecting projects. The platform also provides tools, pricing..."
+}

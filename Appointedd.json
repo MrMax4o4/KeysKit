@@ -1,0 +1,9 @@
+{
+  "name": "Appointedd",
+  "method": "GET",
+  "header": "'X-API-KEY':'$API_Key'",
+  "url": "https://api.appointedd.com/v1/services/categories?limit=10",
+  "body": "",
+  "note": "",
+  "description": "Appointedd is an online booking system that lets your customers book anything, anywhere in two taps. Appointedd is the ultimate online booking software. Any booking, on any platform, in any timezone. Appointedd supercharges your business with online bo..."
+}

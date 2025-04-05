@@ -1,0 +1,9 @@
+{
+  "name": "Cicero",
+  "method": "GET",
+  "header": "",
+  "url": "https://cicero.azavea.com/v3.1/official?lat=39.662&lon=-75.566&district_type=NATIONAL_LOWER&format=json&key=$API_key",
+  "body": "",
+  "note": "",
+  "description": "Azavea specializes in the creation of geographic web and mobile software, as well as geospatial analysis services to enhance decision making. We are committed to working on projects with strong social value in order to promote the emergence of more vib..."
+}

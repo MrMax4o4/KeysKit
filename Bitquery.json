@@ -1,0 +1,9 @@
+{
+  "name": "Bitquery",
+  "method": "POST",
+  "header": "'X-API-KEY':'$API_Key'",
+  "url": "https://graphql.bitquery.io/",
+  "body": "",
+  "note": "",
+  "description": "Bitquery is a blockchain API provider that offers real-time and historical data from over 40 blockchains and protocols. They provide GraphQL APIs, WebSocket interfaces, and SQL queries to access and analyze blockchain data. Their APIs are used for vari..."
+}

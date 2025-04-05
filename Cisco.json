@@ -1,0 +1,9 @@
+{
+  "name": "Cisco",
+  "method": "GET",
+  "header": "'X-Cisco-Meraki-API-Key':'$Secret_Key','Content-Type':'application/json','Accept':'application/json'",
+  "url": "https://api.meraki.com/api/v1/organizations",
+  "body": "",
+  "note": "",
+  "description": "Cisco Systems, Inc. designs and sells a range of products, provides services and delivers integrated solutions to develop and connect networks around the world. The Company operates through three geographic segments: Americas; Europe, the Middle East a..."
+}

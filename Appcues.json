@@ -1,0 +1,9 @@
+{
+  "name": "Appcues",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.appcues.com/v2/accounts/202990/jobs",
+  "body": "",
+  "note": "Base64 encode \"{API_KEY:API_SECRET}\"",
+  "description": "Appcues is a user onboarding software solution that helps businesses improve product adoption and user experiences. With Appcues, non-technical teams can easily design, deploy, and test captivating onboarding experiences in minutes, without the need fo..."
+}

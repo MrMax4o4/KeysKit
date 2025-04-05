@@ -1,0 +1,9 @@
+{
+  "name": "Squareup Sandbox",
+  "method": "GET",
+  "header": "'Square-Version':'2023-11-15','Authorization':'Bearer $Access_Token'",
+  "url": "https://connect.squareupsandbox.com/v2/bank-accounts",
+  "body": "",
+  "note": "",
+  "description": "Square is a merchant services aggregator and mobile payment company that aims to simplify commerce through technology. They provide a range of products and services to help businesses start, run, and grow. This includes hardware and software tools such..."
+}
