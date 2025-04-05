@@ -1,0 +1,9 @@
+{
+  "name": "Cliengo",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.cliengo.com/1.0/account?api_key=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "Optimizamos tu inversión, mejoramos tu ROAS  con IA | Cliengo Descubre cómo la automatización con la IA de Cliengo te ayuda a perfilar, gestionar tus clientes y optimizar los resultados de tus campañas. 🤖 ¡Misma inversión, mejores resultados con el #ch..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "SavePage",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.savepage.io/v1?key=$API_Key&q=$URL",
+  "body": "",
+  "note": "",
+  "description": "Capture snapshots of websites and save tham as images with our powerful API service."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Rijksmuseum",
+  "method": "GET",
+  "header": "",
+  "url": "https://www.rijksmuseum.nl/api/nl/usersets?key=$API_KEY&format=json&page=2",
+  "body": "",
+  "note": "",
+  "description": "Rijksmuseum is the museum of the Netherlands. We tell the story of 800 years of Dutch history with the great masters Rembrandt, Vermeer, and Van Gogh. Located in the historic center of Amsterdam, we offer exhibitions and collections of Dutch art and hi..."
+}

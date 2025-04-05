@@ -1,0 +1,9 @@
+{
+  "name": "ConvertKit",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.convertkit.com/v3/account?api_secret=$your_secret_api_key",
+  "body": "",
+  "note": "",
+  "description": "ConvertKit is a creator marketing platform for online creators. We help authors, makers, podcasters, photographers, YouTubers, teachers, artists, and other creators build and monetize their audience. With 19,500 paying customers and sending 500 million..."
+}

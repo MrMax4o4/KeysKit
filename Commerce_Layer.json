@@ -1,0 +1,9 @@
+{
+  "name": "Commerce Layer",
+  "method": "GET",
+  "header": "'Accept':'application/vnd.api+json','Authorization':'Bearer $Access_Token'",
+  "url": "https://abdo-2.commercelayer.io/api/events/",
+  "body": "",
+  "note": "",
+  "description": "Commerce Layer is an API first commerce engine that makes it easy to go headless. Start fast with our micro frontends. Scale globally with our suite of APIs. We do headless better. Manage your returns workflows with our new Returns App. Commerce Layer ..."
+}

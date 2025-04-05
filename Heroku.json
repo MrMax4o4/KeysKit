@@ -1,0 +1,9 @@
+{
+  "name": "Heroku",
+  "method": "GET",
+  "header": "'Accept':'application/vnd.heroku+json; version=3','Authorization':'Bearer $API_Token'",
+  "url": "https://api.heroku.com/account",
+  "body": "",
+  "note": "",
+  "description": "Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud. Heroku provides services and tools to build, run and scale beautiful mobile and web applications. Heroku is a Salesforce Com..."
+}

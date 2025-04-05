@@ -1,0 +1,9 @@
+{
+  "name": "BreezoMeter",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.breezometer.com/air-quality/v2/current-conditions?lat=48.857456&lon=2.354611&key=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "BreezoMeter is the go to partner for integrating hyperlocal air quality data into products. A wide range of industries – like smart home, healthcare, fitness, cosmetics, automotive, and more – can easily integrate accurate air pollution information usi..."
+}

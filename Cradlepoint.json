@@ -1,0 +1,9 @@
+{
+  "name": "Cradlepoint",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Token'",
+  "url": "https://api.cradlepointecm.com/api/v3/beta/users",
+  "body": "",
+  "note": "",
+  "description": "Cradlepoint is a leading provider of cloud-based network solutions. Their flagship product, NetCloud Manager, offers a comprehensive platform for managing and monitoring network devices. With a focus on reliability and security, Cradlepoint helps busin..."
+}

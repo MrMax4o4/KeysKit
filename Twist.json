@@ -1,0 +1,9 @@
+{
+  "name": "Twist",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token'",
+  "url": "https://api.twist.com/api/v3/workspaces/get_default",
+  "body": "",
+  "note": "",
+  "description": "Twist is an async messaging app that makes collaboration easy from anywhere by using threads to organize your conversations. Twist keeps conversations organized and on topic with threads. Organize channels by topic, project, or client to create a centr..."
+}

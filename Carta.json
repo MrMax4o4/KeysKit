@@ -1,0 +1,9 @@
+{
+  "name": "Carta",
+  "method": "GET",
+  "header": "'accept':'application/json','authorization':'Bearer $Token'",
+  "url": "https://api.playground.carta.team/v1alpha1/user",
+  "body": "",
+  "note": "",
+  "description": "null"
+}

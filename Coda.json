@@ -1,0 +1,9 @@
+{
+  "name": "Coda",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Token'",
+  "url": "https://coda.io/apis/v1/whoami",
+  "body": "",
+  "note": "",
+  "description": "Coda is a cloud-based multi-user document editor that brings teams and tools together for a more organized workday. With Coda, teams can collaborate and create workflows in one all-in-one doc, giving them the tools they need to thrive. The founding tea..."
+}

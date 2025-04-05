@@ -1,0 +1,9 @@
+{
+  "name": "Infura",
+  "method": "POST",
+  "header": "'Content-Type':'application/json'",
+  "url": "https://mainnet.infura.io/v3/$API_Key",
+  "body": "{'jsonrpc':'2.0','method':'eth_accounts','params':[],'id':1}",
+  "note": "",
+  "description": "Infura is a development suite that provides instant, scalable API access to the Ethereum and IPFS networks. Their mission is to provide a secure, stable, robust, balanced, fault-tolerant, and easily scalable infrastructure of Ethereum and IPFS nodes. T..."
+}

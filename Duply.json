@@ -1,0 +1,9 @@
+{
+  "name": "Duply",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://gen.duply.co/v1/generate-video/",
+  "body": "",
+  "note": "Base64 encode as following \"apiKey:secretKey\"",
+  "description": "Duply is an automated solution for visual content creation. With its API, dynamic URLs, Forms, and Zapier Integration, Duply allows users to easily create images for social media, podcasts, banners, eCommerce, and more. It offers a faster and more effi..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Golden",
+  "method": "GET",
+  "header": "'accept':'application/json','apikey':'$API_Key'",
+  "url": "https://golden.com/api/v2/public/entities/",
+  "body": "",
+  "note": "",
+  "description": "The Golden Research Engine is a comprehensive factual data discovery tool that helps to research and track information on millions of topics and entities. Golden is building a large scale canonical knowledge graph. We're working on a new decentralized ..."
+}

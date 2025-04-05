@@ -1,0 +1,9 @@
+{
+  "name": "Smarty",
+  "method": "GET",
+  "header": "",
+  "url": "https://us-reverse-geo.api.smarty.com/lookup?auth-id=$Clinet_ID&auth-token=$Client_Token&latitude=40.202605&longitude=-111.621959",
+  "body": "",
+  "note": "",
+  "description": "Smarty is a company that provides address verification and data intelligence services. Their easy-to-use APIs allow users to verify, validate, enrich, standardize, geocode, and auto complete addresses at high speeds. They offer tools for both single ad..."
+}

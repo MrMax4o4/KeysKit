@@ -1,0 +1,9 @@
+{
+  "name": "Bulk SMS",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.bulksms.com/v1/messages",
+  "body": "",
+  "note": "Base64 encode as following \"username:API_token\"",
+  "description": "BulkSMS.com is a leading SMS messaging service provider offering two way SMS communication services straight from your internet enabled computer. The BulkSMS gateway reaches across borders and connects to over 800 mobile network operators world wide. W..."
+}

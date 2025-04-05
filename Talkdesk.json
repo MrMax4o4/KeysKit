@@ -1,0 +1,9 @@
+{
+  "name": "Talkdesk",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token'",
+  "url": "https://api.talkdeskapp.com/users?page=1&per_page=20",
+  "body": "",
+  "note": "",
+  "description": "null"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Clearbit",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://person.clearbit.com/v1/people/email/$Email_Address",
+  "body": "",
+  "note": "Base64 encode as following \"Key:\"",
+  "description": "Clearbit is a sales intelligence platform that provides data and insights to help businesses identify and target their ideal customers. With Clearbit's APIs, businesses can access a comprehensive database of B2B companies and their contact information,..."
+}

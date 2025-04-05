@@ -1,0 +1,9 @@
+{
+  "name": "OpenGraphr",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.opengraphr.com/v1/og?api_token=$API_Key&url=$URL",
+  "body": "",
+  "note": "",
+  "description": "Opengraphr.com is a company that provides a comprehensive suite of tools and services for managing and optimizing Open Graph metadata. With Opengraphr.com, users can easily generate and customize Open Graph tags for their websites, ensuring that their ..."
+}

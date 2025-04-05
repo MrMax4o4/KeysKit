@@ -1,0 +1,9 @@
+{
+  "name": "MalShare",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.malshare.com/api.php?api_key=$YOUR_API_KEY&action=getlist",
+  "body": "",
+  "note": "",
+  "description": "The MalShare Project is a collaborative effort to create a community driven public malware repository that works to build additional tools to benefit the security community at large. IT Services and IT Consulting malware malware analysis virus informat..."
+}

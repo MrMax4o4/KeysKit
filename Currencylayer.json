@@ -1,0 +1,9 @@
+{
+  "name": "Currencylayer",
+  "method": "GET",
+  "header": "",
+  "url": "http://api.currencylayer.com/live?access_key=$Access_Key",
+  "body": "",
+  "note": "",
+  "description": "currencylayer.com provides a free and startup-friendly currency converter API that offers real-time and historical exchange rates for 168 world currencies. The API is reliable and accurate, with data updates ranging from every 60 minutes to as frequent..."
+}

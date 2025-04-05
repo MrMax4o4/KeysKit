@@ -1,0 +1,9 @@
+{
+  "name": "Proxycrawl",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.proxycrawl.com/leads?token=$API_Key&domain=$Domain",
+  "body": "",
+  "note": "",
+  "description": "Web scraping and crawling anonymously | Crawlbase Crawlbase lets you scrape and crawl data anonymously and store it in the cloud. Our web scraping and crawling API handles browsers and CAPTCHAs with a single API. Black Friday Deal   All SmartProxy mont..."
+}

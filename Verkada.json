@@ -1,0 +1,9 @@
+{
+  "name": "Verkada",
+  "method": "GET",
+  "header": "'accept':'application/json','x-api-key':'$API_Key'",
+  "url": "https://api.verkada.com/core/v1/audit_log?org_id=$Org_ID&page_size=100",
+  "body": "",
+  "note": "",
+  "description": "Verkada is a leader in cloud managed enterprise building security, enabling over 14,000 organizations worldwide to protect their people and assets while prioritizing privacy. Designed with simplicity in mind, Verkada’s six product lines - video securit..."
+}

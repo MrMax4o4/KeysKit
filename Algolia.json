@@ -1,0 +1,9 @@
+{
+  "name": "Algolia",
+  "method": "GET",
+  "header": "'X-Algolia-API-Key':'$API_Key','X-Algolia-Application-Id':'$APP_ID'",
+  "url": "https://$APP_ID.algolia.net/1/keys/$API_Key",
+  "body": "",
+  "note": "",
+  "description": "null"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Affirm",
+  "method": "POST",
+  "header": "'Authorization':'Basic $Basic_Auth','Content-Type':'application/json'",
+  "url": "https://api.affirm.com/api/v1/transactions/",
+  "body": "",
+  "note": "Base64 encode as following \"{public_api_key}:{private_api_key}\"",
+  "description": "Affirm is a financial technology company that offers a buy now, pay later service with no late fees or surprises. Founded in 2012 by Max Levchin, co-founder of PayPal, Affirm provides an easy way to pay over time for the things you love through their m..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Lightspeed",
+  "method": "GET",
+  "header": "'accept':'application/json','authorization':'Bearer $API_Key'",
+  "url": "https://abdojr.vendhq.com/api/2.0/users",
+  "body": "",
+  "note": "",
+  "description": "Leading Point of Sale (POS) & Commerce Platform | Lightspeed Lightspeed is the fast, intuitive POS and payments platform helping the world’s best retail, hospitality and golf businesses get even better. Lightspeed provides independent businesses the po..."
+}

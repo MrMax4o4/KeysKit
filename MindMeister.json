@@ -1,0 +1,8 @@
+{
+  "name": "MindMeister",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token'",
+  "url": "https://www.mindmeister.com/api/v2/users/me",
+  "body": "",
+  "description": "MindMeister is a collaborative mind mapping and information visualization tool allowing individuals from around the world to work together solving problems, exploring new ideas, and innovating the future. MindMeister is the market leader in collaborati..."
+}

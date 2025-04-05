@@ -1,0 +1,9 @@
+{
+  "name": "Everhour",
+  "method": "GET",
+  "header": "'Content-Type':'application/json','X-Api-Key':'$API_Token'",
+  "url": "https://api.everhour.com/team/users",
+  "body": "",
+  "note": "",
+  "description": "Everhour is a time tracking app with invoicing, budgeting, and expense tracking features. It works as a native time tracker inside Asana, Notion, Trello, Jira, Monday, Todoist, ClickUp, Basecamp, and more!"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Fastly",
+  "method": "GET",
+  "header": "'Fastly-Key':'$API_Token'",
+  "url": "https://api.fastly.com/current_user",
+  "body": "",
+  "description": "Fastly is an edge cloud platform that delivers faster, safer, and more scalable sites and apps to customers. They help popular digital businesses keep pace with customer expectations by providing fast, secure, and scalable online experiences. Fastly's ..."
+}

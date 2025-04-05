@@ -1,0 +1,9 @@
+{
+  "name": "Go Rest",
+  "method": "GET",
+  "header": "'Accept':'application/json','Content-Type':'application/json','Authorization':'Bearer $API_Key'",
+  "url": "https://gorest.co.in/public/v2/users/",
+  "body": "",
+  "note": "",
+  "description": "GraphQL and REST API for Testing and Prototyping | GO REST 24/7 online fake GraphQL and REST API service for quick testing and prototyping of web and android applications. Supports authentication, custom rate limiting, response format negotiation Unlik..."
+}

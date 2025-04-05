@@ -1,0 +1,9 @@
+{
+  "name": "Iterable",
+  "method": "GET",
+  "header": "'Api_Key':'$API_KEY'",
+  "url": "https://api.iterable.com/api/export/data.json?dataTypeName=emailSend&range=Today&onlyFields=List.empty",
+  "body": "",
+  "note": "",
+  "description": "Iterable is a cross channel marketing platform that powers unified customer experiences. It empowers growth marketers to create world-class user engagement campaigns throughout the full lifecycle and across all channels. With Iterable, marketers can se..."
+}

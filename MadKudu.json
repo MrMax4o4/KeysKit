@@ -1,0 +1,8 @@
+{
+  "name": "MadKudu",
+  "method": "GET",
+  "header": "'Authorization':'Basic $API_Key'",
+  "url": "https://api.madkudu.com/v1/ping",
+  "body": "",
+  "description": "MadKudu is a revenue automation intelligence company that predicts and prioritizes revenue generating actions. Their mission is to help sales and customer success teams know when a customer needs attention, either because they are at risk or because th..."
+}

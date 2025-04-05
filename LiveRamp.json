@@ -1,0 +1,9 @@
+{
+  "name": "LiveRamp",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token','LR-Org-ID':'$Org_ID','accept':'application/json'",
+  "url": "https://api.liveramp.com/activation/v2/deliveries",
+  "body": "",
+  "note": "",
+  "description": "LiveRamp is a data collaboration platform that offers identity resolution and omnichannel marketing solutions. It transforms technology platforms into people-based marketing channels, improving the relevancy of marketing and allowing consumers to bette..."
+}

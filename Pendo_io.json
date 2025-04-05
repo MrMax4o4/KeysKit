@@ -1,0 +1,9 @@
+{
+  "name": "Pendo.io",
+  "method": "GET",
+  "header": "'content-type':'application/json','x-pendo-integration-key':'$API_Key'",
+  "url": "https://app.pendo.io/api/v1/metadata/schema/account",
+  "body": "",
+  "note": "",
+  "description": "Pendo.io is a software company that provides product managers and teams with a powerful integrated platform to understand and improve the product experience. Their platform allows organizations to capture user behavior, gather feedback, and provide con..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Spinwheel",
+  "method": "GET",
+  "header": "'Accept':'application/json','Authorization':'Bearer':'$ACCESS_Token'",
+  "url": "https://sandbox-api.spinwheel.io/v1/users",
+  "body": "",
+  "note": "",
+  "description": "Spinwheel is a financial technology company that provides low code debt APIs and embedded fintech solutions. Their debt APIs help companies build and embed debt management, automation, and debt repayment solutions quickly and easily. With strong connec..."
+}

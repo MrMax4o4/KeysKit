@@ -1,0 +1,9 @@
+{
+  "name": "Spring",
+  "method": "GET",
+  "header": "'Accept':'application/json'",
+  "url": "https://api.teespring.com/v1/users/me?app_id=$App_ID&access_token=$Access_Token",
+  "body": "",
+  "note": "",
+  "description": "Spring Teespring is a commerce platform that enables anyone to create and sell products that people love, with no cost or risk. Teespring powers al aspects of bringing merchandise to life from production and manufacturing to supply chain, logistics, an..."
+}

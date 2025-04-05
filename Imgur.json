@@ -1,0 +1,9 @@
+{
+  "name": "Imgur",
+  "method": "GET",
+  "header": "'Authorization':'Client-ID $Client_ID'",
+  "url": "https://api.imgur.com/3/account/$UserName",
+  "body": "",
+  "note": "",
+  "description": "Imgur is an image hosting website and online gallery displaying a collection of the most popular images circulated on the internet. It is the best place to share and enjoy the most awesome images on the Internet. Users can find, rate, and share the bes..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Codequiry",
+  "method": "POST",
+  "header": "'apikey':'$API_key '",
+  "url": "https://codequiry.com/api/v1/account",
+  "body": "",
+  "note": "",
+  "description": "Codequiry is a code plagiarism and similarity checker that helps users detect and prevent code plagiarism. It allows users to compare student's code side by side, find unoriginal code and software similarity, and investigate potential copied code by hi..."
+}

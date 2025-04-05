@@ -1,0 +1,1 @@
+{"name":"OneSignal","method":"GET","header":"'Authorization':'Basic $USER_AUTH_KEY','accept':'text/plain'","url":"https://onesignal.com/api/v1/apps","body":"","note":""}

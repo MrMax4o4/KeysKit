@@ -1,0 +1,9 @@
+{
+	"name": "CloudConvert - Me",
+	"method": "GET",
+	"header": "'Authorization':'Bearer $API_KEY'",
+	"url": "https://api.cloudconvert.com/v2/users/me",
+	"body": "",
+	"note": "",
+	"description": "CloudConvert is an online file converter. We support nearly all audio, video, document, ebook, archive, image, spreadsheet, and presentation formats. CloudConvert is your universal app for file conversions."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Lyft",
+  "method": "GET",
+  "header": "'Authorization':'$Access_token'",
+  "url": "https://api.lyft.com/v1/profile",
+  "body": "",
+  "note": "",
+  "description": "Lyft is a rideshare company that provides transportation services through its mobile app. Users can download the Lyft app on their iPhone or Android device and request a ride from a friendly driver within minutes. The app automatically charges the user..."
+}

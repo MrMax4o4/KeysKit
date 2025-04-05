@@ -1,0 +1,9 @@
+{
+  "name": "Xero",
+  "method": "GET",
+  "header": "'accept':'application/json','Authorization':'Bearer $JWT_Token'",
+  "url": "https://api.xero.com/api.xro/2.0/Users",
+  "body": "",
+  "note": "",
+  "description": "Xero is a global online accounting and payroll system that provides cloud accounting software and services for accounting professionals and small businesses. With over 400,000 global customers, Xero offers features and tools to save time and centralize..."
+}

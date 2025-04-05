@@ -1,0 +1,9 @@
+{
+  "name": "TIBCO",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Token'",
+  "url": "https://api.cloud.tibco.com/tci/v1/subscriptions/0/apps",
+  "body": "",
+  "note": "",
+  "description": "TIBCO is a leading provider of digital business solutions, empowering organizations to make better decisions and take smarter actions. Through the TIBCO Connected Intelligence Cloud, we unlock the potential of real-time data, enabling faster and more i..."
+}

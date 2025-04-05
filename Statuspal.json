@@ -1,0 +1,1 @@
+{"name":"Statuspal","method":"GET","header":"'Accept':'application/json','Content-Type':'application/json','Authorization':'$API_KEY'","url":"https://statuspal.io/api/v2/status_pages/$subdomain/members","body":"","note":""}

@@ -1,0 +1,1 @@
+{"name":"Veriphone","method":"GET","header":"","url":"https://api.veriphone.io/v2/verify?key=$API_KEY","body":"","note":"","description":"Veriphone is a phone number verification API. It will parse, format and validate phone numbers for all countries/regions of the world. IT Services and IT Consulting"}

@@ -1,0 +1,9 @@
+{
+  "name": "Mux",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.mux.com/video/v1/assets",
+  "body": "",
+  "note": "Base64 encode as following \"{MUX_TOKEN_ID}:{MUX_TOKEN_SECRET}\"",
+  "description": "Mux is a developer video platform that provides tools and services for streaming live and on-demand video. Their products are used by startups and major events like the World Cup to stream billions of minutes of video every day. With Mux, developers ca..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Groove",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Key','Content-Type':'application/json'",
+  "url": "https://api.groovehq.com/v1/customers",
+  "body": "",
+  "note": "",
+  "description": "#1 Top Rated Help Desk Software (4.7/5 Stars on G2) Groove is the simple yet powerful alternative to Zendesk. The best helpdesk software for your business. Shared inbox, knowledge base, chat and more! The refreshingly simple, and remarkably powerful, c..."
+}

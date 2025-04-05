@@ -1,0 +1,9 @@
+{
+  "name": "SkyBiometry",
+  "method": "GET",
+  "header": "",
+  "url": "http://api.skybiometry.com/fc/account/users.json?api_key=$API_KEY&api_secret=$API_Secret",
+  "body": "",
+  "note": "",
+  "description": "SkyBiometry is a cloud-based face detection and recognition API service. They provide state-of-the-art biometric technology as a service, allowing developers and marketers to do more with less. Their API offers face detection at various angles, the abi..."
+}

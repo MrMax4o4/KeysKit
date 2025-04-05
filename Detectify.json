@@ -1,0 +1,9 @@
+{
+  "name": "Detectify",
+  "method": "GET",
+  "header": "'Authorization':'Basic $API_Key'",
+  "url": "https://api.detectify.com/rest/v2/assets/",
+  "body": "",
+  "note": "Base64 \"Your_API_Key:\"",
+  "description": "Detectify is a Swedish web security company that provides complete external attack surface management. They offer surface monitoring and application scanning to analyze web applications from a hacker's perspective and report security issues. Their plat..."
+}

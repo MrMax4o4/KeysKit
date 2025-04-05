@@ -1,0 +1,9 @@
+{
+  "name": "Europeana",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.europeana.eu/record/v2/search.json?wskey=$API_KEY&query=*&rows=0&profile=facets",
+  "body": "",
+  "note": "",
+  "description": "Europeana is an internet portal that acts as an interface to millions of books, paintings, films, museum objects and archival records that have been digitised throughout Europe. It allows users to search, save, and share art, books, films, and music fr..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "BuddyNS",
+  "method": "GET",
+  "header": "'Authorization':'Token $API_Token'",
+  "url": "https://www.buddyns.com/api/v2/user/",
+  "body": "",
+  "note": "",
+  "description": "BuddyNS is a company that provides the world's fastest and most reliable Secondary DNS service. They offer stress-free DNS security and immediate updates, ensuring 100% uptime and blazing fast resolution. BuddyNS protects organizations' most sensitive ..."
+}

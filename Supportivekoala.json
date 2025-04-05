@@ -1,0 +1,9 @@
+{
+  "name": "Supportivekoala",
+  "method": "GET",
+  "header": "'Content-Type':'application/json','Authorization':'Bearer $API_Key'",
+  "url": "https://api.supportivekoala.com/v1/images",
+  "body": "",
+  "note": "",
+  "description": "Supportivekoala is a company that provides an API to automate social media visuals and marketing images. With Supportivekoala, you can easily generate images by inputting your desired content. You have the option to choose from pre-designed templates o..."
+}

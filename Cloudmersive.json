@@ -1,0 +1,9 @@
+{
+  "name": "Cloudmersive",
+  "method": "POST",
+  "header": "'Content-Type':'application/x-www-form-urlencoded','Apikey':'$API_Key'",
+  "url": "https://api.cloudmersive.com/convert/edit/docx/create/blank",
+  "body": "InitialText=<string>",
+  "note": "",
+  "description": "Cloudmersive is a leader in highly scalable cloud APIs. They provide advanced scanning and threat detection services, including virus scanning, document conversion and processing, deep learning OCR, image recognition and processing, natural language pr..."
+}

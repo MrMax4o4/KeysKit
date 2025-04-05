@@ -1,0 +1,9 @@
+{
+  "name": "Copper",
+  "method": "GET",
+  "header": "'X-PW-AccessToken':'$Access_Token','X-PW-Application':'developer_api','X-PW-UserEmail':'$User_Email','Content-Type':'application/json'",
+  "url": "https://api.copper.com/developer_api/v1/account",
+  "body": "",
+  "note": "",
+  "description": "Copper is a CRM software solutions company that helps businesses build stronger customer relationships. With over 30,000+ companies using Copper, it is the only Google recommended CRM that focuses on building better relationships to drive lasting reven..."
+}

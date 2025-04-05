@@ -1,0 +1,9 @@
+{
+  "name": "Streak",
+  "method": "GET",
+  "header": "'Content-Type':'application/json','accept':'application/json','Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.streak.com/api/v1/users/me",
+  "body": "",
+  "note": "Base64 encode \"{Username:Password}\"",
+  "description": "Streak is a CRM software that operates within Gmail, allowing users to manage customers, sales, email support, bug tracking, and hiring. It helps businesses close deals, manage partnerships, and track support issues without leaving their inbox. Streak'..."
+}

@@ -1,0 +1,9 @@
+{
+	"name": "EOS Nation - Get",
+	"method": "GET",
+	"header": "'Authorization':'Bearer $API_TOKEN'",
+	"url": "https://eos.dfuse.eosnation.io/v0/state/key_accounts?public_key=$PUBLIC_KEY",
+	"body": "",
+	"note": "",
+	"description": "EOS Nation is a top block producer on the EOS, WAX, and Ultra public networks. They provide reliable infrastructure to secure EOSIO blockchains and aim to build a global community equipped with the tools and resources to thrive. They are operators of m..."
+}

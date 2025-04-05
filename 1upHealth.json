@@ -1,0 +1,9 @@
+{
+  "name": "1upHealth",
+  "method": "GET",
+  "header": "'client_id':'$Client_ID','client_secret':'$Client_Secret'",
+  "url": "https://api.1up.health/user-management/v1/user",
+  "body": "",
+  "note": "",
+  "description": "1upHealth is a healthcare company that provides a sophisticated FHIR enabled health data platform for claims and clinical data acquisition, exchange, and compute. They are experts in FHIR and promote interoperability in the health industry. Their platf..."
+}

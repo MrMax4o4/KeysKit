@@ -1,0 +1,9 @@
+{
+  "name": "Salesforce",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $access_token'",
+  "url": "https://$Instance_Name.salesforce.com/services/data/v20.0/",
+  "body": "",
+  "note": "",
+  "description": "Salesforce is a company that provides enterprise cloud computing solutions and customer relationship management (CRM) software on a subscription basis."
+}

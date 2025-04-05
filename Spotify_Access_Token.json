@@ -1,0 +1,9 @@
+{
+  "name": "Spotify - Access_Token",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token'",
+  "url": "https://api.spotify.com/v1/users/User_ID",
+  "body": "",
+  "note": "",
+  "description": "Spotify is a digital music service that gives you access to millions of songs and podcasts. Their mission is to unlock the potential of human creativity by giving creative artists the opportunity to live off their art and billions of fans the opportuni..."
+}

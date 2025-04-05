@@ -1,0 +1,9 @@
+{
+  "name": "ButterCMS",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.buttercms.com/v2/posts/?auth_token=$api_token",
+  "body": "",
+  "note": "",
+  "description": "ButterCMS is a headless content management system and blog engine that integrates easily into any new or existing web project in minutes. With ButterCMS, developers can build websites with their preferred scripting language, while marketers can easily ..."
+}

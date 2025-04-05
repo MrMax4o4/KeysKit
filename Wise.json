@@ -1,0 +1,9 @@
+{
+  "name": "Wise",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token'",
+  "url": "https://api.sandbox.transferwise.tech/v1/me",
+  "body": "",
+  "note": "",
+  "description": "Wise is a global technology company that provides online money transfer and international banking services. With the Wise account, individuals and businesses can hold over 50 currencies, move money between countries, and spend money abroad. The company..."
+}

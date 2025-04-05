@@ -1,0 +1,9 @@
+{
+  "name": "SurveyMonkey",
+  "method": "GET",
+  "header": "'Accept':'application/json','Authorization':'Bearer $Access_token'",
+  "url": "https://api.surveymonkey.com/v3/users/me",
+  "body": "",
+  "note": "",
+  "description": "SurveyMonkey is a cloud-based online survey and questionnaire tool that helps users gather survey-related information. It is the world's leading People Powered Data platform, enabling individuals and companies to have conversations at scale with the pe..."
+}

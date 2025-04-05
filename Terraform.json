@@ -1,0 +1,9 @@
+{
+  "name": "Terraform",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token','Content-Type':'application/vnd.api+json'",
+  "url": "https://app.terraform.io/api/v2/account/details",
+  "body": "",
+  "note": "",
+  "description": "Terraform by HashiCorp is a company that provides an infrastructure as code tool called Terraform. With Terraform, users can safely and predictably provision and manage infrastructure in any cloud or data center. The tool allows users to automate the p..."
+}

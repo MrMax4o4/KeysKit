@@ -1,0 +1,9 @@
+{
+  "name": "Shipday",
+  "method": "GET",
+  "header": "'PARTNER-API-KEY':'$API_KEY','accept':'application/json'",
+  "url": "https://api.shipday.com/partner/members",
+  "body": "",
+  "note": "",
+  "description": "Shipday is a local delivery software that provides all-in-one solutions for small businesses, including restaurants, groceries, and ghost kitchens. With Shipday, businesses can easily manage their delivery orders and drivers from one place, saving time..."
+}

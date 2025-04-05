@@ -1,0 +1,9 @@
+{
+	"name": "Google for Developers - safebrowsing",
+	"method": "GET",
+	"header": "'Content-Type':'application/json'",
+	"url": "https://safebrowsing.googleapis.com/v4/threatListUpdates:fetch?key=$API_KEY",
+	"body": "",
+	"note": "",
+	"description": "null"
+}

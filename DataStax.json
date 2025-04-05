@@ -1,0 +1,9 @@
+{
+  "name": "DataStax",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Token'",
+  "url": "https://api.astra.datastax.com/v2/organizations/users",
+  "body": "",
+  "note": "",
+  "description": "DataStax is a real-time AI company that helps enterprises mobilize real-time data and build smart, high-growth applications at unlimited scale, on any cloud. They deliver Apache Cassandra, the fastest and most scalable distributed database, to the ente..."
+}

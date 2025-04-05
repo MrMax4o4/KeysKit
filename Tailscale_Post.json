@@ -1,0 +1,9 @@
+{
+	"name": "Tailscale - Post",
+	"method": "POST",
+	"header": "'content-type':'application/x-www-form-urlencoded'",
+	"url": "https://api.tailscale.com/api/v2/oauth/token",
+	"body": "client_id=$client_id&client_secret=$Client_Secret",
+	"note": "",
+	"description": "Tailscale is a zero config VPN for building secure networks. Install on any device in minutes. Remote access from any network or physical location. Simple, secure networks for teams of any scale. Built on WireGuard. Replace your legacy VPN Securely acc..."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Country Layer",
+  "method": "GET",
+  "header": "",
+  "url": "http://api.countrylayer.com/v2/all?access_key=$Access_Key",
+  "body": "",
+  "description": "Countrylayer is a company that provides a detailed country data REST API. Their API allows users to retrieve reliable country information, including geographical position, population, codes, currencies, languages, flag images, phone number format, and ..."
+}

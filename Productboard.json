@@ -1,0 +1,9 @@
+{
+  "name": "Productboard",
+  "method": "GET",
+  "header": "'X-Version':'1','Authorization':'Bearer $API_Token'",
+  "url": "https://api.productboard.com/users",
+  "body": "",
+  "note": "",
+  "description": "Product Management Software | Productboard Productboard is a suite of product management software tools that helps product managers understand customer needs, prioritize features & rally everyone around the roadmap. Free 15 day trial. productboard is t..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "SerpStack",
+  "method": "GET",
+  "header": "",
+  "url": "http://api.serpstack.com/search?access_key=$API_Key&query=mcdonalds",
+  "body": "",
+  "note": "",
+  "description": "null"
+}

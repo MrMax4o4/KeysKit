@@ -1,0 +1,9 @@
+{
+  "name": "Confluent",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.confluent.cloud/iam/v2/users",
+  "body": "",
+  "note": "Base64 as following \"API_key:API_secret\"",
+  "description": "Confluent, founded by the creators of open source Apache Kafka™, provides the streaming platform that enables enterprises to maximize the value of data. Confluent Platform lets leaders in industries such as retail, logistics, manufacturing, financial s..."
+}

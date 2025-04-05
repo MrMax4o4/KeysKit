@@ -1,0 +1,9 @@
+{
+  "name": "Yammer",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_KEY','Accept':'application/json'",
+  "url": "https://www.yammer.com/api/v1/users.json",
+  "body": "",
+  "note": "",
+  "description": "Yammer is an enterprise social network that enables employees to collaborate across departments, geographies, and business applications. It allows individuals to connect with people across their organization, facilitating better decision-making and fas..."
+}

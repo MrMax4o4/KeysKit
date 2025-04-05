@@ -1,0 +1,9 @@
+{
+  "name": "Amadeus",
+  "method": "POST",
+  "header": "'Content-Type':'application/x-www-form-urlencoded'",
+  "url": "https://$APP_Name.api.amadeus.com/v1/security/oauth2/token",
+  "body": "grant_type=client_credentials&client_id=$API_Key&client_secret=$API_Secret",
+  "note": "",
+  "description": "Amadeus | It’s how travel works. Discover how Amadeus' platform and technology help airlines, travel agencies, hotels, and others connect, do business, and make better travel experiences. Amadeus is helping our customers connect, serve their customers,..."
+}

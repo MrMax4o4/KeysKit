@@ -1,0 +1,9 @@
+{
+  "name": "Demio",
+  "method": "GET",
+  "header": "'Api-Key':'$API_Key','Api-Secret':'$API_Secret'",
+  "url": "https://my.demio.com/api/v1/events?type=upcoming",
+  "body": "",
+  "note": "",
+  "description": "Demio is a hassle-free webinar platform built for marketers. It provides a simple, no-download webinar experience for the audience, along with marketing tools to generate better results. With Demio, marketers can create, market, and host engaging webin..."
+}

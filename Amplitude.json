@@ -1,0 +1,9 @@
+{
+  "name": "Amplitude",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://amplitude.com/api/3/cohorts",
+  "body": "",
+  "note": "Base64 encode as following \"{API_KEY}:{API_SECRET}\"",
+  "description": "Amplitude is a digital analytics platform that provides product analytics and event tracking services. Their platform helps companies turn user data into meaningful insights, allowing them to build better products. With Amplitude, companies can underst..."
+}

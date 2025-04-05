@@ -1,0 +1,9 @@
+{
+  "name": "VMware",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $access_token'",
+  "url": "https://network.tanzu.vmware.com/api/v2/user_groups",
+  "body": "",
+  "note": "",
+  "description": "VMware is a software company providing cloud and virtualization services. VMware is addressing cloud chaos with our portfolio of multi cloud services, VMware Cross Cloud services, which enable you to build, run, manage, secure, and access applications ..."
+}

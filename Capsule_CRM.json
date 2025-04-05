@@ -1,0 +1,9 @@
+{
+  "name": "Capsule CRM",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Token'",
+  "url": "https://api.capsulecrm.com/api/v2/users",
+  "body": "",
+  "note": "",
+  "description": "CRM Made Simple | Capsule CRM Simple yet powerful CRM. Join over 10,000 global businesses and discover an easier way to manage contacts, sales and grow lasting relationships. Contact Management Giving you an overview of the people and companies you do ..."
+}

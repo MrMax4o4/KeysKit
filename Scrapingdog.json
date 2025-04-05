@@ -1,0 +1,9 @@
+{
+  "name": "Scrapingdog",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.scrapingdog.com/scrape?api_key=$API_Key&url=https://example.com/ip&dynamic=false",
+  "body": "",
+  "note": "",
+  "description": "Scrapingdog is an all-in-one Web Scraping API that effortlessly manages proxies and headless browsers. It provides web scraping tools, APIs, and extensions for fast and seamless data extraction. With Scrapingdog, users can extract HTML from any webpage..."
+}

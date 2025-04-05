@@ -1,0 +1,9 @@
+{
+  "name": "BrowserStack",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.browserstack.com/automate/plan.json",
+  "body": "",
+  "note": "Base64 encode as following \"username:accessKey\"",
+  "description": "BrowserStack is a software testing platform that provides developers and QAs access to a cloud platform to test their websites and mobile applications across 3,500+ real mobile devices and browsers. They offer a range of testing services including manu..."
+}

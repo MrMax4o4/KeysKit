@@ -1,0 +1,9 @@
+{
+  "name": "Bannerbear",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Key'",
+  "url": "https://api.bannerbear.com/v2/projects",
+  "body": "",
+  "note": "",
+  "description": "Bannerbear is an API for automated image and video generation. It helps users auto generate social media visuals, ecommerce banners, podcast videos, and more. With Bannerbear, users can create #nocode automated workflows that take care of repetitive ma..."
+}

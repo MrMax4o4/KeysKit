@@ -1,0 +1,9 @@
+{
+  "name": "Mediastack",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.mediastack.com/v1/news?access_key=$API_Key&keywords=tennis&countries=us,gb,de",
+  "body": "",
+  "note": "",
+  "description": "mediastack is a company that provides a free live news and blog articles JSON API. Their scalable REST API allows users to access live news data from over 7,500 news sources in multiple languages. With instant access to news data from 50+ countries, us..."
+}

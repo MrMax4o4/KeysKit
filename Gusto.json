@@ -1,0 +1,9 @@
+{
+  "name": "Gusto",
+  "method": "GET",
+  "header": "'Accept':'application/json','Authorization':'Bearer $Access_Token','X-Gusto-API-Version':'2022-09-15'",
+  "url": "https://api.gusto-demo.com/v1/me",
+  "body": "",
+  "note": "",
+  "description": "null"
+}

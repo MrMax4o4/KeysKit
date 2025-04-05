@@ -1,0 +1,9 @@
+{
+  "name": "Tmetric",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Token','accept':'application/json'",
+  "url": "https://app.tmetric.com/api/v3/accounts/$Acc_ID/balance?userId=$User_ID",
+  "body": "",
+  "note": "",
+  "description": "TMetric Time Tracker is a simple time tracking app and software for Windows, Mac, and Linux. It helps individuals and teams control their time, increase productivity, and monitor team performance. With TMetric, users can capture every task they work on..."
+}

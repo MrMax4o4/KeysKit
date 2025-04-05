@@ -1,0 +1,9 @@
+{
+  "name": "Flowdash",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Key'",
+  "url": "https://app.flowdash.com/api/v1/workflows",
+  "body": "",
+  "note": "",
+  "description": "Flowdash is the most flexible platform for teams to manage, track, and complete work. Build custom workflows to save time and get more done. Flowdash is the most customizable task management platform for fast growing companies. At Flowdash, our mission..."
+}

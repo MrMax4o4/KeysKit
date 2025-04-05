@@ -1,0 +1,9 @@
+{
+  "name": "Method",
+  "method": "GET",
+  "header": "'Authorization':'APIKey $Access_Token'",
+  "url": "https://rest.method.me/api/v1/files",
+  "body": "",
+  "note": "",
+  "description": "Method is the #1 automation tool for QuickBooks and Xero users. It is a complete business process automation solution for businesses that operate on QuickBooks and Xero. Method offers a fully customizable CRM platform that integrates with QuickBooks an..."
+}

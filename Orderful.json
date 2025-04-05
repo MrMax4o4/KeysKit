@@ -1,0 +1,9 @@
+{
+  "name": "Orderful",
+  "method": "GET",
+  "header": "'accept':'application/json','orderful-api-key':'API_KEY'",
+  "url": "https://api.orderful.com/v3/organizations/me",
+  "body": "",
+  "note": "",
+  "description": "Orderful is a complete cloud EDI platform for manufacturers, distributors, retailers, and technology companies. Our product is an API that enables companies to connect once and trade EDI data with their supply chain. Our customers get to consolidate th..."
+}

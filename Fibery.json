@@ -1,0 +1,8 @@
+{
+  "name": "Fibery",
+  "method": "GET",
+  "header": "'Authorization':'Token $API_Token'",
+  "url": "https://$Your_Account.fibery.io/api/webhooks/v2",
+  "body": "",
+  "description": "Fibery is a tailored workspace for companies that allows you to build your workspace without any code. It offers connected databases, customizable views, powerful reports, automations, integrations, docs, and whiteboards. Fibery serves as a work and kn..."
+}

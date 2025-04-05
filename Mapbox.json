@@ -1,0 +1,9 @@
+{
+  "name": "Mapbox",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.mapbox.com/tokens/v2?access_token=$Access_Token",
+  "body": "",
+  "note": "",
+  "description": "Mapbox is a cloud-based map platform for designing and publishing custom, interactive web maps. They provide maps, navigation, search, and data APIs and SDKs for AI-powered maps, location search, turn-by-turn navigation, and geospatial data in mobile o..."
+}

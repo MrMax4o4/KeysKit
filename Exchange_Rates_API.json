@@ -1,0 +1,9 @@
+{
+  "name": "Exchange Rates API",
+  "method": "GET",
+  "header": "",
+  "url": "http://api.exchangeratesapi.io/v1/latest?access_key=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "Exchange Rates API provides free forex data for hundreds of currencies around the world. It offers real-time, accurate, and reliable currency exchange rate data for hundreds of worldwide currencies, updated as often as every 60 seconds. The API is inte..."
+}

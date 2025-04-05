@@ -1,0 +1,9 @@
+{
+  "name": "Tokeet",
+  "method": "GET",
+  "header": "'Authorization':'$API_Key'",
+  "url": "https://capi.tokeet.com/v1/user/me?account=$Account_ID",
+  "body": "",
+  "note": "",
+  "description": "Tokeet is a software company dedicated to the short term rental industry. They provide advanced vacation rental management software that simplifies the process from inquiry to checkout. Their platform offers a suite of powerful tools for channel manage..."
+}

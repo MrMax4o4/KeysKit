@@ -1,0 +1,9 @@
+{
+  "name": "Covalent",
+  "method": "GET",
+  "header": "'Accept':'application/json'",
+  "url": "https://api.covalenthq.com/v1/3/address/balances_v2/?&key=YOUR_API_KEY",
+  "body": "",
+  "note": "",
+  "description": "Covalent is a technology company that provides a single, unified API for fast and scalable historical blockchain data across 200+ chains. Their solution bridges the gap between centralized databases and distributed blockchain technologies, enabling ent..."
+}

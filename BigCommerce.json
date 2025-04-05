@@ -1,0 +1,9 @@
+{
+  "name": "BigCommerce",
+  "method": "GET",
+  "header": "'Accept':'application/json','Content-Type':'application/json','X-Auth-Token':'$Access_Token'",
+  "url": "https://api.bigcommerce.com/stores/$Store_ID/v3/settings/store/profile",
+  "body": "",
+  "note": "",
+  "description": "BigCommerce is a leading Open SaaS ecommerce platform that empowers merchants of all sizes to build, innovate, and grow their businesses online. With BigCommerce, merchants can create beautiful and engaging online stores, with sophisticated enterprise-..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "PeopleGrove",
+  "method": "GET",
+  "header": "'Authorization':'bearer $API_token'",
+  "url": "https://api.peoplegrove.com/v1/users",
+  "body": "",
+  "note": "",
+  "description": "PeopleGrove is a Career Access Platform™ that connects students with peers and alumni. It provides mentorship, networking, career exploration, and job connections through social capital. PeopleGrove aims to ensure that every learner has access to the p..."
+}

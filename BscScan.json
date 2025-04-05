@@ -1,0 +1,9 @@
+{
+  "name": "BscScan",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.bscscan.com/api?module=account&action=balance&address=$Crypto_Address&apikey=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "BscScan is the official home of BNB Smart Chain Explorer. It is built by the team at etherscan and powered by web3apiHQ."
+}

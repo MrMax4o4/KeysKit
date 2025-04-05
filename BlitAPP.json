@@ -1,0 +1,9 @@
+{
+  "name": "BlitAPP",
+  "method": "GET",
+  "header": "",
+  "url": "https://blitapp.com/api/apps/all?key=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "Blit is a company that specializes in scheduling and automating website screenshots. They offer a service where users can provide a link and Blit will send them screenshots of the website. They also provide automation for daily web searching. Blit offe..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Travelpayouts",
+  "method": "GET",
+  "header": "'x-access-token':'$Access_Token'",
+  "url": "https://api.travelpayouts.com/v2/prices/latest?currency=usd&period_type=year&page=1&limit=30&show_to_affiliates=true&sorting=price&trip_class=0",
+  "body": "",
+  "note": "",
+  "description": "Travelpayouts is a digital partnership platform dedicated to all things travel. Trusted brands like Booking.com, Tripadvisor, and GetYourGuide work together with over 300,000 bloggers and content creators around the world to bring people the best trave..."
+}

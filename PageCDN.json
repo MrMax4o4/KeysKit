@@ -1,0 +1,9 @@
+{
+  "name": "PageCDN",
+  "method": "GET",
+  "header": "",
+  "url": "https://pagecdn.com/api/v2/private/repo/files?apikey=$API_Key&repo=site/wxyz",
+  "body": "",
+  "note": "",
+  "description": "PageCDN is a content delivery network (CDN) that provides IT services and IT consulting. They specialize in delivering web content, such as images, videos, and scripts, to users around the world at high speeds. PageCDN offers a range of features, inclu..."
+}

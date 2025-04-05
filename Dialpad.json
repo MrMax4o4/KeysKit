@@ -1,0 +1,9 @@
+{
+  "name": "Dialpad",
+  "method": "GET",
+  "header": "'Accept':'application/json','Authorization':'Bearer $Access_Token'",
+  "url": "https://dialpad.com/api/v2/company/",
+  "body": "",
+  "note": "",
+  "description": "Dialpad is a leading customer intelligence platform that enables businesses to communicate with customers on every channel and uncover valuable insights. Their AI-powered app allows users to support customers, drive sales, and collaborate with their te..."
+}

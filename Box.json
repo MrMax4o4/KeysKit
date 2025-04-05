@@ -1,0 +1,9 @@
+{
+  "name": "Box",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Key'",
+  "url": "https://api.box.com/2.0/collections",
+  "body": "",
+  "note": "",
+  "description": "Box is a secure cloud content management platform that provides workflow and collaboration solutions. It allows teams to easily work with people both inside and outside their organization, protect valuable content, and connect all their apps. Box offer..."
+}

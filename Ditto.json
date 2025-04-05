@@ -1,0 +1,9 @@
+{
+  "name": "Ditto",
+  "method": "POST",
+  "header": "'Authorization':'Bearer $API_Key'",
+  "url": "https://$APP_ID.cloud.ditto.live/api/v4/store/write",
+  "body": "{'commands': [{'method': 'upsert','collection': 'people','value': {'name': 'Susan', 'age': 31}}]}",
+  "note": "",
+  "description": "Ditto is a company that provides an Intelligent Edge Platform for syncing data between mobile, web, IoT, and server apps. Their platform allows for real-time database synchronization, even without an internet connection. Ditto specializes in peer-to-pe..."
+}

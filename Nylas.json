@@ -1,0 +1,9 @@
+{
+  "name": "Nylas",
+  "method": "GET",
+  "header": "'Accept':'application/json','Authorization':'Bearer $Access_Token'",
+  "url": "https://api.nylas.com/account",
+  "body": "",
+  "note": "",
+  "description": "Nylas is a powerful communication API platform that allows developers to access email, calendar, and contacts data. With Nylas, developers can streamline scheduling workflows, integrate with users' contacts data securely, and build customizable email a..."
+}

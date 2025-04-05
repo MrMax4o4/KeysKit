@@ -1,0 +1,9 @@
+{
+  "name": "EnableX",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.enablex.io/video/v2/rooms",
+  "body": "",
+  "note": "Base64 encode \"{ APP_ID:APP_KEY}\"",
+  "description": "EnableX is a CPaaS platform for live video, Emotion AI, voice, and SMS, providing API & SDK for web & mobile developers with omni channel communication solutions. Video, voice and messaging APIs for easy and quick integration into browsers, native and ..."
+}

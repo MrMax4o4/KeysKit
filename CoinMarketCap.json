@@ -1,0 +1,9 @@
+{
+  "name": "CoinMarketCap",
+  "method": "GET",
+  "header": "'X-CMC_PRO_API_KEY':'$API_Key'",
+  "url": "https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest",
+  "body": "",
+  "note": "",
+  "description": "CoinMarketCap is the world's most trusted & accurate source for crypto market capitalizations, pricing and information. CoinMarketCap is a U.S. company registered in the United States of America. CoinMarketCap has been the premier price tracking websit..."
+}

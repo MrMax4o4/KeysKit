@@ -1,0 +1,8 @@
+{
+  "name": "Mavenlink",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Token'",
+  "url": "https://api.mavenlink.com/api/v1/workspaces.json",
+  "body": "",
+  "description": "Mavenlink is a professional services automation and resource management software company. They provide powerful software and services for advanced project management, resource planning, collaboration, and financial management. Their cloud-based softwar..."
+}

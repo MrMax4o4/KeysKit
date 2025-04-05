@@ -1,0 +1,9 @@
+{
+  "name": "Clustdoc",
+  "method": "GET",
+  "header": "",
+  "url": "https://app.clustdoc.com/api/templates?api_token=$API_Token",
+  "body": "",
+  "note": "",
+  "description": "Clustdoc is a client onboarding software for businesses. It offers a range of features including onboarding workflows, custom portals, eSignature, online payment, and client management mobile app. The software is used by world-class companies in over 7..."
+}

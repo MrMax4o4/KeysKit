@@ -1,0 +1,9 @@
+{
+  "name": "Trello",
+  "method": "GET",
+  "header": "",
+  "url": "https://trello.com/1/authorize?expiration=never&scope=read,write,account&response_type=token&name=Server%20Token&key=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "Trello is a visual project management system that allows teams to manage their projects from anywhere. It is a web-based, kanban-style, list-making application developed by Trello Enterprise, a subsidiary of Atlassian. With Trello, teams can create boa..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "KEEN",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.keen.io/3.0/projects/$PROJECT_ID/events?api_key=$API_KEY",
+  "body": "",
+  "note": "",
+  "description": "Keen is a fully managed event streaming platform built on Apache Kafka. Our tools empower humans to use their computers to do really cool stuff with data. Keen IO is a custom analytics back end for modern developers. We provide an event streaming API f..."
+}

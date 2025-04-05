@@ -1,0 +1,9 @@
+{
+  "name": "学習塾FRONT",
+  "method": "GET",
+  "header": "'accept':'application/json','authorization':'Bearer $Auth_Token'",
+  "url": "https://api2.frontapp.com/channels",
+  "body": "",
+  "note": "",
+  "description": "Front is a customer operations platform that helps teams streamline communication and deliver exceptional service at scale. It is a communication hub for building strong customer relationships, putting customer conversations at the center of a team's a..."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "AccuWeather",
+  "method": "GET",
+  "header": "",
+  "url": "http://dataservice.accuweather.com/locations/v1/adminareas/countryCode?apikey=$API_Key",
+  "body": "",
+  "description": "AccuWeather provides hour by hour and minute by minute forecasts with Superior Accuracy™ with customized content and engaging video presentations available through smart phones, tablets, free wired and mobile Internet sites via AccuWeather.com, award w..."
+}

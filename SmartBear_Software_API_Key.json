@@ -1,0 +1,1 @@
+{"name":"SmartBear Software - API_Key","method":"GET","header":"'Authorization':'Basic $Basic_Auth'","url":"https://cloud.bitbar.com/api/me","body":"","note":"Base64 encode \"{API-KEY}:\""}

@@ -1,0 +1,9 @@
+{
+  "name": "Tély",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Key','Content-Type':'application/json','Accept':'application/json'",
+  "url": "https://t.ly/api/v1/link?short_url=$Short_URL",
+  "body": "",
+  "note": "",
+  "description": "T.LY is the World's Shortest Free URL Shortener tool that takes a long URL and turns it into short links or QR codes that are easy to share and track the analytics. Create short branded URLs Tiny URLs a Bit shorter than the rest. Create short URLs to e..."
+}

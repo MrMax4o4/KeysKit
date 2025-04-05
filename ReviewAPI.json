@@ -1,0 +1,9 @@
+{
+  "name": "ReviewAPI",
+  "method": "GET",
+  "header": "",
+  "url": "https://app.reviewapi.io/api/v1/reviews?apikey=$API_Key&url=$URL&amount=25",
+  "body": "",
+  "note": "",
+  "description": "Our Review API enables you to scrape reviews from over 30+ data sources. Getting Reviews has never been easier. Fair pricing & fast support."
+}

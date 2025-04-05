@@ -1,0 +1,9 @@
+{
+	"name": "Recurly - limit",
+	"method": "GET",
+	"header": "'Authorization':'Bearer $Access_Token'",
+	"url": "https://v3.recurly.com/accounts?limit=200",
+	"body": "",
+	"note": "",
+	"description": "Recurly is a subscription management software and recurring billing platform that provides enterprise-class subscription management for businesses worldwide. They make it easy to manage the overhead required to operate a large and rapidly growing subsc..."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "AbuseIPDB",
+  "method": "GET",
+  "header": "'Key':'$API_Key'",
+  "url": "https://api.abuseipdb.com/api/v2/check?ipAddress=118.25.6.39&maxAgeInDays=90&verbose",
+  "body": "",
+  "description": "AbuseIPDB is a platform that helps make the Internet safer by identifying and reporting malicious IP addresses. It provides a comprehensive database of IP addresses associated with abusive activities, such as hacking, spamming, and other cybercrimes. U..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "IQAir",
+  "method": "GET",
+  "header": "",
+  "url": "http://api.airvisual.com/v2/countries?key=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "IQAir is a Swiss based air quality technology company that empowers the world to breathe cleaner air through information, collaboration and technology. With the vision of a world where everyone breathes clean air, IQAir provides individuals, organizati..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Contentful",
+  "method": "GET",
+  "header": "",
+  "url": "https://cdn.contentful.com/spaces/$SPace_ID/entries?access_token=$Access_Token",
+  "body": "",
+  "note": "",
+  "description": "Contentful is a flexible and future-friendly content platform that helps editors to manage and developers to serve content into mobile or web applications. Using Contentful, editors collaborate on content interactively in an easy-to-use editing interfa..."
+}

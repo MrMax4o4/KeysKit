@@ -1,0 +1,9 @@
+{
+  "name": "GetGuru",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.getguru.com/api/v1/whoami",
+  "body": "",
+  "note": "Base64 encode as following \"email:user_token\"",
+  "description": "Guru is an all-in-one solution for trusted information. It serves as a wiki, intranet, and knowledge base, providing verified information from experts on your team. With Guru, employees can easily access the information they need, eliminating the need ..."
+}

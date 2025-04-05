@@ -1,0 +1,9 @@
+{
+  "name": "Hint Health",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Key'",
+  "url": "https://api.staging.hint.com/api/provider/patients",
+  "body": "",
+  "note": "",
+  "description": "Hint Health is a leading Direct Care Administration platform that provides comprehensive practice management solutions for Direct Primary Care practices. Their powerful automation engines enable providers to streamline their operations, automate workfl..."
+}

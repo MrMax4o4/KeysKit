@@ -1,0 +1,9 @@
+{
+  "name": "Apptimize",
+  "method": "GET",
+  "header": "'ApptimizeApiToken':'$API_Token'",
+  "url": "https://api.apptimize.com/v1/users/$User_ID/variant-info",
+  "body": "",
+  "note": "",
+  "description": "Mobile A/B Testing & Release Management for iOS & Android | Apptimize Learn how forward thinking product teams fuel data driven growth through Apptimize's Mobile A/B Testing and Release Management platform. Apptimize enables organizations to enhance th..."
+}

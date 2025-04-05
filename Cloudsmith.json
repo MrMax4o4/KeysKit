@@ -1,0 +1,9 @@
+{
+  "name": "Cloudsmith",
+  "method": "GET",
+  "header": "'X-Api-Key':'$Api_key','accept':'application/json'",
+  "url": "https://api.cloudsmith.io/v1/user/self/",
+  "body": "",
+  "note": "",
+  "description": "Cloudsmith is a provider of cutting edge software and platforms specifically designed to harness the potential of the Cloud. Cloudsmith also provides short and long term Cloud consultancy expertise, on/off site training and contracting for financial an..."
+}

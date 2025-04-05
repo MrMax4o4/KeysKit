@@ -1,0 +1,9 @@
+{
+  "name": "ProxyKingdom",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.proxykingdom.com/proxy?token=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "null"
+}

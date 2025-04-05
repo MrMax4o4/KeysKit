@@ -1,0 +1,9 @@
+{
+  "name": "Bloc",
+  "method": "GET",
+  "header": "'accept':'application/json','authorization':'Bearer $Public_Key':'$Secret_secret'",
+  "url": "https://api.blochq.io/v1/accounts",
+  "body": "",
+  "note": "",
+  "description": "Bloc is a FinTech infrastructure company that provides banking services for passionate founders and business owners. They offer an all-in-one FinTech infrastructure stack for startups and organizations, allowing them to control how they earn and spend ..."
+}

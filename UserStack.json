@@ -1,0 +1,9 @@
+{
+  "name": "UserStack",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.userstack.com/api/detect?access_key=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "userstack is a company that provides a lightweight User Agent lookup JSON and XML API for real-time device, browser, and OS detection."
+}

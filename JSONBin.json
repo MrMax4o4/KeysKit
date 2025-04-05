@@ -1,0 +1,9 @@
+{
+  "name": "JSONBin",
+  "method": "GET",
+  "header": "'X-Master-key':'$API_Key'",
+  "url": "https://api.jsonbin.io/v3/c",
+  "body": "",
+  "note": "",
+  "description": "JSONBin.io is a free JSON Storage & a JSON Hosting service which is ideal for Web and Mobile apps, and also for JSON Mocking. It provides a simple REST interface to store & retrieve your JSON data from the cloud. JSONBin.io helps developers focus more ..."
+}

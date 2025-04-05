@@ -1,0 +1,9 @@
+{
+	"name": "Holiday API - pretty",
+	"method": "GET",
+	"header": "",
+	"url": "https://holidayapi.com/v1/holidays?pretty&key=$API_Key&country=US&year=2020&language=EN",
+	"body": "",
+	"note": "",
+	"description": "Holidays are hard. Holiday API makes them easy. Don't let sourcing and maintaining holiday information get in the way of building your product. Start developing for free. Don't let sourcing and maintaining holiday information get in the way of building..."
+}

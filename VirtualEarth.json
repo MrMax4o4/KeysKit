@@ -1,0 +1,9 @@
+{
+  "name": "VirtualEarth",
+  "method": "GET",
+  "header": "",
+  "url": "https://dev.virtualearth.net/REST/v1/Locations?CountryRegion=US&adminDistrict=WA&locality=Somewhere&postalCode=98001&addressLine=100%20Main%20St.&key=$API_KEY",
+  "body": "",
+  "note": "",
+  "description": "null"
+}

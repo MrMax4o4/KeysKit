@@ -1,0 +1,9 @@
+{
+  "name": "TaxJar",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Token'",
+  "url": "https://api.taxjar.com/v2/customers",
+  "body": "",
+  "note": "",
+  "description": "TaxJar is a modern cloud platform that automates sales tax compliance for more than 20,000 businesses. TaxJar is the leading technology solution for busy eCommerce sellers to manage sales tax and is trusted by more than 9,000 businesses. We were founde..."
+}

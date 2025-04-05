@@ -1,0 +1,8 @@
+{
+  "name": "Aero Workflow",
+  "method": "GET",
+  "header": "'apikey':'$API_Key'",
+  "url": "https://api.aeroworkflow.com/api/$Account_Id/v1/TeamMembers",
+  "body": "",
+  "description": "Aero Workflow is an accounting workflow and practice management software designed specifically for accountants. It provides tools to run accounting firms proactively, creating a scalable and efficient environment. The software empowers staff with the n..."
+}

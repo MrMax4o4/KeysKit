@@ -1,0 +1,9 @@
+{
+  "name": "GoCardless",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Key','GoCardless-Version':'2015-07-06'",
+  "url": "https://api.gocardless.com/billing_requests",
+  "body": "",
+  "note": "",
+  "description": "GoCardless is an online payment processing solution that provides recurring payment services. Their global payments network processes over £1 billion per year for more than 20,000 merchants. They offer ultra-low fees, fully automated payments, and are ..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Valimail",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_TOKEN'",
+  "url": "https://api.valimail.com/accounts/",
+  "body": "",
+  "note": "",
+  "description": "Valimail is a pioneering, identity-based, anti-phishing company that has been ensuring the global trustworthiness of digital communications since 2015. Valimail delivers the only complete, cloud-native platform for validating and authenticating sender ..."
+}

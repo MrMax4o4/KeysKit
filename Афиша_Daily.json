@@ -1,0 +1,8 @@
+{
+  "name": "Афиша Daily",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Key'",
+  "url": "https://api.daily.co/v1/",
+  "body": "",
+  "description": "Daily is a company that provides WebRTC Video & Audio APIs for developers. Their platform allows developers to build video, chat, and audio into any app. With their modern APIs, global mesh infrastructure, and developer support, Daily helps developers ..."
+}

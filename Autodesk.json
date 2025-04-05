@@ -1,0 +1,9 @@
+{
+	"name": "Autodesk",
+	"method": "GET",
+	"header": "'Authorization':'Bearer $Access_Token'",
+	"url": "https://developer.api.autodesk.com/construction/buildingconnected/v2/users",
+	"body": "",
+	"note": "",
+	"description": "Autodesk is a global leader in design and make technology, with expertise across architecture, engineering, construction, design, manufacturing, and entertainment. Autodesk helps people imagine, design, and create a better world. Autodesk develops 3D d..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Sentry",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_KEY'",
+  "url": "https://sentry.io/api/0/projects/",
+  "body": "",
+  "note": "",
+  "description": "Sentry is an application performance monitoring and error tracking software that helps software teams see clearer, solve quicker, and learn continuously. It is a self-hosted and cloud-based platform that provides full-stack, code-level application and ..."
+}

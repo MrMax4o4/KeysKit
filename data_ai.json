@@ -1,0 +1,9 @@
+{
+  "name": "data.ai",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_token'",
+  "url": "https://api.data.ai/v1.3/accounts?page_index=0",
+  "body": "",
+  "note": "",
+  "description": "data.ai (formerly App Annie) is a Unified Data AI company that combines consumer and market data to provide insights powered by artificial intelligence. We serve enterprise clients to create winning digital experiences for their customers. Our services..."
+}

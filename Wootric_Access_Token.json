@@ -1,0 +1,9 @@
+{
+  "name": "Wootric - Access_Token",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token'",
+  "url": "https://api.wootric.com/v1/end_users",
+  "body": "",
+  "note": "",
+  "description": "Wootric is a customer experience management and customer feedback platform. They offer a powerful approach to customer experience management for digital apps and B2B SaaS. Their platform allows businesses to measure Net Promoter Score (NPS) in real-tim..."
+}

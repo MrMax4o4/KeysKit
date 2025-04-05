@@ -1,0 +1,9 @@
+{
+  "name": "Extole",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token','content-type':'application/json'",
+  "url": "https://$Client_Domain.extole.io/api/v4/me",
+  "body": "",
+  "note": "",
+  "description": "null"
+}

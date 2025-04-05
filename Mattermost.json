@@ -1,0 +1,8 @@
+{
+  "name": "Mattermost",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Token'",
+  "url": "http://$Instance_Host/api/v4/users",
+  "body": "",
+  "description": "null"
+}

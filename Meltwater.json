@@ -1,0 +1,9 @@
+{
+  "name": "Meltwater",
+  "method": "GET",
+  "header": "'accept':'application/json','apikey':'$API_KEY'",
+  "url": "https://api.meltwater.com/v3/owned/accounts",
+  "body": "",
+  "note": "",
+  "description": "Maximize Efficiency and Scale with Meltwater's Suite of Solutions Unleash the power of social data with Meltwater's suite of AI powered tools for media, social, and consumer intelligence. Our online media intelligence tool helps companies make better, ..."
+}

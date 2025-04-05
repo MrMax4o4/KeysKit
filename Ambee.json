@@ -1,0 +1,9 @@
+{
+  "name": "Ambee",
+  "method": "GET",
+  "header": "'x-api-key':'$API_Key'",
+  "url": "https://api.ambeedata.com/latest/by-lat-lng?lat=12&lng=77",
+  "body": "",
+  "note": "",
+  "description": "null"
+}

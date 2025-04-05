@@ -1,0 +1,9 @@
+{
+  "name": "Bitly",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token'",
+  "url": "https://api-ssl.bitly.com/v4/user",
+  "body": "",
+  "note": "",
+  "description": "Bitly is a link management platform that provides URL shortening, custom link branding, QR code generation, and a Link in Bio solution. It offers robust link management software and advanced QR code features to optimize the customer experience for mark..."
+}

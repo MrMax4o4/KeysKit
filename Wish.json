@@ -1,0 +1,9 @@
+{
+  "name": "Wish",
+  "method": "GET",
+  "header": "'authorization':'Bearer $API_Key'",
+  "url": "https://merchant.wish.com/api/v3/oauth/test",
+  "body": "",
+  "note": "",
+  "description": "Wish is a mobile e-commerce platform that connects millions of consumers with the widest selection of products delivered directly to their doors. They offer affordable items for home and life needs, with frequent discounts and a money-back guarantee. W..."
+}

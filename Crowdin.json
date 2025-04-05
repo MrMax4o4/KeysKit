@@ -1,0 +1,8 @@
+{
+  "name": "Crowdin",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token'",
+  "url": "https://api.crowdin.com/api/v2/user",
+  "body": "",
+  "description": "Crowdin is a localization management platform that provides a complete solution for making websites and software universally accessible through translation. With Crowdin's cloud software, agile teams can translate and update content for their multiling..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Ayrshare",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_key'",
+  "url": "https://app.ayrshare.com/api/user",
+  "body": "",
+  "note": "",
+  "description": "Ayrshare is a company that provides social media APIs for posting, scheduling, and analytics. Their APIs offer the infrastructure for social media posting, management, and analytics, making it easy for developers and businesses of all sizes to send soc..."
+}

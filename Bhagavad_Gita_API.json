@@ -1,0 +1,9 @@
+{
+  "name": "Bhagavad Gita API",
+  "method": "GET",
+  "header": "",
+  "url": "https://bhagavadgitaapi.in/slok?api_key=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "Bhagavad Gita API is an open-source lightweight Node.js based REST API on Vedic Scripture. It provides various API methods to retrieve data from the Shreemad Bhagavad Gita, including getting specific sloks and chapters details. The API is developed wit..."
+}

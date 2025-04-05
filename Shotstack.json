@@ -1,0 +1,9 @@
+{
+  "name": "Shotstack",
+  "method": "GET",
+  "header": "'Accept':'application/json','x-api-key':'$API_KEY'",
+  "url": "https://api.shotstack.io/serve/v1/assets/$KEY_ID",
+  "body": "",
+  "note": "",
+  "description": "Shotstack is a video developer platform used to power applications that create, automate and personalize millions of data-driven videos. With the Shotstack video editing API, users can generate, automate, edit, and create videos at scale in the cloud. ..."
+}

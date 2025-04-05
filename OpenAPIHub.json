@@ -1,0 +1,9 @@
+{
+  "name": "OpenAPIHub",
+  "method": "GET",
+  "header": "'X-OpenAPIHub-Key':'$API_Key'",
+  "url": "https://trial-api-credit-card-number-generator-2m83.gw.openapihub.com/random_card_number?vendor=visa",
+  "body": "",
+  "note": "",
+  "description": "OpenAPIHub is a technology company that provides a comprehensive platform for managing and sharing OpenAPI specifications. Our platform allows developers to easily create, document, and collaborate on APIs, making it easier to build and integrate appli..."
+}

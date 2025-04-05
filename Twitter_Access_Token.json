@@ -1,0 +1,9 @@
+{
+  "name": "Twitter - Access_Token",
+  "method": "GET",
+  "header": "'authorization':'Bearer $Access_Token'",
+  "url": "https://api.twitter.com/1.1/account_activity/all/subscriptions/count.json",
+  "body": "",
+  "note": "",
+  "description": "Twitter is a global social networking platform that allows its users to send and read 140 character messages known as tweets."
+}

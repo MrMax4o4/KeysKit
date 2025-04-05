@@ -1,0 +1,9 @@
+{
+  "name": "Gladly",
+  "method": "GET",
+  "header": "'Authorization':'Basic $API_Token'",
+  "url": "https://organization.gladly.com/api/v1/agents",
+  "body": "",
+  "note": "",
+  "description": "Gladly is a customer service platform for B2C companies that aims to maximize the lifetime value of their customers. Unlike other legacy customer service platforms, Gladly puts people at the center and enables a single lifelong customer conversation fr..."
+}

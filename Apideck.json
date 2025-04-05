@@ -1,0 +1,9 @@
+{
+	"name": "Apideck",
+	"method": "GET",
+	"header": "'Authorization':'Bearer $API_Key'",
+	"url": "https://api.apideck.com/accounting/companies/$COMPANY_ID",
+	"body": "",
+	"note": "",
+	"description": "Apideck is a company that provides a platform for API integration. Their goal is to redefine API integration by allowing developers to integrate and monitor APIs at a faster speed. With Apideck, developers can connect new APIs in minutes instead of day..."
+}

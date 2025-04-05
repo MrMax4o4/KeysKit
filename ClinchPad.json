@@ -1,0 +1,9 @@
+{
+  "name": "ClinchPad",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://www.clinchpad.com/api/v1/users",
+  "body": "",
+  "note": "Base64 encode as following \"api-key:{YOUR-API-KEY}\"",
+  "description": "ClinchPad is an online sales CRM software designed for small teams. It helps track and manage leads through an easy-to-use visual interface. With ClinchPad, users can organize leads in a sales funnel, collaborate with team members, and integrate with G..."
+}

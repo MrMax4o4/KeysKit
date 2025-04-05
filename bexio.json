@@ -1,0 +1,9 @@
+{
+  "name": "bexio",
+  "method": "GET",
+  "header": "'Accept':'application/json','Authorization':'Bearer $Access_Token'",
+  "url": "https://api.bexio.com/3.0/users",
+  "body": "",
+  "note": "",
+  "description": "bexio is a business software company that provides solutions for small businesses, startups, and self-employed individuals. Their online platform offers access to various tools and features that help with contact management, offer creation, invoicing, ..."
+}

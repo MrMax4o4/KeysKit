@@ -1,0 +1,9 @@
+{
+  "name": "Synchrony",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token'",
+  "url": "http://api-stg.syf.com/m2020/customers/1/profile",
+  "body": "",
+  "note": "",
+  "description": "Synchrony is a company that provides credit cards, financing, marketplace solutions, and banking services. They offer great deals, promotional offers, and savings products. Synchrony helps people and businesses by providing access to credit cards and o..."
+}

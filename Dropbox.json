@@ -1,0 +1,9 @@
+{
+  "name": "Dropbox",
+  "method": "POST",
+  "header": "'Authorization':'Bearer $Access_Token'",
+  "url": "https://api.dropboxapi.com/2/users/get_current_account",
+  "body": "",
+  "note": "",
+  "description": "null"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "EasyPost",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.easypost.com/v2/users",
+  "body": "",
+  "note": "Base64 encode as following \"{API_Key}:\"",
+  "description": "EasyPost is a shipping API that solves complex logistics problems for eCommerce businesses, enabling them to deliver an online shopping experience that delights customers. Some of the biggest names in retail rely on EasyPost to ship faster, smarter, an..."
+}

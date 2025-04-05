@@ -1,0 +1,9 @@
+{
+  "name": "Strava",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Token'",
+  "url": "https://www.strava.com/api/v3/athlete",
+  "body": "",
+  "note": "",
+  "description": "Strava is an American internet service for tracking physical exercise which incorporates social network features. It is mostly used for cycling and running using Global Positioning System data. Strava uses a freemium model with some features only avail..."
+}

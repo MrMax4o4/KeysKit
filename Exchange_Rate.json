@@ -1,0 +1,9 @@
+{
+  "name": "Exchange Rate",
+  "method": "GET",
+  "header": "",
+  "url": "https://v6.exchangerate-api.com/v6/$YOUR-API-KEY/quota",
+  "body": "",
+  "note": "",
+  "description": "ExchangeRate API is a reliable and accurate currency converter API that has been trusted by tens of thousands of developers since 2010. It offers free access to exchange rates for 161 currencies, with exceptional uptime and support for over 10 years. T..."
+}

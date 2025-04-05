@@ -1,0 +1,9 @@
+{
+  "name": "Aptly",
+  "method": "GET",
+  "header": "",
+  "url": "https://app.getaptly.com/api/users?x-token=$API_Token",
+  "body": "",
+  "note": "",
+  "description": "APTLY is a CRM and workflow management platform for property teams. It helps property managers convert, support, and impress customers at every stage of their journey. With Aptly, customer interactions are easily captured and combined with necessary da..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Castle",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.castle.io/v1/lists",
+  "body": "",
+  "note": "Base64 encode \"{API_Secret}:\"",
+  "description": "Castle is a company that provides automated account security and threat response solutions. They specialize in stopping automated and human-originated account takeovers, fake accounts, and any behavior that violates platform policies. Castle offers int..."
+}

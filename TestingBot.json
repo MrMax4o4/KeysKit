@@ -1,0 +1,9 @@
+{
+  "name": "TestingBot",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.testingbot.com/v1/user",
+  "body": "",
+  "note": "Base64 encode as following \"{API_Key}:{API_Secret}\"",
+  "description": "TestingBot is a cloud-based platform that provides automated testing services for web and mobile applications. With over 9 years of experience, TestingBot offers a powerful and easy-to-use solution for running Selenium, Appium, and JavaScript tests acr..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "SwiftStack",
+  "method": "GET",
+  "header": "'Authorization':'apikey $Username : $API_Key'",
+  "url": "https://platform.swiftstack.com/api/v1/users/",
+  "body": "",
+  "note": "",
+  "description": "NVIDIA is a world leader in artificial intelligence computing. They invented the GPU and drive advances in AI, HPC, gaming, creative design, autonomous vehicles, and robotics. NVIDIA manufactures integrated circuits for use in motherboard chipsets, gra..."
+}

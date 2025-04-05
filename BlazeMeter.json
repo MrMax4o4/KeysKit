@@ -1,0 +1,9 @@
+{
+  "name": "BlazeMeter",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://a.blazemeter.com/api/v4/user",
+  "body": "",
+  "note": "Base64 encode as following \"API_Key_Id:API_Key_Secret\"",
+  "description": "BlazeMeter is a complete continuous testing platform that helps DevOps teams run open source based performance tests against any mobile app, website, or API at massive scale to validate performance at every stage of software delivery. Their developer-f..."
+}

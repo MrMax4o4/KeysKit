@@ -1,0 +1,9 @@
+{
+  "name": "ThousandEyes",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Token'",
+  "url": "https://api.thousandeyes.com/v6/tests.json",
+  "body": "",
+  "note": "",
+  "description": "ThousandEyes is a Network Intelligence platform that delivers visibility into every network your organization relies on. Companies that rely on the Internet rely on ThousandEyes, a Cisco company, for real-time visibility into what's breaking, where. Th..."
+}

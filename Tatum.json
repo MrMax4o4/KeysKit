@@ -1,0 +1,9 @@
+{
+  "name": "Tatum",
+  "method": "GET",
+  "header": "'x-api-key':'$API_Key'",
+  "url": "https://api.tatum.io/v3/subscription?pageSize=10",
+  "body": "",
+  "note": "",
+  "description": "Tatum is the Javascript SDK for Web3. Tatum makes blockchain development simple. It’s the go-to blockchain development platform with a unified framework for building Web3 apps using any of the 90+ protocols. The fastest way to build, test, and run bloc..."
+}

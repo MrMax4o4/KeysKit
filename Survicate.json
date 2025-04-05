@@ -1,0 +1,1 @@
+{"name":"Survicate","method":"GET","header":"'Authorization':'Basic $API_Key'","url":"https://data-api.survicate.com/v2/surveys","body":"","note":""}

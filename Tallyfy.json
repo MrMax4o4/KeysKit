@@ -1,0 +1,9 @@
+{
+  "name": "Tallyfy",
+  "method": "GET",
+  "header": "'Accept':'application/json','Authorization':'Bearer $Access_Token'",
+  "url": "https://api.tallyfy.com/me",
+  "body": "",
+  "note": "",
+  "description": "Tallyfy is a workflow and process management software that automates tasks, documents processes, tracks workflows, and runs training in a single system. It allows users to run approval workflows, checklists, SOPs, and forms with reliable task automatio..."
+}

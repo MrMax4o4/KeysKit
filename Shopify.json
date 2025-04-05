@@ -1,0 +1,9 @@
+{
+  "name": "Shopify",
+  "method": "GET",
+  "header": "'Content-Type':'application/json','X-Shopify-Access-Token':'$TOKEN'",
+  "url": "$Shop_Name.myshopify.com/admin/oauth/access_scopes.json",
+  "body": "",
+  "note": "",
+  "description": "null"
+}

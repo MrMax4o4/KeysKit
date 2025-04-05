@@ -1,0 +1,9 @@
+{
+  "name": "Demandbase",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token'",
+  "url": "https://gateway.demandbase.com/api/v1/accounts/fields",
+  "body": "",
+  "note": "",
+  "description": "Demandbase is a leader in Account Based Marketing (ABM) Software, Go to Market (GTM) Tools, B2B Advertising Platform, and B2B Data. Demandbase is the Smarter GTM™ company for B2B brands. We help marketing and sales teams overcome the disruptive data an..."
+}

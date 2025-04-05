@@ -1,0 +1,9 @@
+{
+  "name": "Crunchbase",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.crunchbase.com/api/v4/entities/organizations/crunchbase?user_key=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "Crunchbase is the leading destination for company insights from early stage startups to the Fortune 1000. Get insights into your competition. Uncover startup trends, get company funding data. Find new prospects, beat competitors and quotas. Crunchbase ..."
+}

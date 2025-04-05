@@ -1,0 +1,9 @@
+{
+  "name": "Bugsnag",
+  "method": "GET",
+  "header": "'Authorization':'token $API_Token','X-Version':'2'",
+  "url": "https://api.bugsnag.com/user/organizations",
+  "body": "",
+  "note": "",
+  "description": "BugSnag is an error monitoring and reporting software with best in class functionality for mobile apps. Our tool alerts users of bugs, errors & more. Bugsnag automatically detects errors in your web and mobile apps, helping you to understand and fix th..."
+}

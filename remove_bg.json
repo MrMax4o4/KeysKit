@@ -1,0 +1,9 @@
+{
+  "name": "remove.bg",
+  "method": "GET",
+  "header": "'accept':'*/*','X-API-Key':'$API_KEY'",
+  "url": "https://api.remove.bg/v1.0/account",
+  "body": "",
+  "note": "",
+  "description": "Remove Background from Image for Free – remove.bg Remove image backgrounds automatically in 5 seconds with just one click. Don't spend hours manually picking pixels. Upload your photo now & see the magic. Thanks to remove.bg's clever AI, you can slash ..."
+}

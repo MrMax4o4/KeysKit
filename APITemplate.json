@@ -1,0 +1,9 @@
+{
+  "name": "APITemplate",
+  "method": "GET",
+  "header": "'X-API-KEY':'$API_key'",
+  "url": "https://api.apitemplate.io/v1/list-templates",
+  "body": "",
+  "note": "",
+  "description": "APITemplate.io is a platform that allows users to generate images and PDFs using a simple API or integration with Zapier, Integromat, n8n, or Rest API. It supports exporting files to different formats through RESTful API calls and provides a drag and d..."
+}

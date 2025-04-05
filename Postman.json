@@ -1,0 +1,9 @@
+{
+  "name": "Postman",
+  "method": "GET",
+  "header": "'X-Api-Key':'$API_Key'",
+  "url": "https://api.getpostman.com/me",
+  "body": "",
+  "note": "",
+  "description": "Postman is an API platform for developers to design, build, test and iterate their APIs. As of April 2022, Postman reports having more than 20 million registered users and 75,000 open APIs, which it says constitutes the world's largest public API hub. ..."
+}

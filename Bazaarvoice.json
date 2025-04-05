@@ -1,0 +1,9 @@
+{
+  "name": "Bazaarvoice",
+  "method": "GET",
+  "header": "",
+  "url": "https://which-cpv-api.bazaarvoice.com/clientInfo?conversationspasskey=$Passkey",
+  "body": "",
+  "note": "",
+  "description": "Bazaarvoice enables brands and retailers to leverage the voice of the customer, manage user generated content at scale, and engage shoppers from discovery to purchase. Bazaarvoice helps brands and retailers find and reach consumers, and win them with t..."
+}

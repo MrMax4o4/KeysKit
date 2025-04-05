@@ -1,0 +1,9 @@
+{
+  "name": "StackShare",
+  "method": "POST",
+  "header": "'accept':'application/json','x-api-key':'$API_Key'",
+  "url": "https://api.stackshare.io/graphql",
+  "body": "",
+  "note": "",
+  "description": "StackShare is a Tech Stack Intelligence platform and community helping teams to make data driven technology decisions. StackShare is the fastest growing community for SaaS tools - we show you all the software a company is using and why. We're a develop..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "ChartMogul",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.chartmogul.com/v1/data_sources",
+  "body": "",
+  "note": "Base64 encode \"{YOUR-API-KEY}:\"",
+  "description": "ChartMogul is an analytics platform to simplify your subscription business. You get a complete overview of your global subscriber base; MRR, ARPU, ASP, churn and LTV are presented in a beautiful and easy to use dashboard. Our mission is to build powerf..."
+}

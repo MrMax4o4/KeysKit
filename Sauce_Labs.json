@@ -1,0 +1,9 @@
+{
+  "name": "Sauce Labs",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.eu-central-1.saucelabs.com/rest/v1/info/status",
+  "body": "",
+  "note": "Base64 encode as following \"{SAUCE_USERNAME}:{SAUCE_ACCESS_KEY}\"",
+  "description": "Sauce Labs is the world's largest continuous testing cloud for web and mobile applications. They provide a cloud-based platform for automated testing, helping organizations achieve success with Continuous Integration and Delivery. With Sauce Labs, user..."
+}

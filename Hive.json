@@ -1,0 +1,9 @@
+{
+  "name": "Hive",
+  "method": "GET",
+  "header": "'accept':'application/json','authorization':'token $Auth_Token'",
+  "url": "https://api.thehive.ai/api/v1/tasks",
+  "body": "",
+  "note": "",
+  "description": "Hive is a leading provider of cloud-based AI solutions for understanding content. They offer pre-trained AI models for content tagging and intelligent search capabilities, serving billions of customer API requests every month. Hive's turnkey software a..."
+}

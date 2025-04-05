@@ -1,0 +1,9 @@
+{
+  "name": "Amdoren",
+  "method": "GET",
+  "header": "",
+  "url": "https://www.amdoren.com/api/currency.php?api_key=$API_Key&from=USD&to=EUR",
+  "body": "",
+  "note": "",
+  "description": "Amdoren is a company that provides weather forecasts, currency exchange rates, and world time information through mobile apps and APIs."
+}

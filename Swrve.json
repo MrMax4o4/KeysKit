@@ -1,0 +1,9 @@
+{
+  "name": "Swrve",
+  "method": "POST",
+  "header": "'content-type':'application/x-www-form-urlencoded'",
+  "url": "https://$app_id.api.swrve.com/1/user",
+  "body": "api_key=$API_Key&user=$User_ID&level=7",
+  "note": "",
+  "description": "Swrve is a cross-channel marketing platform that enables brands to connect and interact with customers in an increasingly mobile-centric world. Their integrated Mobile Engagement Platform allows enterprise organizations to deliver compelling mobile exp..."
+}

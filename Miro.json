@@ -1,0 +1,8 @@
+{
+  "name": "Miro",
+  "method": "GET",
+  "header": "'authorization':'Bearer $Access_Token'",
+  "url": "https://api.miro.com/v1/oauth-token",
+  "body": "",
+  "description": "Miro is a visual workspace for innovation where teams manage projects, design products, and build the future together. Miro empowers 60M users to shape the future by providing a place where they can create together seamlessly, regardless of location. E..."
+}

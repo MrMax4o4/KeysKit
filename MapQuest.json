@@ -1,0 +1,1 @@
+{"name":"MapQuest","method":"GET","header":"","url":"https://www.mapquestapi.com/datamanager/v2/get-column-types?key=$API_KEY","body":"","note":"","description":""}

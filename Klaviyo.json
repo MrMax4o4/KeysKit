@@ -1,0 +1,9 @@
+{
+  "name": "Klaviyo",
+  "method": "GET",
+  "header": "'Authorization':'Klaviyo-API-Key $Private_API_key','revision':'2023-10-15'",
+  "url": "https://a.klaviyo.com/api/accounts/",
+  "body": "",
+  "note": "",
+  "description": "Klaviyo is a marketing automation platform that provides intelligent email marketing, SMS, and customer data platform (CDP) services. With Klaviyo, businesses can turn their customer data into hyper-personalized messages to drive faster and more effici..."
+}

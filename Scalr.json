@@ -1,0 +1,9 @@
+{
+  "name": "Scalr",
+  "method": "GET",
+  "header": "'Prefer':'profile=preview','accept':'application/vnd.api+json','authorization':'Bearer $Access_Token'",
+  "url": "https://$Company_Name.scalr.io/api/iacp/v3/users",
+  "body": "",
+  "note": "",
+  "description": "Scalr is a cloud management platform that helps enterprises optimize and control their cloud infrastructure. With Scalr, businesses can automate the provisioning and scaling of resources across multiple cloud providers, ensuring cost efficiency and hig..."
+}

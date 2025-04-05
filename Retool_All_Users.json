@@ -1,0 +1,9 @@
+{
+	"name": "Retool - All Users",
+	"method": "GET",
+	"header": "'Authorization':'Bearer $API_Token'",
+	"url": "https://retool.com/api/v2/users",
+	"body": "",
+	"note": "",
+	"description": "Retool is the fastest way to build effective business software. Use Retool's building blocks to develop apps and workflow automations that connect to your databases and APIs, instantly. Build internal tools, remarkably fast. Run Retool on your own infr..."
+}

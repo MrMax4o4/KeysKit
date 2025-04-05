@@ -1,0 +1,9 @@
+{
+  "name": "Scanii",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.scanii.com/v2.1/ping",
+  "body": "",
+  "note": "Base64 encode \"{API_KEY:API_SECRET}\"",
+  "description": "Scanii is a content identification service that provides a simple REST API to identify malware, inappropriate images, and language. It helps stop dangerous content from reaching your services and protects your customers against malware and other inappr..."
+}

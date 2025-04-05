@@ -1,0 +1,9 @@
+{
+  "name": "APImetrics",
+  "method": "GET",
+  "header": "",
+  "url": "https://client.apimetrics.io/api/2/calls/?_token=$API_Token",
+  "body": "",
+  "note": "",
+  "description": "APImetrics is a low code platform for API metrics, security, performance, SLA tracking and governance monitoring for the APIs you provide or depend on. APImetrics gives you unrivaled insight into how critical APIs, micro services, web services and othe..."
+}

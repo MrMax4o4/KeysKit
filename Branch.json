@@ -1,0 +1,9 @@
+{
+  "name": "Branch",
+  "method": "GET",
+  "header": "",
+  "url": "https://api2.branch.io/v1/app/$API_Key?branch_secret=$API_Secret",
+  "body": "",
+  "note": "",
+  "description": "Branch is a mobile growth and attribution platform for enterprises and brands. They provide deep linking and mobile attribution solutions for app developers and marketers. Their platform enables link-based user experiences, ranging from smart app banne..."
+}

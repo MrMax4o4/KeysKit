@@ -1,0 +1,9 @@
+{
+  "name": "npm",
+  "method": "GET",
+  "header": "'authorization':'Bearer $Access_Token'",
+  "url": "https://registry.npmjs.org/-/whoami",
+  "body": "",
+  "note": "",
+  "description": "npm is a package manager for JavaScript. It provides an open source software and web registry for software developers to discover, share, and reuse packages of code. With over 10 million users worldwide, npm's registry downloads have grown significantl..."
+}

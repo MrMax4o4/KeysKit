@@ -1,0 +1,9 @@
+{
+  "name": "Twilio",
+  "method": "POST",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.twilio.com/2010-04-01/Accounts.json",
+  "body": "",
+  "note": "Base64 encode as following \"{TWILIO_ACCOUNT_SID}:{TWILIO_AUTH_TOKEN}\"",
+  "description": "Twilio is a cloud communication company that enables users to use standard web languages to build voice, VoIP and SMS apps via a web API. Twilio offers a range of communication APIs for SMS, voice, video, and authentication. Developers and businesses c..."
+}

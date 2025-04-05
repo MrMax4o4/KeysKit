@@ -1,0 +1,9 @@
+{
+  "name": "AssemblyAI",
+  "method": "GET",
+  "header": "'authorization':'$API_Key'",
+  "url": "https://api.assemblyai.com/v2/transcript?limit=200&status=completed",
+  "body": "",
+  "note": "",
+  "description": "AssemblyAI is a company that provides AI models for transcribing and understanding speech. Their industry-leading Speech AI models allow users to transcribe speech to text and extract insights from voice data. They offer a simple API for accessing powe..."
+}

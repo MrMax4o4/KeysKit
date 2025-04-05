@@ -1,0 +1,9 @@
+{
+  "name": "Watsi",
+  "method": "GET",
+  "header": "",
+  "url": "https://watsi.org/profile/$Access_Token.json",
+  "body": "",
+  "note": "",
+  "description": "Watsi allows anyone to directly fund life changing healthcare for people around the world. We're building technology to create a world where everyone has access to healthcare. Watsi is a crowdfunding platform that enables anyone to directly fund low co..."
+}

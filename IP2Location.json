@@ -1,0 +1,9 @@
+{
+  "name": "IP2Location",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.ip2location.io/?key=$API_Key&ip=$IP",
+  "body": "",
+  "note": "",
+  "description": "IP2Location is a company that provides a fast and accurate IP Geolocation API tool. Their tool allows users to determine a user's location by using their IP address. The geolocation information can be used in various use cases. The company also offers ..."
+}

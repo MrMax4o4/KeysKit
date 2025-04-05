@@ -1,0 +1,9 @@
+{
+  "name": "Extractor API",
+  "method": "GET",
+  "header": "",
+  "url": "https://extractorapi.com/api/v1/search/?apikey=$API_Key&search_term=otters",
+  "body": "",
+  "note": "",
+  "description": "Extractor API is a text extraction platform that allows users to extract clean text data and metadata from articles, structured and unstructured webpages, and PDFs. With a simple API request or the use of their visual web tool, Extractor API handles IP..."
+}

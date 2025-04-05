@@ -1,0 +1,9 @@
+{
+  "name": "Snapdocs",
+  "method": "GET",
+  "header": "'Content-Type':'application/json','X-AUTH-TOKEN':'$api_key'",
+  "url": "https://staging.snapdocs.com/mobile_notary_api/v1/clients",
+  "body": "",
+  "note": "",
+  "description": "Snapdocs is the #1 eClosing platform for mortgage. They provide fast, convenient, and error-free eClosings with their digital mortgage closing solution. Snapdocs helps lenders, title and escrow companies, signing services, and notary publics collaborat..."
+}

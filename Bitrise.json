@@ -1,0 +1,9 @@
+{
+  "name": "Bitrise",
+  "method": "GET",
+  "header": "'Authorization':'$API_Key'",
+  "url": "https://api.bitrise.io/v0.1/me",
+  "body": "",
+  "note": "",
+  "description": "Continuous Integration and Delivery (CI/CD) Platform | Bitrise Streamline your mobile development process with Bitrise. The Mobile DevOps platform that helps you build, test, and deploy your apps quickly and reliably. Bitrise   Mobile Continuous Integr..."
+}

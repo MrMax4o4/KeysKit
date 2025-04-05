@@ -1,0 +1,9 @@
+{
+  "name": "Host IO",
+  "method": "GET",
+  "header": "",
+  "url": "https://host.io/api/full/facebook.com?token=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "Host.io is a domain data provider that offers comprehensive domain name data, including backlink, redirect, website, and IP address data for any domain name. They provide an API and data download options for easy access to the data. Host.io is built fo..."
+}

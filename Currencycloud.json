@@ -1,0 +1,9 @@
+{
+  "name": "Currencycloud",
+  "method": "POST",
+  "header": "'Content-Type':'application/json'",
+  "url": "https://devapi.currencycloud.com/v2/authenticate/api",
+  "body": "{login_id: $Email,api_key: $API_Key}",
+  "note": "",
+  "description": "Currencycloud is a global payments platform built on smart technology that takes the complexity out of moving money. Currency Cloud is a B2B platform providing administration and control features to automate the entire payments lifecycle of businesses...."
+}

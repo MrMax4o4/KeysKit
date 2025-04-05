@@ -1,0 +1,9 @@
+{
+  "name": "Asana",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token'",
+  "url": "https://app.asana.com/api/1.0/users/me",
+  "body": "",
+  "note": "",
+  "description": "Asana is a web and mobile application designed to help teams improve communication, organization, and collaboration. It allows teams to track their work, from tasks and projects to conversations and dashboards, enabling them to move work forward. Asana..."
+}

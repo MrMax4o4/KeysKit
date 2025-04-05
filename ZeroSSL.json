@@ -1,0 +1,9 @@
+{
+  "name": "ZeroSSL",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.zerossl.com/certificates?access_key=$API_KEY",
+  "body": "",
+  "note": "",
+  "description": "ZeroSSL is a company that provides free SSL certificates and SSL tools. They offer instant online issuance of SSL certificates, support for ACME clients, SSL monitoring, quick validation, and automated SSL renewal through their ZeroSSL Bot or REST API...."
+}

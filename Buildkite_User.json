@@ -1,0 +1,9 @@
+{
+	"name": "Buildkite - User",
+	"method": "GET",
+	"header": "'Authorization':'Bearer $API_Token'",
+	"url": "https://api.buildkite.com/v2/user",
+	"body": "",
+	"note": "",
+	"description": "Buildkite is a platform for running fast, secure, and scalable continuous integration pipelines on your own infrastructure. Buildkite creates the best automation and collaboration tools for building and shipping software. It offers powerful and flexibl..."
+}

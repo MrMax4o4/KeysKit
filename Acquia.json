@@ -1,0 +1,9 @@
+{
+  "name": "Acquia",
+  "method": "POST",
+  "header": "'Content-Type':'application/x-www-form-urlencoded'",
+  "url": "https://accounts.acquia.com/api/auth/oauth/token",
+  "body": "client_id=$Client_ID&client_secret=$Client_Secret&grant_type=client_credentials",
+  "note": "",
+  "description": "Acquia provides the leading cloud platform for building, delivering, and optimizing digital experiences. Acquia helps businesses think ahead and transform to meet the ever changing needs of the digital world. Acquia is the leading provider of cloud bas..."
+}

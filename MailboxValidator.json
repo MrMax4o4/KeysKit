@@ -1,0 +1,9 @@
+{
+  "name": "MailboxValidator",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.mailboxvalidator.com/v1/email/free?email=$Email&key=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "MailboxValidator is an email validation service that helps clean up email lists and reduce bounce rates. It offers a variety of key features, including syntax checking, DNS checking, MX server checking, free email checking, and bulk email address valid..."
+}

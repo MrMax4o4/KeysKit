@@ -1,0 +1,9 @@
+{
+  "name": "Outreach",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $JWT_Token'",
+  "url": "https://api.outreach.io/api/v2/accounts",
+  "body": "",
+  "note": "",
+  "description": "Outreach is the leading sales execution platform that helps market facing teams efficiently create and predictably close more pipeline. From prospecting to deal management to forecasting, our platform leverages automation and artificial intelligence to..."
+}

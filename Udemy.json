@@ -1,0 +1,9 @@
+{
+  "name": "Udemy",
+  "method": "GET",
+  "header": "'Authorization':'bearer $Secret_Token'",
+  "url": "https://www.udemy.com/instructor-api/v1/taught-courses/courses/",
+  "body": "",
+  "note": "",
+  "description": "Udemy is a global marketplace for learning and teaching online. Start learning a new skill today: We believe anyone can build the life they imagine through online learning. Today, more than 17 million students around the world are advancing their caree..."
+}

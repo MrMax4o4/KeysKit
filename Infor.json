@@ -1,0 +1,9 @@
+{
+  "name": "Infor",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_KEY'",
+  "url": "https://api.infor.com/v1/spaces/",
+  "body": "",
+  "note": "",
+  "description": "Infor is a global leader in business cloud software specialized by industry. They offer simplified and preconfigured ERP solutions that are industry-specific for fast implementation. Infor builds business software for specific industries in the cloud, ..."
+}

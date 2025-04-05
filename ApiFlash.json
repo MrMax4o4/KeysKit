@@ -1,0 +1,9 @@
+{
+  "name": "ApiFlash",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.apiflash.com/v1/urltoimage/quota?access_key=$Access_Key",
+  "body": "",
+  "note": "",
+  "description": "ApiFlash is a website screenshot API that is designed to be pixel perfect and massively scalable. It allows users to capture full page screenshots, mobile screenshots, and control the viewport size. The API is built on top of AWS Lambda, ensuring stabi..."
+}

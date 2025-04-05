@@ -1,0 +1,9 @@
+{
+  "name": "MarketStack",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.marketstack.com/v1/eod?access_key=$API_Key&symbols=AAPL",
+  "body": "",
+  "note": "",
+  "description": "MarketStack is a company that provides real-time and historical stock market data through a REST API. They offer free access to data for over 100,000 stock tickers, with 72 exchanges and 30+ years of historical data. In addition to stock data, MarketSt..."
+}

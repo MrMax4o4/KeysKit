@@ -1,0 +1,9 @@
+{
+  "name": "Quip",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Key'",
+  "url": "https://platform.quip.com/1/users/contacts",
+  "body": "",
+  "note": "",
+  "description": "Quip is a real-time collaborative platform that provides documents, spreadsheets, and chat embedded inside Salesforce. It offers a mobile productivity suite that enables collaboration on any device. Quip combines chat, documents, spreadsheets, checklis..."
+}

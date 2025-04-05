@@ -1,0 +1,9 @@
+{
+  "name": "Pixlee",
+  "method": "GET",
+  "header": "'accept':'application/json'",
+  "url": "https://distillery-analytics.pixlee.com/v1/accounts/account_id/customers?page=1&ipp=30&api_key=$API_KEY",
+  "body": "",
+  "note": "",
+  "description": "Pixlee TurnTo is the leading Social User Generated Content (UGC), Ratings & Reviews, and Influencer Marketing platform. Pixlee is a visual marketing platform that helps brands market and sell with real customer photos and videos. Pixlee TurnTo was acqu..."
+}

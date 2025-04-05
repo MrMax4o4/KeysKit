@@ -1,0 +1,9 @@
+{
+  "name": "Weglot",
+  "method": "POST",
+  "header": "'Content-Type':'application/json'",
+  "url": "https://api.weglot.com/translate?api_key=$api_key",
+  "body": "{'l_from':'en','l_to':'fr','request_url':'https://example.com/','words':[{'w':'This is a blue car', 't': 1},{'w':'This is a black car', 't': 1}]}",
+  "note": "",
+  "description": "Weglot is a SaaS tech start up that turns any website into a multilingual one. Offering a simple and user friendly interface to let users manage translations. We're building the best multilingual service for web applications owners. With our API based ..."
+}

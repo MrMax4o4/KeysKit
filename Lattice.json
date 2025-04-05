@@ -1,0 +1,9 @@
+{
+  "name": "Lattice",
+  "method": "GET",
+  "header": "'accept':'application/json','authorization':'Bearer $Token'",
+  "url": "https://api.latticehq.com/v1/users",
+  "body": "",
+  "note": "",
+  "description": "Lattice is a people management platform that empowers leaders to build engaged, high performing teams, inspire winning cultures, and make strategic, data-driven business decisions. With Lattice, it’s easy to launch 360 performance review cycles and eng..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Binance",
+  "method": "GET",
+  "header": "'X-MBX-APIKEY':'$API_Key'",
+  "url": "https://api.binance.com/api/v3/account",
+  "body": "",
+  "note": "",
+  "description": "Binance is the world’s leading blockchain and cryptocurrency infrastructure provider with a financial product suite that includes the largest digital asset exchange by volume. Trusted by millions worldwide, the Binance platform is dedicated to increasi..."
+}

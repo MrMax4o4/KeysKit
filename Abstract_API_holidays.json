@@ -1,0 +1,9 @@
+{
+	"name": "Abstract API - holidays",
+	"method": "GET",
+	"header": "",
+	"url": "https://holidays.abstractapi.com/v1/?api_key=$API_Key&country=GB&year=2021&month=1&day=25",
+	"body": "",
+	"note": "",
+	"description": "Abstract provides powerful APIs to help you enrich any user experience or automate any workflow. Used by 10,000+ developers worldwide. Abstract API Automate your work with high quality / high availability APIs. Explore the essentials of validating 10 d..."
+}

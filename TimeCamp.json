@@ -1,0 +1,9 @@
+{
+  "name": "TimeCamp",
+  "method": "GET",
+  "header": "'Accept':'application/json','Authorization':'Bearer $API_Key'",
+  "url": "https://app.timecamp.com/third_party/api/users",
+  "body": "",
+  "note": "",
+  "description": "TimeCamp is a software company that creates time tracking and productivity software for businesses and individuals. Their flagship product, TimeCamp, is an online time tracking and invoicing software that helps users control and optimize work time with..."
+}

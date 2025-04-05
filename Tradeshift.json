@@ -1,0 +1,9 @@
+{
+  "name": "Tradeshift",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Token'",
+  "url": "https://api-sandbox.tradeshift.com/tradeshift/rest/external/account/users",
+  "body": "",
+  "note": "",
+  "description": "Tradeshift is a global business commerce platform that connects buyers and suppliers, enabling them to transact, connect, and collaborate with each other. The platform offers source-to-pay software and B2B eCommerce solutions, challenging the tradition..."
+}

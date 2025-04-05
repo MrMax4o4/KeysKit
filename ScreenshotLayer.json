@@ -1,0 +1,9 @@
+{
+  "name": "ScreenshotLayer",
+  "method": "GET",
+  "header": "",
+  "url": "http://api.screenshotlayer.com/api/capture?access_key=$API_Key&url=URL",
+  "body": "",
+  "note": "",
+  "description": "screenshotlayer.com provides a free and powerful Screenshot API that allows users to capture high-resolution screenshots of any website. The API supports various settings such as preferred thumbnail dimensions, viewport, CSS injection, capturing delay,..."
+}

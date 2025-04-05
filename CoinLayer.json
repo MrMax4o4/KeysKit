@@ -1,0 +1,9 @@
+{
+  "name": "CoinLayer",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.coinlayer.com/live?access_key=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "coinlayer.com is a powerful cryptocurrency rates JSON API that provides real-time crypto exchange rate and conversion data for more than 25 exchanges and 385 coins worldwide. It offers accurate and consistent data sourced from reliable crypto exchange ..."
+}

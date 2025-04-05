@@ -1,0 +1,9 @@
+{
+  "name": "Mailchimp",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://us21.api.mailchimp.com/3.0/campaigns?count=10",
+  "body": "",
+  "note": "Basde64 encode \"anytext:Your_API_Key\"",
+  "description": "Mailchimp is an email marketing service that helps businesses with their marketing newsletters, automated messages, and targeted campaigns. They offer a platform that allows users to send personalized emails, conduct SMS marketing, and reach customers ..."
+}

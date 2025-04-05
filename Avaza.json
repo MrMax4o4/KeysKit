@@ -1,0 +1,9 @@
+{
+  "name": "Avaza",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Secret'",
+  "url": "https://api.avaza.com/api/Account",
+  "body": "",
+  "note": "",
+  "description": "Avaza is a Unified Work Management software for Teams, with Project Management, Planning, Chat, Time & Expense Tracking, Quotes & Invoices. Avaza is the seamless, all in one platform to collaborate on projects, chat, schedule resources, track time, man..."
+}

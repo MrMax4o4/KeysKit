@@ -1,0 +1,9 @@
+{
+  "name": "Stitchdata",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Token'",
+  "url": "https://api.stitchdata.com/notifications/public/v1/api/hooks",
+  "body": "",
+  "note": "",
+  "description": "Stitch is an ETL service built for developers. It connects data from SaaS platforms like Salesforce and Facebook Ads to cloud data warehouses like Amazon Redshift, Google BigQuery, and Snowflake. Stitch can consolidate data from more than 120 cloud and..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "PDFLayer",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.pdflayer.com/api/convert?access_key=$API_Key&document_url=$URL",
+  "body": "",
+  "note": "",
+  "description": "pdflayer.com is a company that provides a free and powerful HTML to PDF API. Their API supports both URL and raw HTML conversion, allowing users to convert documents of any size using any programming language. The conversion process is lightning fast a..."
+}

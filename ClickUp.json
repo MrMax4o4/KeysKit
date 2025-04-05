@@ -1,0 +1,9 @@
+{
+  "name": "ClickUp",
+  "method": "GET",
+  "header": "'Authorization':'$API_Key'",
+  "url": "https://api.clickup.com/api/v2/user",
+  "body": "",
+  "note": "",
+  "description": "ClickUp is a productivity platform that offers project management software for teams. Their apps are available on web, iOS, and Android. ClickUp aims to bring teams, tasks, and tools together in one place, saving time and boosting team energy. With Cli..."
+}

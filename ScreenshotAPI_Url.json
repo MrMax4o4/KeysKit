@@ -1,0 +1,9 @@
+{
+	"name": "ScreenshotAPI - Url",
+	"method": "GET",
+	"header": "",
+	"url": "https://shot.screenshotapi.net/screenshot?token=$API_Token&url=https://apple.com&scrolling_screenshot=true",
+	"body": "",
+	"note": "",
+	"description": "HD Website Screenshot API | ScreenshotAPI.net Capture HD screenshots for any website in seconds with Screenshot API. We support webp, jpeg, pdf, and more rendered on real Chrome browsers. No More Headaches Go from sign up to programmatic screenshot in ..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Sonar",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://sonarcloud.io/api/authentication/validate",
+  "body": "",
+  "note": "Base64 encode as following \"{API_Token}:\"",
+  "description": "Sonar is a company that provides products and services to help developers and development teams write clean and high-quality code. Their solutions, including SonarLint, SonarCloud, and SonarQube, support 30 programming languages and are trusted by 7 mi..."
+}

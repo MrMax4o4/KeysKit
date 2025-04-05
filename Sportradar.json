@@ -1,0 +1,9 @@
+{
+  "name": "Sportradar",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.sportradar.us/nfl/official/trial/v5/en/games/2019/reg/schedule.xml?api_key=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "Real time, accurate sports statistics and sports content that is seamlessly integrated. We live at the intersection of sports and technology by providing API feeds, digital widgets, and other innovative sports data solutions for our partners. Sportrada..."
+}

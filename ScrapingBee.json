@@ -1,0 +1,9 @@
+{
+  "name": "ScrapingBee",
+  "method": "GET",
+  "header": "",
+  "url": "https://app.scrapingbee.com/api/v1/?api_key=$API_KEY&url=$YOUR_URL",
+  "body": "",
+  "note": "",
+  "description": "ScrapingBee is a web scraping API that handles proxies and headless browsers for you, allowing you to focus on extracting the data you need. With the ability to handle thousands of headless instances using the latest Chrome version, ScrapingBee simplif..."
+}

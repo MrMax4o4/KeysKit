@@ -1,0 +1,9 @@
+{
+  "name": "Lever",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.lever.co/v1/users",
+  "body": "",
+  "note": "Base64 encode \"{API_KEY}:\"",
+  "description": "Lever is a recruiting software company that provides an applicant tracking system (ATS) with candidate relationship management capabilities. Their software, LeverTRM, empowers hiring teams to streamline their recruiting efforts and convert qualified ca..."
+}

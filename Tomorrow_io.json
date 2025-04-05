@@ -1,0 +1,9 @@
+{
+  "name": "Tomorrow.io",
+  "method": "GET",
+  "header": "'accept':'application/json'",
+  "url": "https://api.tomorrow.io/v4/weather/realtime?location=toronto&apikey=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "Tomorrow.io is the world’s leading Weather and Climate Security Platform, equipping humanity with the weather intelligence needed to thrive and adapt in an era of climate crisis. Through predictive and actionable insights, teams adapt to any weather re..."
+}

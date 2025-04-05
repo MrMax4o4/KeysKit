@@ -1,0 +1,9 @@
+{
+  "name": "Dyspatch",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_key','Accept':'application/vnd.dyspatch.2023.03+json'",
+  "url": "https://api.dyspatch.io/workspaces",
+  "body": "",
+  "note": "",
+  "description": "Dyspatch is a leading email production platform designed to help teams build engaging, interactive emails in minutes, without having to write code. Dyspatch is an industry leading solution for email production and management. With Dyspatch, you can bui..."
+}

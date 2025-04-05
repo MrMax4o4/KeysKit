@@ -1,0 +1,9 @@
+{
+  "name": "Handy",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_KEY'",
+  "url": "https://partners.services.handy.com/api/v1/orders",
+  "body": "",
+  "note": "",
+  "description": "Handy is a platform that provides house cleaning, home cleaning, furniture assembly, TV mounting, and other handyman services. Users can book these services through the Handy app, available on web, Android, and iOS. The platform connects users with top..."
+}

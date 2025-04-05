@@ -1,0 +1,9 @@
+{
+  "name": "Sportmonks",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.sportmonks.com/v3/football/fixtures/18535517?api_token=$API_token&include=events&filters=eventTypes:18",
+  "body": "",
+  "note": "",
+  "description": "Sportmonks is a Sports Data provider for customers that want to build sports websites and applications by using our Sports API's. The Sports Data can by used to build Livescore Portals, Betting websites/applications, Sports Fantasy Games or any other S..."
+}

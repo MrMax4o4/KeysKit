@@ -1,0 +1,9 @@
+{
+  "name": "Zeit",
+  "method": "GET",
+  "header": "'accept':'application/json','apiKey':'$API_Key'",
+  "url": "https://zeit.io/api/v1/usr",
+  "body": "",
+  "note": "",
+  "description": "ZEIT.IO is a company that provides digitization and automation services for businesses. They offer time tracking, invoicing, and project controlling solutions for agencies and freelancers. Their platform allows companies to manage employee and supplier..."
+}

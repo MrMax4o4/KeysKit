@@ -1,0 +1,8 @@
+{
+  "name": "APILayer",
+  "method": "GET",
+  "header": "",
+  "url": "https://apilayer.net/api/check?access_key=$Access_Key&email=$Email_Address",
+  "body": "",
+  "description": "APILayer is a leading provider of cloud API and SaaS brands trusted by close to 1 million customers — from developers, startups all the way to Fortune 500s. With a highly curated API marketplace, APILayer offers a wide range of APIs including AI & Mach..."
+}

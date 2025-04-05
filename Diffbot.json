@@ -1,0 +1,9 @@
+{
+  "name": "Diffbot",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.diffbot.com/v3/crawl?token=$API_Token",
+  "body": "",
+  "note": "",
+  "description": "Diffbot is a company that specializes in web data extraction and crawling using AI, computer vision, and machine learning. Their main product is a visual learning robot that can identify and extract important information from any web page. They offer v..."
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Pivotal Tracker - Tracker",
+	"method": "GET",
+	"header": "'X-TrackerToken':'$Access_TOKEN'",
+	"url": "https://www.pivotaltracker.com/services/v5/me?fields=%3Adefault",
+	"body": "",
+	"note": "",
+	"description": "Pivotal Tracker is an agile project management tool that provides simple and effective project management and team collaboration. It allows developers to collaborate in real-time around a shared, prioritized backlog. With Pivotal Tracker, teams can inc..."
+}

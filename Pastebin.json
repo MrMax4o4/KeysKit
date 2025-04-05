@@ -1,0 +1,9 @@
+{
+  "name": "Pastebin",
+  "method": "POST",
+  "header": "",
+  "url": "https://pastebin.com/api/api_post.php",
+  "body": "api_option=paste",
+  "note": "",
+  "description": "Pastebin.com is the number one paste tool since 2002. It is a website where you can store text online for a set period of time. It is mainly used by programmers to store pieces of code."
+}

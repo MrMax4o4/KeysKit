@@ -1,0 +1,9 @@
+{
+  "name": "Deepgram",
+  "method": "GET",
+  "header": "'Authorization':'Token $API_Key'",
+  "url": "https://api.deepgram.com/v1/projects",
+  "body": "",
+  "note": "",
+  "description": "Deepgram is a company that provides the best speech to text API for apps. They offer automatic speech recognition and language understanding capabilities through their powerful speech to text API. Deepgram's AI-based indexing and search in recorded aud..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Luma Health",
+  "method": "GET",
+  "header": "'Authorization':'bearer $Access_token'",
+  "url": "https://api.lumahealth.io/api/v2/users",
+  "body": "",
+  "note": "",
+  "description": "Luma Health is a Patient Success Platform that helps healthcare practices unify and automate patient journeys. It eliminates no shows, fills cancelled appointments, manages referrals, and boosts online reputations. Luma Health connects and orchestrates..."
+}

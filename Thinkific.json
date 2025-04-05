@@ -1,0 +1,9 @@
+{
+  "name": "Thinkific",
+  "method": "GET",
+  "header": "'X-Auth-API-Key':'$API_Key','X-Auth-Subdomain':'$Your_Subdomain','Content-Type':'application/json'",
+  "url": "https://api.thinkific.com/api/public/v1/users",
+  "body": "",
+  "note": "",
+  "description": "Create, Market & Sell with the #1 Online Course Platform: Thinkific Create online courses and membership sites with Thinkific and feel confident that you’ve got the easiest technology and the best support in the industry. Thinkific is a turn key online..."
+}

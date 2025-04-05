@@ -1,0 +1,9 @@
+{
+  "name": "BitcoinAverage",
+  "method": "GET",
+  "header": "'x-ba-key':'$API_Key'",
+  "url": "https://apiv2.bitcoinaverage.com/exchanges/ticker/bitstamp",
+  "body": "",
+  "note": "",
+  "description": "BitcoinAverage is a leading Bitcoin and Cryptocurrency Price Data Provider. It is known as the world's most respected and widely cited Bitcoin Price Index. BitcoinAverage offers historical price data and creates a global weighted average market price b..."
+}

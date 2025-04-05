@@ -1,0 +1,8 @@
+{
+  "name": "Mixmax",
+  "method": "GET",
+  "header": "'X-API-Token':'$API_Token'",
+  "url": "https://api.mixmax.com/v1/users/me",
+  "body": "",
+  "description": "Mixmax is the leading sales engagement platform for businesses using Gmail. It helps revenue teams accelerate revenue at every stage of the customer journey by automating repetitive tasks and organizing daily workflows. Mixmax empowers sales representa..."
+}

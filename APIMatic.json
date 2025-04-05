@@ -1,0 +1,9 @@
+{
+  "name": "APIMatic",
+  "method": "GET",
+  "header": "'Authorization':'X-Auth-Key $API_KEY','Accept':'application/json'",
+  "url": "https://api.apimatic.io/transformations",
+  "body": "",
+  "note": "",
+  "description": "APIMatic is a Developer Experience platform for APIs. Our mission is to make the integration of APIs quick and simple for developers via automatic code generation. The heart of APIMatic is a customisable CodeGen Engine, which simplifies API consumption..."
+}

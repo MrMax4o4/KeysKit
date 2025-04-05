@@ -1,0 +1,9 @@
+{
+  "name": "WeatherStack",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.weatherstack.com/current?access_key=$API_Key&query=New%20York",
+  "body": "",
+  "note": "",
+  "description": "weatherstack is a company that provides a Real Time World Weather REST API. They offer current weather information, historical data, and forecasts for millions of global locations. Their API covers global weather data, including multi-year history and ..."
+}

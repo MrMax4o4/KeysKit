@@ -1,0 +1,9 @@
+{
+	"name": "HubSpot - login",
+	"method": "GET",
+	"header": "'authorization':'Bearer $Access_Token'",
+	"url": "https://api.hubapi.com/account-info/v3/activity/login",
+	"body": "",
+	"note": "",
+	"description": "null"
+}

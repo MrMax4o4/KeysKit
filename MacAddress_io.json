@@ -1,0 +1,9 @@
+{
+  "name": "MacAddress.io",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.macaddress.io/v1?apiKey=$API_Key&output=json&search=$Mac_Address",
+  "body": "",
+  "note": "",
+  "description": "null"
+}

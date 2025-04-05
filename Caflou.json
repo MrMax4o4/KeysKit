@@ -1,0 +1,8 @@
+{
+  "name": "Caflou",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token'",
+  "url": "https://app.caflou.com/api/v1/accounts",
+  "body": "",
+  "description": "Caflou is an all-in-one business management system for companies with 1-100 people. It helps effectively manage teams, projects, customer relations, and finances. With Caflou, users can track cash flow, predict future development, reduce errors, improv..."
+}

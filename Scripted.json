@@ -1,0 +1,9 @@
+{
+  "name": "Scripted",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $Access_Token'",
+  "url": "https://api.scripted.com/$Organization_Key/v1/industries",
+  "body": "",
+  "note": "",
+  "description": "AI & Human Copywriting, Elevated for Enterprises | Scripted AI or human copywriting? Scripted empowers you to take the reins of your content strategy. Scripted connects companies with the best freelance writers online! The premium content writing servi..."
+}

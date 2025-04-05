@@ -1,0 +1,9 @@
+{
+  "name": "Atera",
+  "method": "GET",
+  "header": "'X-API-KEY':'$API_Key'",
+  "url": "https://app.atera.com/api/v3/agents",
+  "body": "",
+  "note": "",
+  "description": "Atera is a company that provides an all-in-one RMM (Remote Monitoring & Management) and PSA (Professional Services Automation) platform for IT professionals. Their software is designed to automate and streamline business processes, increase staff perfo..."
+}

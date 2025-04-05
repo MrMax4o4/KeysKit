@@ -1,0 +1,9 @@
+{
+	"name": "New Relic - Post",
+	"method": "POST",
+	"header": "'Content-Type':'application/json','API-Key':'$API_Key'",
+	"url": "https://api.newrelic.com/graphql",
+	"body": "{ 'query': '{ requestContext { userId apiKey } }' }",
+	"note": "",
+	"description": "New Relic is a software analytics company that makes sense of 250 billion data points daily from millions of applications. New Relic is a leading digital intelligence company, delivering full stack visibility and analytics to over 40% of the Fortune 10..."
+}

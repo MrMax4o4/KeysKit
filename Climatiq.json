@@ -1,0 +1,9 @@
+{
+  "name": "Climatiq",
+  "method": "GET",
+  "header": "'Authorization':'Bearer $API_Key'",
+  "url": "https://beta3.api.climatiq.io/search?query=light+duty+trucks&year=2021",
+  "body": "",
+  "note": "",
+  "description": "Climatiq is a company that provides an API and emission factors database for carbon footprint calculations. They drive climate action through data and insight by developing an open dataset of global emission data and the technical infrastructure needed..."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "IP Find",
+  "method": "GET",
+  "header": "",
+  "url": "https://app.ipfind.io/api/iplocation?apikey=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "ipfind is a company that provides an IP Location API and other IP tools to find complete information about all types of IP addresses, networks, domains, and IP address versions."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Statuspage",
+  "method": "GET",
+  "header": "'Authorization':'OAuth $Auth_Token'",
+  "url": "https://api.statuspage.io/v1/pages/rp03bmx8znxb.json",
+  "body": "",
+  "note": "",
+  "description": "Atlassian is a leading provider of collaboration software for teams with products including JIRA, Confluence, HipChat, Bitbucket and Stash. Support for Server products ends Feb. 15, 2024. Migrate to stay supported."
+}

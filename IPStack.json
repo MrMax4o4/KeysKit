@@ -1,0 +1,9 @@
+{
+  "name": "IPStack",
+  "method": "GET",
+  "header": "",
+  "url": "https://api.ipstack.com/$IP?access_key=$API_Key",
+  "body": "",
+  "note": "",
+  "description": "ipstack is a company that provides a free IP Geolocation API. Their API allows users to locate website visitors in real time using IP addresses. The service supports both IPv4 and IPv6 lookup. With ipstack, users can customize user experiences based on..."
+}

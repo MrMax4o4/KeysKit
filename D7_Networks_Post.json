@@ -1,0 +1,9 @@
+{
+	"name": "D7 Networks - Post",
+	"method": "POST",
+	"header": "'Content-Type':'application/x-www-form-urlencoded'",
+	"url": "https://api.d7networks.com/auth/v1/login/application",
+	"body": "client_id=$Client_Id&client_secret=$Client_Secret",
+	"note": "",
+	"description": "Direct7 Networks is a telecommunications company founded in 2012. They provide high-end quality SMS services for customers to deliver messages anywhere in 7 continents and 7 days of the week. Their focus is on transactional traffic, including banking O..."
+}

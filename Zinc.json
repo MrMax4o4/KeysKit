@@ -1,0 +1,9 @@
+{
+  "name": "Zinc",
+  "method": "GET",
+  "header": "'Authorization':'Basic $Basic_Auth'",
+  "url": "https://api.zinc.io/v1/clients",
+  "body": "",
+  "note": "Base64 encode as following \"{Client_Token}:\"",
+  "description": "Zinc API is a platform that allows users to place orders from various online retailers such as Amazon, Walmart, and AliExpress using a single API call. Users can customize their orders by specifying maximum fulfillable prices, selecting shipping method..."
+}
