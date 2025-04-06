@@ -1,1 +1,9 @@
-{"name":"15Five","method":"GET","header":"'Authorization':'$API_KEY'","url":"https://api.15five.com/api/public/hello","body":"","note":"","description":"15Five is a holistic performance management company that provides HR teams with a complete, single platform solution to improve manager effectiveness, drive high performance and engagement, and increase retention. They offer a full suite of products in..."}
+{
+  "name": "15Five",
+  "method": "GET",
+  "header": "Authorization:",
+  "url": "https://api.15five.com/api/public/hello",
+  "body": "",
+  "note": "",
+  "description": "15Five is a holistic performance management company that provides HR teams with a complete, single platform solution to improve manager effectiveness, drive high performance and engagement, and increase retention. They offer a full suite of products in..."
+}
