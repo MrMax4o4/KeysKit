@@ -1,4 +1,4 @@
-# 🔐 Keyskit — Smart API Key Verifier
+# 🔐 Keyskit — API Keys Validation
 
 [![Website](https://img.shields.io/badge/Visit-kkit.io-blue)](https://kkit.io)
 
