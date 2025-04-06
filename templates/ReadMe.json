@@ -1,5 +1,5 @@
 {
-  "name": "ReadMe",
+  "name": "Read Me",
   "method": "GET",
   "header": "'Authorization':'Basic $Basic_Auth'",
   "url": "https://dash.readme.com/api/v1",
