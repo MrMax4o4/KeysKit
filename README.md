@@ -10,7 +10,7 @@ Just select a provider, copy the command, and test it locally on your own termin
 
 ## ✨ Features?
 
-- 🧪 Generate `curl` commands instantly
+- 🧪 Ready-to-use `curl` commands copy & test
 - 🔍 Supports many common providers
 - ⚡ Lightweight and easy to use
 
@@ -24,7 +24,7 @@ Just select a provider, copy the command, and test it locally on your own termin
 
 ## 📸 Preview
 
-![Alt text](Assets/SiteScreenshot.png "Title")
+![SiteScreenshot](Assets/SiteScreenshot.png "SiteScreenshot")
 
 ---
 
