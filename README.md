@@ -24,7 +24,8 @@ Just select a provider, copy the command, and test it locally on your own termin
 
 ## 📸 Preview
 
-![Website Screenshot](https://kkit.io/assets/images/RepoImg.png "Website Screenshot")
+![Alt text](Assets/SiteScreenshot.png "Title")
+
 ---
 
 ## 🛠️ For Contributors
@@ -39,17 +40,6 @@ If you found this tool useful, consider buying me a coffee to support its develo
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-orange?logo=buy-me-a-coffee&style=flat-square)](https://www.buymeacoffee.com/kkit)
 
----
-## Contributors
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 ---
 ## ⚠️ Legal
 
