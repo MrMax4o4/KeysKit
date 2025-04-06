@@ -40,7 +40,17 @@ If you found this tool useful, consider buying me a coffee to support its develo
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-orange?logo=buy-me-a-coffee&style=flat-square)](https://www.buymeacoffee.com/kkit)
 
 ---
+## Contributors
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+---
 ## ⚠️ Legal
 
 Keyskit is meant for **educational and legitimate testing purposes only**. Always make sure you’re testing keys you own or have permission to test.
