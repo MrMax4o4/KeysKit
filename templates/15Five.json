@@ -1,7 +1,7 @@
 {
   "name": "15Five",
   "method": "GET",
-  "header": "Authorization:",
+  "header": "'Authorization':'Bearer $Access_Token'",
   "url": "https://api.15five.com/api/public/hello",
   "body": "",
   "note": "",
