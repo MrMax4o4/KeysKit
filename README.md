@@ -53,7 +53,7 @@ Each file should follow this JSON structure:
 ```
 
 ### 🧠 Tips
-- Use \$Variable format for any dynamic user input.
+- Use "\$Variable" format for any dynamic user input.
 - Add a helpful description so users understand what the API does.
 - If the body is empty, just use an empty string ("").
 - Only include public information — never add real API keys
