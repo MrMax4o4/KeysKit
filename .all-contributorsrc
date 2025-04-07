@@ -1,10 +1,24 @@
 {
-  "projectName": "keyskit",
+  "projectName": "KeysKit",
   "projectOwner": "MrMax4o4",
   "repoType": "public",
-  "contributors": [],
-  "files": ["README.md"],
+  "contributors": [
+    {
+      "login": "a7med-tal3at",
+      "name": "a7med-tal3at",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63285291?v=4",
+      "profile": "https://github.com/a7med-tal3at",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
   "commit": true,
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "commitType": "docs",
+  "commitConvention": "angular"
 }
