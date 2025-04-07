@@ -1,6 +1,17 @@
-# 🔐 Keyskit — API Keys Validation
+
+
+<div align="center" style="background: linear-gradient(135deg, #0a192f 0%, #1e3a8a 100%); padding: 2rem; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
+  
+# 🔐 KeysKit — API Keys Validation
+ <img src="https://raw.githubusercontent.com/MrMax4o4/testrepo/main/Assets/shield-lock.svg" width="28" style="filter: drop-shadow(0 0 2px #64ffda)">
 
 [![Website](https://img.shields.io/badge/Visit-kkit.io-blue)](https://kkit.io)
+
+[![Counter](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/MrMax4o4/KeysKit/contents/templates&label=ACTIVE%20TEMPLATES%20COUNT&query=%24.length&color=e6f1ff&style=for-the-badge&logo=github&logoColor=e6f1ff&labelColor=1a365d)](https://github.com/MrMax4o4/KeysKit/tree/main/templates)
+
+[![KeySkit Demo](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=1a365d&background=0a192f00&width=600&lines=curl-ready+API+checks+for+750%2B+providers;1-liner+verification+for+every+bounty+submission;Stop+wasting+time+on+dead+keys+-+validate+first;No+docs+digging+or+custom+scripts+needed&center=true&vCenter=true)](https://github.com/MrMax4o4/KeySkit)
+
+</div>
 
 **Keyskit** is a lightweight tool built for bug bounty hunters and developers to quickly test if an API key is valid — no need to dig through docs or write a script.
 
