@@ -8,7 +8,7 @@ Just select a provider, copy the command, and test it locally on your own termin
 
 ---
 
-## ✨ Features?
+## ✨ Features
 
 - 🧪 Ready-to-use `curl` commands copy & test
 - 🔍 Supports many common providers
@@ -28,10 +28,35 @@ Just select a provider, copy the command, and test it locally on your own termin
 
 ---
 
-## 🛠️ For Contributors
+## 🧩 Contribution Guidelines
 
-Want to add more providers or improve existing ones? Pull requests are welcome.
+We welcome your contributions! If you'd like to add a new API key template, please follow these simple rules:
 
+### 📁 File Naming
+- Use clear and consistent naming:  
+  e.g., `Stripe.json`, `Slack_API.json`, `AWS_Token.json`
+- File must be saved in the **Templates directory** of the repo.
+
+### 🔧 Template Structure
+Each file should follow this JSON structure:
+
+```json
+{
+  "name": "Provider Name - Auth Type",
+  "method": "GET or POST",
+  "header": "'Header-Key':'Value','Another-Header':'AnotherValue'",
+  "url": "https://api.provider.com/endpoint",
+  "body": "param1=$API_KEY&param2=value",
+  "note": "Optional notes or tips for users",
+  "description": "Brief explanation of the provider or endpoint purpose"
+}
+```
+
+### 🧠 Tips
+- Use \$Variable format for any dynamic user input.
+- Add a helpful description so users understand what the API does.
+- If the body is empty, just use an empty string ("").
+- Only include public information — never add real API keys
 ---
 
 ## 💖 Support the Project
