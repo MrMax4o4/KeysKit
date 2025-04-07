@@ -72,6 +72,19 @@ If you found this tool useful, consider buying me a coffee to support its develo
 Thanks goes to these wonderful people 🖋 🔣:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/a7med-tal3at"><img src="https://avatars.githubusercontent.com/u/63285291?v=4?s=100" width="100px;" alt="a7med-tal3at"/><br /><sub><b>a7med-tal3at</b></sub></a><br /><a href="#content-a7med-tal3at" title="Content">🖋</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Contributions of any kind are welcome!
