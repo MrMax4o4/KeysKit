@@ -3,7 +3,7 @@
 <div align="center" style="background: linear-gradient(135deg, #0a192f 0%, #1e3a8a 100%); padding: 2rem; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
   
 # 🔐 KeysKit — API Keys Validation
- <img src="https://raw.githubusercontent.com/MrMax4o4/testrepo/main/Assets/shield-lock.svg" width="28" style="filter: drop-shadow(0 0 2px #64ffda)">
+ <img src="https://raw.githubusercontent.com/MrMax4o4/KeysKit/main/Assets/shield-lock.svg" width="28" style="filter: drop-shadow(0 0 2px #64ffda)">
 
 [![Website](https://img.shields.io/badge/Visit-kkit.io-blue)](https://kkit.io)
 
