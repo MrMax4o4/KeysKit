@@ -7,7 +7,7 @@
 
 [![Website](https://img.shields.io/badge/Visit-kkit.io-blue)](https://kkit.io)
 
-[![Counter](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/MrMax4o4/KeysKit/contents/templates&label=ACTIVE%20TEMPLATES%20COUNT&query=%24.length&color=e6f1ff&style=for-the-badge&logo=github&logoColor=e6f1ff&labelColor=1a365d)](https://github.com/MrMax4o4/KeysKit/tree/main/templates)
+[![Counter](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/MrMax4o4/KeysKit/contents/templates&label=ACTIVE%20TEMPLATES&query=%24.length&color=e6f1ff&style=for-the-badge&logo=github&logoColor=e6f1ff&labelColor=1a365d)](https://github.com/MrMax4o4/KeysKit/tree/main/templates)
 
 [![KeySkit Demo](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=1a365d&background=0a192f00&width=600&lines=curl-ready+API+checks+for+750%2B+providers;1-liner+verification+for+every+bounty+submission;Stop+wasting+time+on+dead+keys+-+validate+first;No+docs+digging+or+custom+scripts+needed&center=true&vCenter=true)](https://github.com/MrMax4o4/KeySkit)
 
