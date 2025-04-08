@@ -1,0 +1,9 @@
+{
+  "name": "Azure Maps - API Key",
+  "method": "GET",
+  "header": "",
+  "url": "https://atlas.microsoft.com/search/address/json?api-version=1.0&query=$QUERY&subscription-key=$AZURE_KEY",
+  "body": "",
+  "note": "Replace $QUERY with the desired address query and $AZURE_KEY with the Azure Maps API key you want to test.",
+  "description": "This key allows access to Microsoft Azure Maps API. Leaking this type of key can result in direct financial costs to the account owner, as Microsoft does not refund unauthorized usage — unlike Google, which may offer exceptions in some cases."
+}
